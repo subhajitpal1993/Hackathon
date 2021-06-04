@@ -1,0 +1,1179 @@
+,cost_for_two,cuisines,locality,rest_name
+0,,"['Burger', 'American', 'Steak']","Ajman Sports Park, Al Hamidiya",71OZ Steakhouse
+1,,"['Indian', 'Biryani', 'North Indian', 'Kebab', 'Mughlai']","City Life Jurf, Al Jurf",Gazebo
+2,,"['Pakistani', 'North Indian']","Ajman One Towers, Al Rashidiya 3",Sindh Shahbaz Restaurant
+3,,"['Indian', 'Kebab', 'Biryani', 'Mughlai']",Al Rashidiya 2,Deccan Delight
+4,,"['Arabian', 'Middle Eastern']",Al Rashidiya 3,Bab Al Hara Restaurant
+5,,"['Turkish', 'Cafe']","Corniche Avenue, Ajman Corniche",Sultan Saray
+6,,"['Fast Food', 'Beverages']",Al Rashidiya 2,The Chai Stop
+7,,"['Indian', 'North Indian']","Ajman Hotel, Ajman Corniche",Bukhara - Ajman Hotel
+8,,"['Pakistani', 'Indian', 'Biryani', 'Kebab']",Nuaimiya,Masala And Co.
+9,,"['Indian', 'Mughlai', 'Pakistani']",Nuaimiya,Delhi Nihari Restaurant
+10,,"['Indian', 'South Indian']",Al Bustan,Curry Chatti Restaurant
+11,,"['Emirati', 'Arabian', 'Middle Eastern']","Al Zorah Golf Club, Al Zorah",The Grove Restaurant - Al Zorah Golf Club
+12,,"['Mandi', 'Arabian', 'Middle Eastern']","Ajman One Towers, Al Rashidiya 3",Al Rukn Al Arabi Mandi Restaurant
+13,,"['Arabian', 'Middle Eastern', 'Lebanese', 'Syrian']","Corniche Avenue, Ajman Corniche",Al Roof Restaurant & Cafe
+14,,['Seafood'],Ajman Corniche,Themar Al Bahar Restaurant
+15,,"['Sushi', 'Japanese']","Al Zorah Golf Club, Al Zorah",Litchy Sushi Lounge - Al Zorah Golf Club
+16,,"['Indian', 'Pakistani']",Al Rashidiya 3,Lahori Dera Restaurant
+17,,"['Pakistani', 'Biryani', 'Mughlai']",Nuaimiya,B4 Biryani Restaurant
+18,,"['Cafe', 'Italian', 'Desserts']",Al Jurf,The Secret Garden Cafe
+19,,"['Indian', 'Street Food', 'South Indian', 'North Indian']",Nuaimiya,Chandni Chowk Restaurant
+20,,"['Italian', 'Sushi']",Al Hamidiya,Food Box
+21,,"['Indian', 'South Indian', 'North Indian']",Al Nakhil 1,India House
+22,,"['Arabian', 'Emirati', 'Indian']","Ajman Sports Park, Al Hamidiya",Bezar
+23,,"['Arabian', 'Middle Eastern', 'Lebanese', 'Fast Food']","Ajman One Towers, Al Rashidiya 3",Al Farooj Al Shami
+24,,"['Cafe', 'European', 'Desserts', 'Bakery']",Al Jurf,La Villa Cafe
+25,,"['Indian', 'South Indian']",Al Rashidiya 3,Mister Idli Restaurant
+26,,"['Desserts', 'Ice Cream', 'Juices']",Al Bustan,Ice Berry
+27,,"['Indian', 'South Indian', 'North Indian']",Al Rashidiya 3,Achayan's Restaurant
+28,,"['International', 'Desserts']","Ramada Beach Hotel, Ajman Corniche",King's Grill - Ramada Beach Hotel
+29,,"['Italian', 'Fast Food']",Ajman Industrial Area,Pizza Inn
+30,,"['Fast Food', 'American']",Al Hamidiya,KFC
+31,,"['Indian', 'Italian', 'Arabian', 'Middle Eastern']",Ajman Corniche,Impero Restaurant
+32,,"['Indian', 'Chinese', 'Filipino']","Nuaimiya Towers, Nuaimiya",Simple Chef Restaurant
+33,,"['European', 'Italian', 'Arabian', 'Desserts', 'Cafe']","Al Zorah Golf Club, Al Zorah",Shakespeare and Co. - Al Zorah Golf Club
+34,,"['Indian', 'Pakistani']","Garden City, Al Hamidiya",Al Multan Restaurant & Kitchen
+35,,"['Pakistani', 'Afghan', 'Kebab', 'Biryani']",Al Rashidiya 1,Kabul Darbar
+36,,"['Arabian', 'Middle Eastern']",Nuaimiya,Tal Al Zaatar
+37,,['Finger Food'],"Ajman Hotel, Ajman Corniche",Zanzi Bar - Ajman Hotel
+38,,['International'],"Bahi Ajman Palace Hotel, Ajman Corniche",Arabesque -  Bahi Ajman Palace Hotel
+39,,"['Lebanese', 'Healthy Food', 'Street Food']","City Life Al Tallah Mall, Al Tallah",Manoushe Street
+40,,"['Turkish', 'Lebanese', 'Arabian', 'Middle Eastern']",Al Hamidiya,Al Ayaam Grills & Restaurant
+41,,"['Pakistani', 'Indian', 'North Indian', 'Chinese', 'Biryani', 'Grill']",Al Rashidiya 3,Karachi Darbar Restaurant
+42,,"['Indian', 'North Indian', 'Tea']",Al Rashidiya 3,Punjabi Dhaba
+43,,['Cafe'],Ajman Corniche,Tea Junction Cafe & Lounge
+44,,"['Indian', 'North Indian', 'Street Food']",Ajman Industrial Area,Tiffins By Sam
+45,,"['South Indian', 'North Indian', 'Fast Food']",Al Rashidiya 3,My Flower Restaurant
+46,,"['Arabian', 'Middle Eastern']",Ajman Corniche,Qdeemk Ndeemk
+47,,"['International', 'Pizza', 'Fast Food']",Al Hamidiya,Buddiez Restaurant
+48,,"['Fast Food', 'Lebanese', 'Beverages']","Corniche Tower, Ajman Corniche",FALAFEL - فلافل
+49,,['International'],Al Zorah,The View Restaurant
+50,,"['Fast Food', 'Burger', 'Juices', 'Mexican']",Al Hamidiya,Hot 'N' Cool
+51,,"['Indian', 'South Indian', 'Chinese']",Ajman Industrial Area,Panoor Restaurant
+52,,"['Indian', 'Biryani']",Al Rashidiya 2,Dukkan Biryani
+53,,['Chinese'],"Safeer Mall, Nuaimiya",Chowking
+54,,"['North Indian', 'South Indian', 'Biryani']",Al Rashidiya 1,Biryani Bhavan
+55,,"['Burger', 'Fast Food', 'Desserts']",Al Rumailah,Gourmet Box
+56,,"['Arabian', 'Middle Eastern']","Ajman Hotel, Ajman Corniche",Cafe Naseem - Ajman Hotel
+57,,"['Chinese', 'Indian', 'North Indian']",Al Bustan,China Town Restaurant
+58,,"['Fast Food', 'Pizza']","Emarat Petrol Station, Meshairef",Papa John's
+59,,"['Fast Food', 'Burger', 'Grill', 'Healthy Food', 'Beverages']","Rashidiya Towers, Al Rashidiya 2",Mizna's Cafeteria
+60,,"['Indian', 'Street Food']",Nuaimiya,Cook Serve Repeat Cafeteria
+61,,"['Italian', 'Cafe', 'Burger', 'Beverages']",Al Hamidiya,The Kitchen Station
+62,,"['Arabian', 'Middle Eastern']",Al Rashidiya 3,Al Amoor
+63,,"['North Indian', 'Chinese', 'Nepalese']",Al Rashidiya 2,Foodmandu Restaurant
+64,,"['Arabian', 'Middle Eastern']","Nuaimiya Towers, Nuaimiya",Al Bait Al Malaki
+65,,['Chinese'],"Safeer Mall, Nuaimiya",Chowking
+66,,"['Fast Food', 'Lebanese', 'Beverages']","Corniche Tower, Ajman Corniche",FALAFEL - فلافل
+67,,"['Indian', 'Biryani']",Al Rashidiya 2,Dukkan Biryani
+68,,"['Indian', 'North Indian', 'Tea']",Al Rashidiya 3,Punjabi Dhaba
+69,,['Pizza'],Al Rumailah,Pizza Hut
+70,,"['Pakistani', 'Indian', 'North Indian']",Nuaimiya,Hazara Restaurant
+71,,['International'],"Fairmont Ajman, Ajman Corniche",Spectrum - Fairmont Ajman
+72,,"['Indian', 'Italian', 'Filipino', 'Fast Food']",Al Rashidiya 3,Handiwalaa
+73,,"['South Indian', 'North Indian', 'Fast Food']",Al Rashidiya 3,My Flower Restaurant
+74,,['Turkish'],"Fairmont Ajman, Ajman Corniche",Kiyi - Fairmont Ajman
+75,,['International'],"Fairmont Ajman, Ajman Corniche",Spectrum - Fairmont Ajman
+76,,"['Indian', 'South Indian', 'Kerala']",Ajman Industrial Area,Malabar Thattukada
+77,,"['Indian', 'Italian', 'Filipino', 'Fast Food']",Al Rashidiya 3,Handiwalaa
+78,,['Turkish'],"Fairmont Ajman, Ajman Corniche",Kiyi - Fairmont Ajman
+79,,"['Chinese', 'Asian']",Meshairef,Chin Chin
+80,,"['Fast Food', 'Burger']","City Centre Ajman, Al Jurf",Jollibee
+81,,['Finger Food'],"Ajman Saray, Ajman Corniche",Bab Al Bahr - Ajman Saray
+82,,"['Indian', 'South Indian', 'Biryani']",Al Rashidiya 1,Foodbook Restaurant
+83,,"['Fast Food', 'Burger', 'American']","Emarat Petrol Station, Meshairef",Burger King
+84,,"['Indian', 'Chinese', 'Biryani', 'Beverages']",Al Nakhil,Bombay Durbar
+85,,"['Japanese', 'Thai']","Bahi Ajman Palace Hotel, Ajman Corniche",Dragon's Place - Bahi Ajman Palace Hotel
+86,,"['Burger', 'Fast Food']",Ajman Industrial Area,Hardee's - هارديز
+87,,['Seafood'],"Wyndham Garden, Ajman Corniche",Seascape Restaurant
+88,,['Fast Food'],"City Centre Ajman, Al Jurf",Popeyes
+89,,['Cafe'],"Corniche Tower, Ajman Corniche",Filli
+90,,"['Cafe', 'Desserts']","City Centre Ajman, Al Jurf",Cinnabon
+91,,"['Arabian', 'Middle Eastern']","Radisson Blu Hotel Ajman, Al Jurf, Ajman",Mazaj Bar & Shisha Lounge
+92,,['Cafe'],"Corniche Avenue, Ajman Corniche",PappaRoti
+93,,"['Fast Food', 'Healthy Food', 'American', 'Salad']","Corniche Mall, Ajman Corniche",Subway
+94,,"['Italian', 'Fast Food']","Fairmont Ajman, Ajman Corniche",Gioia - Fairmont Ajman
+95,,"['Burger', 'Fast Food']",Al Hamidiya,Container Burger
+96,,"['Italian', 'Fast Food']",Al Zahra,Potato & Pasta
+97,,['Fast Food'],"City Centre Ajman, Al Jurf",Popeyes
+98,,['Finger Food'],"Ajman Saray, Ajman Corniche",Bab Al Bahr - Ajman Saray
+99,,"['Fast Food', 'Healthy Food']",Al Hamidiya,Cook Connect Restaurant
+100,,"['Burger', 'American', 'Fast Food']",Al Rashidiya 2,McDonald's
+101,,"['Burger', 'Fast Food']",Ajman Industrial Area,Hardee's - هارديز
+102,,['Fast Food'],"Emarat Petrol Station, Meshairef",Texas Chicken
+103,,"['Cafe', 'Arabian', 'Middle Eastern']","Ajman One Towers, Al Rashidiya 3",Al Mukhtar Bakery
+104,,"['Cafe', 'American', 'Coffee', 'Beverages']","Grand Centrale Mall, Al Jurf",Tim Hortons
+105,,"['Middle Eastern', 'Fast Food', 'Desserts']",Al Rashidiya 2,Feras Sweets
+106,,"['Italian', 'Fast Food']","Fairmont Ajman, Ajman Corniche",Gioia - Fairmont Ajman
+107,,"['Fast Food', 'Healthy Food', 'American', 'Salad']","Corniche Mall, Ajman Corniche",Subway
+108,,"['Burger', 'Fast Food']",Al Hamidiya,Container Burger
+109,,['Cafe'],"Bahi Ajman Palace Hotel, Ajman Corniche",Nojoom Lounge - Bahi Ajman Palace Hotel
+110,,"['Italian', 'Fast Food']",Al Zahra,Potato & Pasta
+111,,"['Arabian', 'Middle Eastern']",Al Hamidiya,Al Hammadi Restaurant
+112,,"['Fast Food', 'Healthy Food']",Al Hamidiya,Cook Connect Restaurant
+113,,['Fast Food'],"Emarat Petrol Station, Meshairef",Texas Chicken
+114,,"['International', 'Finger Food']","Radisson Blu Hotel Ajman, Al Jurf, Ajman",Thirsty Horse
+115,,"['Cafe', 'American', 'Coffee', 'Beverages']","Grand Centrale Mall, Al Jurf",Tim Hortons
+116,,['Fast Food'],Al Hamidiya,Eat & Drink
+117,,"['South Indian', 'Kerala']",Al Rashidiya 3,Pachamulaku
+118,,"['Cafe', 'Asian', 'Arabian', 'Italian']","Corniche Avenue, Ajman Corniche",Seroop Restaurant & Coffee Shop
+119,,"['Desserts', 'Ice Cream', 'Beverages']",Al Hamidiya,Snow Flake
+120,,['Afghan'],Nuaimiya,Al Kabab Al Afghani
+121,,['Fast Food'],Al Jurf,Lets Zinger
+122,,"['South Indian', 'Fast Food', 'North Indian', 'Beverages']",Al Bustan,Fathima Restaurant
+123,,"['German', 'Fast Food']","City Centre Ajman, Al Jurf",Doner & Gyros
+124,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Zahra,Layaly Beirut
+125,,"['Arabian', 'Pizza', 'Beverages']",Al Jurf,Al Arz
+126,,"['Desserts', 'Ice Cream']","Grand Centrale Mall, Al Jurf",Cold Stone Creamery
+127,,['Turkish'],"City Centre Ajman, Al Jurf",Mado
+128,,"['Chinese', 'North Indian', 'South Indian', 'Kerala']",Al Rashidiya 1,Thanima Restaurant
+129,,"['Seafood', 'BBQ', 'Mediterranean']","Ajman Saray, Ajman Corniche",Vista - Ajman Saray
+130,,['Desserts'],Al Zahra,Yummy In My Tummy
+131,,"['Pizza', 'Italian', 'Pasta']",Ajman Corniche,Broccoli Pizza & Pasta
+132,,['Cafe'],Al Jurf,Starbucks
+133,,"['Cafe', 'French', 'Desserts']","City Centre Ajman, Al Jurf",PAUL
+134,,['Desserts'],Al Rashidiya 1,Karachi Rabri Sweets
+135,,['Chinese'],"City Centre Ajman, Al Jurf",Panda Chinese
+136,,['Italian'],"Radisson Blu Hotel Ajman, Al Jurf, Ajman",Filini Restaurant
+137,,"['Arabian', 'Middle Eastern', 'Lebanese']",Al Tallah,Fern El Balad
+138,,"['Arabian', 'Indian', 'Chinese', 'Seafood']",Al Zahra,Emirates Sea Restaurant
+139,,"['Chinese', 'Fast Food']",Al Nakhil,XDine Restaurant & Cafeteria
+140,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Hamidiya,Al Tanoor Restaurant
+141,,['Cafe'],"Flamingo Mall, Al Jurf",Jeon Cafe
+142,,['Seafood'],"Corniche Avenue, Ajman Corniche",Estakouza Seafood Restaurant
+143,,"['Arabian', 'Middle Eastern', 'Italian', 'Indian']","Ramada Hotel & Suites, Al Rashidiya 1",Orchid Restaurant - Ramada Hotel & Suites
+144,,"['Italian', 'Pizza']","City Centre Ajman, Al Jurf",Pizzaro
+145,,"['Chinese', 'South Indian', 'Chettinad', 'North Indian']",Al Bustan,Chennai Chettinadu Restaurant
+146,,"['Cafe', 'Desserts']",Al Rashidiya 3,Wonder Chocolate
+147,,"['Italian', 'Pizza', 'Fast Food']",Ajman Industrial Area,Pizza Bite!
+148,,"['Indian', 'Kerala']",Al Zahra,Remas Restaurant
+149,,['Sushi'],Al Muwaihat,Sushi Bar
+150,,"['Ice Cream', 'Beverages']",Al Muwaihat,Ice Storm
+151,,"['Fast Food', 'Juices']",Nuaimiya,Safeenath Al Bahar
+152,,['Fast Food'],Ajman Corniche,Rock Cafeteria
+153,,['Fast Food'],Meshairef,Najmat Al Khaleej
+154,,"['Pakistani', 'Arabian', 'Middle Eastern', 'Grill']",Al Muwaihat,Super Kabab Barbeque
+155,,"['Indian', 'South Indian']",Al Jurf,Saravanaa Bhavan
+156,,['Cafe'],Al Rashidiya 1,Starters Cafe
+157,,"['Fast Food', 'Juices']",Nuaimiya,Hot Burger
+158,,['Bakery'],Al Jurf Industrial Area,Bake Home
+159,,['Pakistani'],Al Nakhil,Pak Ghazi
+160,,"['Nepalese', 'Indian', 'Chinese']",Al Nakhil,Kathmandu Darbar
+161,,['Bakery'],Al Rashidiya 1,Oasis Bakery
+162,,['Indian'],Al Jurf,The Terrace
+163,,"['Mandi', 'Emirati', 'Arabian', 'Middle Eastern']",Nuaimiya,Al Janadriah Restaurant
+164,,['International'],"Radisson Blu Hotel Ajman, Al Jurf, Ajman",Larder Restaurant
+165,,"['Indian', 'Arabian', 'Middle Eastern', 'Chinese']",Al Nakhil 1,Aroos Al Madeena Restaurant
+166,,"['Biryani', 'Beverages']",Al Zahra,Nusrat Biryani Restaurant
+167,,"['Arabian', 'Middle Eastern', 'Kebab']",Nuaimiya,Al Aroos Restaurant
+168,,"['Desserts', 'Bakery']",Nuaimiya,Roche
+169,,"['Beverages', 'Desserts']",Al Muwaihat,Raspberry Shake
+170,,"['Fast Food', 'Seafood', 'Burger', 'Juices']",Al Zahra,Shrimp Box
+171,,"['Indian', 'South Indian', 'Desserts']",Nuaimiya,New Madras Restaurant
+172,,"['Fast Food', 'Juices', 'Burger']",Ajman Corniche,Al Mamzar Cafeteria
+173,,['International'],Al Tallah,Wrapped
+174,,['Indian'],Ajman Industrial Area,Bombay Jaipur Restaurant
+175,,"['Kerala', 'South Indian']",Al Nakhil,Chayakada Restaurant
+176,,"['Arabian', 'Iranian']",Nuaimiya,Shiraz Al Shaebi Restaurant & Kitchen
+177,,"['Pizza', 'Fast Food']",Nuaimiya,Domino's
+178,,"['Pakistani', 'Desserts']",Al Nakhil 1,Osama Sweets & Restaurant
+179,,"['Ice Cream', 'Desserts']","City Centre Ajman, Al Jurf",Baskin  Robbins - City Centre Ajman
+180,,"['Arabian', 'Middle Eastern']",Al Rashidiya 3,Bukhari Al Khaleej Restaurant
+181,,"['Burger', 'Fast Food']",Al Muwaihat,Traffic Burger
+182,,['Italian'],"City Centre Ajman, Al Jurf",Vanellis
+183,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Rashidiya 1,Abdoun Falafel
+184,,['Desserts'],Al Hamidiya,Floe
+185,,"['Burger', 'Fast Food', 'Beverages']",Al Rashidiya 3,Tea N Cafe
+186,,"['Arabian', 'Middle Eastern']",Nuaimiya,Al Hammadi Cafeteria & Falafel
+187,,"['Yemeni', 'Mandi', 'Middle Eastern', 'Arabian', 'Juices']",Al Rashidiya 3,Mkhbazat Al Yamen Restaurant
+188,,"['Arabian', 'Middle Eastern', 'Lebanese', 'Street Food']",Al Tallah,BAK BAK Chicken
+189,,['Cafe'],"City Centre Ajman, Al Jurf",Gerard
+190,,"['Coffee', 'Beverages']",Ajman Corniche,Berlin Restaurant & Coffee Shop
+191,,"['Fast Food', 'Burger']",Al Rashidiya 3,Farooj Express Restaurant
+192,,"['Filipino', 'African']",Al Rashidiya 1,Africana Home Restaurant & Grills
+193,,"['Beverages', 'Ice Cream', 'Juices']",Al Hamidiya,Juice Bar
+194,,"['Arabian', 'Middle Eastern', 'Indian']","Ajman Saray, Ajman Corniche",Mejhana - Ajman Saray
+195,,['Fast Food'],Al Jurf,Grill Station Cafeteria
+196,,"['Fast Food', 'Juices', 'Burger']",Al Nakhil 1,Al Barq Cafeteria
+197,,"['Russian', 'Grill', 'Arabian', 'Middle Eastern']",Al Rumailah,Skazka Restaurant
+198,,['Fast Food'],Al Rashidiya 2,Diet Zone
+199,,"['Cafe', 'American', 'European']","Ajman Hotel, Ajman Corniche",Cafe on First - Ajman Hotel
+200,,"['Arabian', 'Middle Eastern']",Al Jurf Industrial Area,Alka Team Restaurant
+201,,"['Fast Food', 'Pizza', 'Burger', 'American']","Safeer Mall, Nuaimiya",SFC Plus
+202,,['Fast Food'],Al Zahra,Um Ali Cafeteria
+203,,"['Irish', 'Finger Food']",Al Jurf,McGettigan's Irish Pub
+204,,"['North Indian', 'Street Food', 'Pakistani']",Al Rashidiya 2,Tasty Tasty Restaurant
+205,,['Lebanese'],Al Hamidiya,Zattara
+206,,['Cafe'],"Ajman Hotel, Ajman Corniche",Cosmic Bowling - Ajman Hotel
+207,,"['Fast Food', 'Juices']",Al Rashidiya 3,Royal Taste Restaurant & Cafeteria
+208,,"['Cafe', 'Desserts', 'Coffee']",Al Hamidiya,Mood Cafe
+209,,"['Fast Food', 'Beverages']",Al Rumailah,Al Ameen Cafeteria
+210,,"['Fast Food', 'Biryani', 'Beverages']",Nuaimiya,Farrouj Hut
+211,,"['Healthy Food', 'Salad']",Al Tallah,The Good Bowl
+212,,"['Arabian', 'Middle Eastern', 'Fast Food']",Nuaimiya,Chicken House
+213,,"['Arabian', 'Middle Eastern']","Corniche Avenue, Ajman Corniche",Naba Al Arad
+214,,['Finger Food'],"Fairmont Ajman, Ajman Corniche",The Cave Sports Bar & Kitchen
+215,,"['Middle Eastern', 'Arabian', 'Mandi']",Nuaimiya,Joraif for Mandi
+216,,"['Middle Eastern', 'Arabian', 'Lebanese']",Nuaimiya,Al Yasmeen Al Shami
+217,,"['Seafood', 'Sushi']","City Centre Ajman, Al Jurf",Ocean Basket
+218,,"['Arabian', 'Middle Eastern']",Al Muwaihat,Bait Al Sarood Restaurant & Kitchen
+219,,"['Fast Food', 'Burger']",Al Muwaihat,Huff & Puff Burger
+220,,"['Italian', 'Fast Food']",Al Rashidiya 1,La Pizza Restaurant
+221,,"['Cafe', 'Desserts']",Al Jurf,IGrab Cafe
+222,,"['Middle Eastern', 'Arabian']",Al Bustan,First Zahrat Lebnan Restaurant
+223,,"['Arabian', 'Middle Eastern']",Al Jurf,Barr Al Emarat
+224,,['Bakery'],Al Jurf,Sweets & Cake Gallery
+225,,"['Lebanese', 'Arabian', 'Middle Eastern']","Al Zorah Marina, Al Zorah",Nayana Restaurant & Cafe
+226,,"['Burger', 'Fast Food']",Al Zahra,Oxygen Burger
+227,,"['Fast Food', 'Juices']",Al Bustan,City Burger Restaurant & Cafeteria
+228,,"['Bakery', 'Arabian', 'Middle Eastern']",Al Rashidiya 3,Al Sorour Bakeries
+229,,"['Fast Food', 'Grill', 'Juices']",Nuaimiya,Express City Burger
+230,,"['Indian', 'Continental', 'Arabian', 'Middle Eastern']","Ajman Beach Hotel, Ajman Corniche",Sea View - Ajman Beach Hotel
+231,,"['Arabian', 'Middle Eastern']",Al Jurf,Jdoodna Restaurant & Cafe
+232,,"['Cafe', 'Coffee']",Al Jurf,Blends & Brews Coffee Shop
+233,,"['Seafood', 'Asian']","Ajman Saray, Ajman Corniche",Safi - Ajman Saray
+234,,"['Middle Eastern', 'Arabian', 'Burger']",Al Rashidiya 3,Arabian Fried Chicken
+235,,"['Arabian', 'Middle Eastern', 'Fast Food']",Nuaimiya,Gulf Pastry
+236,,['Desserts'],"City Life Jurf, Al Jurf",Krispy Kreme
+237,,"['Fast Food', 'Burger']",Al Muwaihat,Just Burger
+238,,"['Arabian', 'Middle Eastern']",Al Jurf,Fatayer Station
+239,,['Cafe'],Al Jurf,WACUP Coffee Hub
+240,,"['Beverages', 'Ice Cream']","City Centre Ajman, Al Jurf",Keventers
+241,,"['Arabian', 'Middle Eastern']","Marsa Ajman, Ajman Corniche",Marsa Ajman Cruise Floating Restaurant
+242,,"['Fast Food', 'Grill', 'Juices']",Al Jurf,Fine Food Restaurant
+243,,['Pakistani'],Al Rashidiya 2,Dastar Khan Restaurant
+244,,"['Fast Food', 'Juices']",Ajman Industrial Area,Al Abeer Restaurant
+245,,"['Indian', 'Fast Food']",Al Rumailah,Mukkathe Makkani
+246,,"['Fast Food', 'Chinese', 'Juices']",Ajman Industrial Area,Nad Wasit Cafeteria
+247,,"['BBQ', 'Biryani', 'Kebab', 'North Indian', 'Desserts']",Al Nakhil,Qutb Shahi Restaurant
+248,,"['Lebanese', 'Arabian', 'Middle Eastern']",Nuaimiya,Malek Al Mujanat
+249,,"['Salad', 'Mediterranean', 'European', 'Indian']","Wyndham Garden, Ajman Corniche",Gourmet Garden Restaurant - Wyndham Garden
+250,,['Cafe'],Al Hamidiya,Roots Cafe
+251,,"['Pakistani', 'Indian']",Al Rashidiya 3,Mezban Restaurant
+252,,"['Fast Food', 'Beverages', 'Juices']",Nuaimiya,Najmat Al Khaleej
+253,,['Iranian'],Al Rashidiya 1,Al Bait Al Qadeem Iraqi
+254,,"['Pizza', 'Arabian', 'Fast Food', 'Beverages']","Corniche Tower, Ajman Corniche",Bon Cafe
+255,,"['Cafe', 'Fast Food']",Ajman Corniche,ZilZil Cafe
+256,,['Biryani'],Al Bustan,Oh My Biryani
+257,,"['Indian', 'Chinese', 'Iranian', 'Continental']",Al Jurf,Oyoon Al Dar Restaurant
+258,,"['Arabian', 'BBQ', 'Indian', 'Chinese']",Al Hamidiya,Friend's Cafe & Restaurant
+259,,"['Fast Food', 'Juices']",Nuaimiya,Haya Al Mubarak Cafeteria
+260,,['Italian'],Nuaimiya,Pasta Mix
+261,,['Indian'],Al Bustan,Elite Restaurant
+262,,"['Desserts', 'Juices']",Al Muwaihat,Just Fresh Juice
+263,,"['Mandi', 'Emirati', 'Arabian', 'Middle Eastern']",Al Jurf,Al Noman Mandi & Madhbi
+264,,"['Arabian', 'Middle Eastern']",Al Muwaihat,Alpasha Gourmet
+265,,"['Desserts', 'Cafe']",Al Nakhil,Dunkin'
+266,,"['Cafe', 'Middle Eastern', 'Arabian']",Ajman Corniche,Fame Restaurant
+267,,['Cafe'],Al Zahra,Chai Lab Cafe
+268,,"['Arabian', 'Middle Eastern', 'Street Food']",Al Rashidiya 3,Bait Al Falafel Restaurant
+269,,"['Arabian', 'Middle Eastern', 'Mandi']",Al Zahra,Al Ghawas Restaurant & Kitchen
+270,,"['Arabian', 'Middle Eastern', 'Lebanese', 'Beverages']",Al Jurf,Zaatar W'aktar
+271,,['Bakery'],Al Hamidiya,Bake Al Arab
+272,,"['Fast Food', 'Juices']",Al Rashidiya 1,Saoud Cafeteria
+273,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Zahra,Chicken King Restaurant
+274,,"['Fast Food', 'Beverages']",Al Jurf,Koukh Al Shay Cafeteria
+275,,['Seafood'],Ajman Corniche,Al Sheraa Fisheries Center
+276,,"['Fast Food', 'Juices']",Al Rashidiya 1,Aroos Al Hind Restaurant & Cafeteria
+277,,"['Mughlai', 'North Indian']",Al Rumailah,Mughlai Nation
+278,,"['Arabian', 'Middle Eastern', 'Chinese', 'Indian']",Al Bustan,City Grill Restaurant
+279,,"['Lebanese', 'Arabian', 'Middle Eastern']",Nuaimiya,Al Farooj Al Halabi
+280,,"['Arabian', 'Middle Eastern', 'Kebab']",Al Nakhil,Aroos Al Shathi
+281,,"['Middle Eastern', 'Arabian']",Al Zahra,Al Kabab Al Bahraini
+282,,"['Arabian', 'Middle Eastern', 'Fast Food']",Ajman Industrial Area,Mahatat Masr Restaurant
+283,,['Pakistani'],Ajman Industrial Area,Baitak Restaurant
+284,,"['Fast Food', 'Juices']",Al Jurf,University Cafeteria
+285,,"['Bakery', 'Desserts', 'Arabian']",Ajman Corniche,Nabeel Nefisah Sweets
+286,,"['Lebanese', 'Arabian', 'Middle Eastern']",Nuaimiya,Al Farooj Al Halabi
+287,,"['Middle Eastern', 'Arabian']",Al Rashidiya 1,Reem Al Yemen
+288,,"['Healthy Food', 'Salad']",Al Tallah,The Good Bowl
+289,,['Pakistani'],Ajman Industrial Area,Baitak Restaurant
+290,,['Bakery'],Al Hamidiya,Bake Al Arab
+291,,['Pakistani'],Al Rashidiya 2,Dastar Khan Restaurant
+292,,['Fast Food'],Al Jurf,La Paprika
+293,,"['Arabian', 'BBQ', 'Indian', 'Chinese']",Al Hamidiya,Friend's Cafe & Restaurant
+294,,"['Indian', 'Fast Food']",Al Rumailah,Mukkathe Makkani
+295,,"['Bakery', 'Desserts']","Ajman Cooperative Market, Al Rashidiya 1",Amma's Pastries
+296,,"['Indian', 'Kerala']",Al Rashidiya 3,Feza Cafe
+297,,['Cafe'],Ajman Industrial Area,Al Fuhood Coffee Shop
+298,,['Cafe'],"Al Zorah Marina, Al Zorah",Z Lounge
+299,,"['Fast Food', 'Juices']",Al Jurf,University Cafeteria
+300,,"['Bakery', 'Desserts', 'Arabian']",Ajman Corniche,Nabeel Nefisah Sweets
+301,,"['Middle Eastern', 'Arabian']",Al Rashidiya 1,Reem Al Yemen
+302,,['Fast Food'],Al Jurf,La Paprika
+303,,['Fast Food'],Al Rashidiya 2,Tea Zone
+304,,"['Fast Food', 'Chinese', 'Juices']",Meshairef,Ultima Fast & Taste
+305,,"['Indian', 'Chinese', 'Grill']",Ajman Industrial Area,Red Gravy Restaurant
+306,,"['Indian', 'Kerala']",Al Rashidiya 3,Feza Cafe
+307,,['Cafe'],Ajman Industrial Area,Al Fuhood Coffee Shop
+308,,['Cafe'],"Al Zorah Marina, Al Zorah",Z Lounge
+309,,"['Bakery', 'Arabian', 'Middle Eastern']",Al Zahra,Cake Hut
+310,,"['Burger', 'Fast Food']",Al Jurf,Yummy Burger
+311,,"['Afghan', 'Pakistani']",Nuaimiya,Zam Zam Bukhari
+312,,"['Arabian', 'Middle Eastern']",Al Jurf,Asmaar Restaurant
+313,,['Healthy Food'],Al Rashidiya 2,Healthy Club Restaurant
+314,,['Desserts'],"City Centre Ajman, Al Jurf",Jelly Belly Ice Cream
+315,,"['Bakery', 'Filipino']",Al Rashidiya 3,Bait Panaderia  Restaurant
+316,,['Japanese'],Al Jurf,Mizuki Food Box
+317,,"['Thai', 'Asian']","Ajman Sports Park, Al Hamidiya",Thai Gate
+318,,['Beverages'],Al Nakhil 1,Desi Lassi
+319,,"['Arabian', 'Middle Eastern', 'Fast Food']",Nuaimiya,Zezo
+320,,"['Pakistani', 'Afghan']",Al Rashidiya 2,Saver Food Restaurant
+321,,"['Burger', 'Fast Food']",Al Hamidiya,X Burger
+322,,"['Grill', 'North Indian', 'Chinese', 'Beverages']",Al Jurf Industrial Area,Al Aroos Restaurant
+323,,"['Grill', 'Pakistani']",Al Hamidiya,Al Kabab Watani
+324,,['Fast Food'],Al Zahra,Real Karak Cafe
+325,,['Cafe'],Al Rashidiya 1,Attibassi Coffee
+326,,"['Mughlai', 'North Indian', 'Italian', 'Fast Food']",Al Jurf,Hala Restaurant
+327,,['Filipino'],Al Nakhil,Adees
+328,,"['Fast Food', 'Juices']",Al Muwaihat,Antar Cafeteria
+329,,"['Bakery', 'Arabian', 'Middle Eastern', 'Pizza']",Al Jurf,Al Dana Bakery
+330,,"['Fast Food', 'Beverages']",Al Rashidiya 2,Blue Berry Cafeteria
+331,,['Cafe'],"Bahi Ajman Palace Hotel, Ajman Corniche",H2O - Bahi Ajman Palace Hotel
+332,,['Mandi'],Al Zahra,Al Bar Al Baher Restaurant & Kitchen
+333,,"['Fast Food', 'Biryani', 'Beverages']",Ajman Corniche,Grill Hut
+334,,['Bakery'],Al Zahra,Honey Cake Bakery & Deli
+335,,['BBQ'],Al Rashidiya 1,Zaman Barbeque Restaurant
+336,,['Desserts'],Nuaimiya,Lareen Sweets
+337,,"['Pizza', 'Fast Food']","Safeer Mall, Nuaimiya",Pizza Pan
+338,,['Pakistani'],Ajman Industrial Area,Pathan Restaurant
+339,,['Pakistani'],Al Rashidiya 1,Latif Al Pakistani Bakery
+340,,"['Fast Food', 'Burger']",Al Muwaihat,Burger Klub
+341,,['Pakistani'],Al Jurf Industrial Area,Latif Restaurant
+342,,"['Fast Food', 'Tea']",Al Hamidiya,Mile7 Cafeteria
+343,,"['Arabian', 'Middle Eastern']",Al Rashidiya 1,Al Hamria Traditional Kitchen & Restaurant
+344,,"['Desserts', 'Beverages']",Al Zahra,Waffle Secret
+345,,['Seafood'],"The Oberoi Beach Resort,Al Zorah",Aquario
+346,,"['Thai', 'Asian', 'Fast Food']",Al Zahra,Papa Junior Cafeteria
+347,,"['Bakery', 'Desserts']",Al Jurf,Smallcakes A Cupcakery
+348,,['Cafe'],"Bahi Ajman Palace Hotel, Ajman Corniche",Bahi Cafe - Bahi Ajman Palace Hotel
+349,,"['Burger', 'Sushi']",Al Jurf,Burger Hamburgheni
+350,,['Indian'],Al Jurf,Kumar Station
+351,,"['Fast Food', 'Coffee', 'Tea']",Nuaimiya,House Of Tea
+352,,"['Fast Food', 'Chinese', 'Indian', 'Juices']",Al Nakhil,Fast Cafeteria
+353,,"['Fast Food', 'Beverages', 'Juices']",Al Rashidiya 2,SAS Cafeteria
+354,,['Pakistani'],Nuaimiya,Faizan Restaurant
+355,,['Cafe'],"Marsa Ajman, Ajman Corniche",Kava Cafe
+356,,['Finger Food'],"Fairmont Ajman, Ajman Corniche",Salt & Sea - Fairmont Ajman
+357,,['Healthy Food'],Al Jurf,Calories
+358,,"['Arabian', 'Middle Eastern', 'Grill']",Al Jurf,Falafel Freh
+359,,['Continental'],"Ajman Sports Park, Al Hamidiya",Mary's House
+360,,['Thai'],Al Hamidiya,Junior Seafood
+361,,"['Bakery', 'Arabian', 'Middle Eastern']",Al Zahra,Al Nakheel Bakery
+362,,"['Fast Food', 'Juices']",Nuaimiya,Shaker Cafeteria
+363,,"['Arabian', 'Middle Eastern']","City Centre Ajman, Al Jurf",Al Safeer
+364,,"['Indian', 'Fast Food']",Al Nakhil,Nasseer Restaurant
+365,,['Bakery'],Nuaimiya,Al Reem Bakery
+366,,"['Arabian', 'Middle Eastern']",Al Rashidiya 3,Bawabet Al Quds Restaurant
+367,,"['Arabian', 'Middle Eastern']",Al Jurf,Ligma W Yigma
+368,,['Cafe'],Nuaimiya,Shisha And Manoushe Cafe
+369,,"['Indian', 'Arabian', 'Chinese']",Al Rashidiya 1,Chills & Fries
+370,,"['Arabian', 'Middle Eastern']",Nuaimiya,Falafil Al Sultan
+371,,"['Indian', 'Pakistani', 'Grill']",Al Zahra,Tikka Friends
+372,,"['Arabian', 'Middle Eastern']",Nuaimiya,Falafil Al Rabiah Al Khadra
+373,,"['Fast Food', 'Indian', 'Grill']",Al Jurf Industrial Area,Black Tea Cafeteria
+374,,['Pakistani'],Al Jurf Industrial Area,Latif Restaurant
+375,,['Healthy Food'],Al Jurf,Low Calories (Diet Right)
+376,,"['Arabian', 'Middle Eastern']",Al Zahra,Zain Al Sham
+377,,['Fast Food'],Al Muwaihat,Fries Basket
+378,,"['Arabian', 'Middle Eastern']",Al Rashidiya 1,Al Hamria Traditional Kitchen & Restaurant
+379,,"['Arabian', 'Middle Eastern']",Al Zahra,Ybala Wrq Enab Cafeteria
+380,,"['Fast Food', 'Juices']",Nuaimiya,Shaker Cafeteria
+381,,"['Fast Food', 'Tea']",Al Hamidiya,Mile7 Cafeteria
+382,,['Mandi'],Al Zahra,Al Bar Al Baher Restaurant & Kitchen
+383,,['Moroccan'],"Nuaimiya Towers, Nuaimiya",Diyafat Fes Restaurant
+384,,"['Asian', 'Hot Pot', 'BBQ']",Al Nakhil 1,Happy Farm Restaurant
+385,,"['Indian', 'Pakistani', 'Fast Food']",Al Zahra,Safa Restaurant
+386,,"['Fast Food', 'Burger']",Al Muwaihat,Burger Klub
+387,,"['Indian', 'Fast Food']",Al Nakhil,Nasseer Restaurant
+388,,"['Indian', 'Pakistani', 'Grill']",Al Zahra,Tikka Friends
+389,,"['Indian', 'Hyderabadi', 'Pakistani']",Nuaimiya,Shahi Darbar
+390,,['Healthy Food'],Al Jurf,Low Calories (Diet Right)
+391,,['Fast Food'],Al Rashidiya 2,Mr Broast Chicken
+392,,['Grill'],Ajman Industrial Area,Grill Park Restaurant
+393,,"['Chinese', 'Indian', 'Nepalese']",Ajman Industrial Area,Kathmandu Darbar Restaurant
+394,,"['Arabian', 'Middle Eastern']",Al Zahra,Zain Al Sham
+395,,['Fast Food'],Al Muwaihat,Fries Basket
+396,,"['Pakistani', 'Indian', 'North Indian']",Nuaimiya,Pakeeza Restaurant
+397,,"['Arabian', 'Middle Eastern']",Al Zahra,Ybala Wrq Enab Cafeteria
+398,,['Iranian'],Al Hamidiya,Al Fareej Restaurant & Bakery
+399,,"['Asian', 'Hot Pot', 'BBQ']",Al Nakhil 1,Happy Farm Restaurant
+400,,"['Indian', 'Pakistani', 'Fast Food']",Al Zahra,Safa Restaurant
+401,,"['Fast Food', 'Arabian', 'Middle Eastern']",Nuaimiya,Shawarmaji One
+402,,"['Arabian', 'Middle Eastern', 'Mandi']",Al Zahra,Fakhruddin Traditional Kitchen & Restaurant
+403,,['Fast Food'],Al Jurf,Al Zaytoun Al Akhdar Cafeteria
+404,,"['Arabian', 'Middle Eastern', 'Juices']",Al Jurf,Enzain Restaurant
+405,,"['Indian', 'South Indian', 'North Indian']",Ajman Industrial Area,Malabar Restaurant
+406,,"['Cafe', 'Turkish']","The Mall, Rashidiya 1",Coffee Art Cafe
+407,,['Desserts'],Al Zahra,Papa Kanafa
+408,,"['Pakistani', 'Indian']",Al Rashidiya 3,Zhoor Al Madaen Alhaditha Cafeteria
+409,,"['Egyptian', 'Arabian', 'Middle Eastern']",Al Hamidiya,Basata Restaurant
+410,,"['Arabian', 'Middle Eastern']",Nuaimiya,Al Mazaq Alhalabi Restaurant
+411,,"['Arabian', 'Middle Eastern']",Al Rashidiya 3,Bawabet Al Quds Restaurant
+412,,['Fast Food'],Al Rashidiya 1,Big Break Billiards
+413,,"['Fast Food', 'Arabian', 'Middle Eastern']",Ajman Industrial Area,Al Munawar
+414,,['Cafe'],"City Centre Ajman, Al Jurf",Caffè Nero
+415,,['Chinese'],"China Mall, Al Jurf Industrial Area",Chinese Delicacy Restaurant
+416,,"['Mandi', 'Yemeni', 'Middle Eastern']",Nuaimiya,Sad Marib Mandi
+417,,"['American', 'Fast Food']",Al Hamidiya,Al Esharah Burger
+418,,"['Indian', 'South Indian']",Al Nakhil 1,Kairali
+419,,"['Cafe', 'Filipino']",Al Jurf,Kubo Cafe
+420,,"['Egyptian', 'Arabian', 'Middle Eastern']",Al Hamidiya,Basata Restaurant
+421,,"['Pakistani', 'Indian', 'Chinese', 'South Indian', 'Kerala']",Al Jurf Industrial Area,Dhaba Restaurant
+422,,"['Fast Food', 'Beverages']",Ajman Industrial Area,Tea Leaves Cafeteria
+423,,['Cafe'],"City Centre Ajman, Al Jurf",Caffè Nero
+424,,['Chinese'],"China Mall, Al Jurf Industrial Area",Chinese Delicacy Restaurant
+425,,"['Mandi', 'Yemeni', 'Middle Eastern']",Nuaimiya,Sad Marib Mandi
+426,,"['Fast Food', 'Arabian', 'Middle Eastern']",Ajman Industrial Area,Al Munawar
+427,,"['Bakery', 'Lebanese']",Nuaimiya,Lebanon Spring Bakery
+428,,['Indian'],Nuaimiya,Public Cook
+429,,"['North Indian', 'South Indian', 'Chinese', 'Fast Food']",Meshairef,Zahrat Al Arab Restaurant
+430,,"['Indian', 'South Indian']",Al Nakhil 1,Kairali
+431,,"['American', 'Fast Food']",Al Hamidiya,Al Esharah Burger
+432,,"['Indian', 'Pakistani']",Al Rashidiya 1,Al Wafa Restaurant
+433,,"['Middle Eastern', 'Arabian', 'Lebanese']",Al Zahra,Al Salahat Shami Pastries
+434,,"['Bakery', 'Irish']",Al Zahra,Zo's Kitchen
+435,,"['Arabian', 'Middle Eastern']",Ajman Corniche,Farhat Al Masri Restaurant
+436,,"['Arabian', 'Middle Eastern']",Nuaimiya,Donya Al Sham
+437,,"['Fast Food', 'Juices']",Al Jurf,Al Tawaash Shaabi Kitchen And Restaurant
+438,,"['Tea', 'Coffee', 'Juices']","City Life Al Tallah Mall, Al Tallah",Trendz Cafe
+439,,"['Indian', 'North Indian', 'South Indian']","Garden City, Al Hamidiya",Mais Al Sham Restaurant
+440,,['Cafe'],"City Life Jurf, Al Jurf",Caribou Coffee
+441,,['Pakistani'],Ajman Industrial Area,Iqbal Ghulam Restaurant
+442,,['Cafe'],Al Jurf,Barista Vibes
+443,,['Fast Food'],Al Zahra,Pizza & Pasta
+444,,"['Indian', 'Pakistani']",Al Rashidiya 3,Naz Hyderabad Cafeteria
+445,,['Seafood'],Al Rashidiya 1,Al Bahhar
+446,,"['Fast Food', 'Juices']",Al Nakhil,Hot Make
+447,,"['Cafe', 'Continental', 'American', 'Arabian', 'Italian']","Ramada Hotel & Suites, Al Rashidiya 1",R-Cafe - Ramada Hotel & Suites
+448,,['Desserts'],Al Zahra,Al Balah Al Thahabi Sweets
+449,,['Cafe'],Al Rumailah,Al Saraya Cafe
+450,,"['Indian', 'Pakistani', 'Iranian']",Al Hamidiya,Lavender Restaurant and Cafeteria
+451,,['Bakery'],"Al Khor Towers, Al Rashidiya 1",The Factory Cake
+452,,"['Arabian', 'Lebanese', 'Grill', 'BBQ']","Ajman Cooperative Market, Al Rashidiya 1",Aswar Alsham Grills & Restaurant
+453,,['Beverages'],Al Zahra,Aseer Time
+454,,"['Middle Eastern', 'Arabian']",Al Rashidiya 1,Al Boom Al Shaebi Restaurant & Kitchen
+455,,"['Bakery', 'Arabian', 'Middle Eastern', 'Desserts']",Al Hamidiya,Mahala Al Dar
+456,,['Cafe'],Al Jurf,Freddo Restaurant & Cafe
+457,,"['Burger', 'Fast Food']",Al Zorah,Bu Deech
+458,,"['Fast Food', 'Juices']",Al Jurf,Rawadath Al Sham
+459,,['Indian'],Nuaimiya,Dreamland Cafeteria
+460,,"['Indian', 'Arabian', 'Middle Eastern']",Al Zahra,Al Majles Al Shabi Kitchen & Restaurant
+461,,['Pakistani'],Al Nakhil,Rahat Darbar
+462,,"['Arabian', 'Middle Eastern']",Al Rashidiya 2,Al Sahari Restaurant And Cafeteria
+463,,['Cafe'],Al Nakhil 1,Belos Cafe
+464,,"['Yemeni', 'Mandi']",Al Rashidiya 1,Al Bait Al Yemeni Restaurant
+465,,"['Fast Food', 'Burger']",Al Zahra,Steps
+466,,"['Chinese', 'Indian', 'Fast Food']","Ajman One Towers, Al Rashidiya 3",Food World Restaurant
+467,,"['Arabian', 'Middle Eastern']",Ajman Corniche,Galaxy Grand Restaurant & Cafe
+468,,"['Fast Food', 'Tea']","Al Khor Towers, Al Rashidiya 1",House Of Tea Cafeteria
+469,,['Afghan'],Ajman Industrial Area,Maeda Al Afghan Kabab
+470,,"['Arabian', 'Middle Eastern']",Al Zahra,Donya Al Sham
+471,,"['Burger', 'Fast Food']","Al Zorah Golf Club, Al Zorah",Burger Wings
+472,,"['Street Food', 'Desserts']",Nuaimiya,Al Wasal Bakery
+473,,"['Fast Food', 'Juices']",Ajman Industrial Area,Coffee Cup Cafeteria & Restaurant
+474,,"['Arabian', 'Middle Eastern']",Al Nakhil 1,Al Naora Spring
+475,,"['Fast Food', 'Juices']",Ajman Industrial Area,Hiba Cafeteria
+476,,['Seafood'],Nuaimiya,Al Bahar Seafoods
+477,,"['Indian', 'South Indian']",Ajman Industrial Area,Al Zumorod Cafeteria
+478,,"['Pakistani', 'Indian']",Al Bustan,Silent Valley Restaurant & Cafeteria
+479,,"['Fast Food', 'Juices']",Al Muwaihat,Musbah Cafeteria
+480,,"['Arabian', 'Middle Eastern']",Al Rashidiya 3,Aroos Al Nile Restaurant
+481,,['Fast Food'],"City Centre Ajman, Al Jurf",VOX Cinemas
+482,,"['Fast Food', 'Juices']",Al Zahra,Dinar Cafeteria
+483,,['Cafe'],"Ramada Beach Hotel, Ajman Corniche",Flavors - Ramada Beach Hotel
+484,,['Cafe'],Al Rumailah,Marina Cafe
+485,,"['Fast Food', 'Juices']",Al Zahra,Tasty Hot Cafeteria
+486,,"['Syrian', 'Street Food']",Nuaimiya,Kresh Restaurant
+487,,['Afghan'],Ajman Industrial Area,Afghan Al Bukhari Restaurant
+488,,['Fast Food'],Al Muwaihat,Shi Shi Burger
+489,,['Cafe'],Al Bustan,Tourism Zizinia Coffee Shop
+490,,"['Fast Food', 'Juices']",Al Zahra,Zahrat Al Dahisha Cafeteria
+491,,"['Fast Food', 'Juices']",Al Hamidiya,Abraj Al Tallah Restaurant & Cafeteria
+492,,['Seafood'],Al Jurf,Shark Seafood Restaurant
+493,,['Cafe'],Al Rashidiya 1,Paparazi Cafe & Restaurant
+494,,"['Indian', 'South Indian', 'Chinese']",Al Jurf Industrial Area,Calicut Notebook
+495,,"['Arabian', 'Middle Eastern', 'Desserts']",Al Hamidiya,Wahed Kanafa
+496,,"['Arabian', 'Middle Eastern']",Al Rashidiya 1,Shooters Club Cafeteria
+497,,['Cafe'],"City Life Al Tallah Mall, Al Tallah",Quotes Coffee House
+498,,['Chinese'],Al Rashidiya 2,Nice Time Restaurant
+499,,"['North Indian', 'Mughlai', 'Pakistani', 'Street Food']",Al Hamidiya,Mughlai Junction
+500,,"['Beverages', 'Coffee', 'Tea']",Al Hamidiya,Grand Cafe
+501,,['Pakistani'],Al Nakhil 1,Al Najaf Restaurant
+502,,['Fast Food'],Nuaimiya,Food Hub Restaurant & Cafeteria
+503,,['Fast Food'],Al Muwaihat,Burger Zoghali Cafeteria
+504,,['Cafe'],Nuaimiya,Music Cafe
+505,,['Fast Food'],Al Bustan,Corner Falafel Cafeteria
+506,,"['Fast Food', 'Juices', 'Beverages']",Ajman Industrial Area,Sharam Al Sheikh Cafeteria
+507,,"['Cafe', 'Arabian', 'Middle Eastern']","Mermaid Hotel, Ajman Corniche",Marmarita Cafe
+508,,"['Fast Food', 'Juices']",Ajman Industrial Area,Al Talla Cafeteria
+509,,['Fast Food'],Al Hamidiya,Rasheed Ali Cafeteria
+510,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Jurf,Al Led & Ramallah Cafeteria
+511,,['Cafe'],Al Jurf,Cloud 9 Cafe
+512,,"['Fast Food', 'Beverages']",Al Jurf,Mharet Sadaf Cafeteria
+513,,"['Mandi', 'Arabian', 'Middle Eastern', 'Yemeni']",Al Rumailah,Qasr Saba For Almandi & Almadhbi
+514,,"['Syrian', 'Middle Eastern']",Al Rashidiya 2,Tweety Restaurant
+515,,"['Middle Eastern', 'Arabian']",Nuaimiya,Shamiat Restaurant
+516,,['Cafe'],"Emarat Petrol Station, Meshairef",One Degree Cafe
+517,,['South Indian'],Al Jurf Industrial Area,Golden Delight Restaurant
+518,,"['Lebanese', 'Fast Food']",Al Rashidiya 2,Egy Crepe
+519,,['Pakistani'],Al Zahra,Al Shan Popular Kitchen
+520,,['African'],Al Zahra,Mishkaki Restaurant
+521,,"['Arabian', 'International']","Al Zorah Marina, Al Zorah",Saj Express Restaurant
+522,,['Cafe'],Al Jurf Industrial Area,Coffee Cafe
+523,,['Fast Food'],Al Rashidiya 2,Xlive Cafeteria
+524,,"['Asian', 'Filipino', 'Thai']",Al Zahra,GF Eat Street Restaurant
+525,,"['Indian', 'South Indian']",Nuaimiya,Al Lulu Cafeteria
+526,,"['Beverages', 'Juices']","City Centre Ajman, Al Jurf",Fruit Punch
+527,,['Fast Food'],Nuaimiya,Fazza Cafeteria
+528,,"['Biryani', 'Mandi']",Al Zahra,Ahsan Popular Kitchen
+529,,"['Emirati', 'Mandi', 'Arabian', 'Middle Eastern']",Al Nakhil,Dar Hadramoot Restaurant And Kitchen
+530,,['Fast Food'],Nuaimiya,Lafet Shawarma
+531,,"['Fast Food', 'Beverages', 'Juices']",Al Rashidiya 3,Fami Cafeteria
+532,,"['Arabian', 'Middle Eastern']",Al Hamidiya,Al Kabab Al Kookherdi Restaurant
+533,,['Fast Food'],Al Jurf,VIP Restaurant & Coffee Shop
+534,,"['Arabian', 'Middle Eastern', 'Fast Food', 'Juices']",Al Jurf Industrial Area,Taj Al Arab Restaurant
+535,,"['Arabian', 'Middle Eastern']",Al Rashidiya 1,Kababji Al Omda
+536,,"['Indian', 'South Indian', 'Fast Food', 'Juices']",Al Muwaihat,Mom's
+537,,['Indian'],Al Rashidiya 2,Palm Land Restaurant
+538,,"['Fast Food', 'Beverages', 'Juices']",Al Bustan,Najmat Al Bustan
+539,,['Cafe'],Al Jurf Industrial Area,Fole Cafe
+540,,"['Pakistani', 'Indian']",Nuaimiya,Ayaan Restaurant
+541,,['Pakistani'],Ajman Industrial Area,Al Afia Restaurant
+542,,['Fast Food'],Al Nakhil,Olive Cafeteria & Restaurant
+543,,['Cafe'],Al Jurf,Dot Cafe
+544,,['Fast Food'],Al Jurf,House Of Tea
+545,,['Kerala'],Ajman Industrial Area,Thathante Chaya Kada Cafeteria
+546,,"['Arabian', 'Middle Eastern', 'Italian', 'Grill']",Al Jurf,Al Kaif Restaurant
+547,,"['Moroccan', 'Italian', 'Arabian']","Al Zorah Marina, Al Zorah",The Address Moroccan
+548,,"['Arabian', 'Middle Eastern']",Nuaimiya,Ibn Al Sham Restaurant
+549,,"['Fast Food', 'Juices']",Al Nakhil,Al Ejaza Cafeteria
+550,,"['Arabian', 'Seafood', 'American', 'Italian']","Al Zorah Marina, Al Zorah",Pub 61 Restaurant & Cafe
+551,,"['Indian', 'South Indian', 'North Indian']","Garden City, Al Hamidiya",Al Nas Restaurant
+552,,"['Cafe', 'Arabian', 'Middle Eastern']",Nuaimiya,Galaxy Cafe
+553,,['Fast Food'],Al Jurf,Chabab & Karak Cafeteria
+554,,"['Bakery', 'Arabian', 'Middle Eastern']",Nuaimiya,Al Nada Bakery
+555,,"['Arabian', 'Pizza', 'Fast Food']",Al Zahra,Sandwiches Van
+556,,['Pakistani'],Al Zahra,Memon Darbar Kitchen
+557,,"['Arabian', 'Middle Eastern', 'Seafood']",Al Rashidiya 1,Souq Al Samak Restaurant & Cafeteria
+558,,['Pakistani'],Ajman Industrial Area,Jabal Tariq Restaurant
+559,,"['Fast Food', 'Juices']",Nuaimiya,My Seaside Cafeteria
+560,,['Fast Food'],Al Muwaihat,Al Asala Cafeteria
+561,,"['Arabian', 'Middle Eastern']",Ajman Industrial Area,Fresh Meals Restaurant
+562,,"['Indian', 'Kerala', 'Pakistani']",Ajman Industrial Area,Bab Al Karam
+563,,['Pakistani'],Ajman Industrial Area,Square Restaurant
+564,,['Fast Food'],Al Rashidiya 1,Karak Wa Karak
+565,,['Fast Food'],Al Muwaihat,New Al Khaleej Restaurant
+566,,"['Tea', 'Coffee', 'Fast Food']",Nuaimiya,Tea Time Cafeteria
+567,,"['Fast Food', 'Juices']",Ajman Industrial Area,Hiba Cafeteria
+568,,['Cafe'],Al Muwaihat,Wake Up Cafe
+569,,"['Pizza', 'American', 'Arabian']",Al Zahra,Pizza Al Hatab
+570,,['Burger'],Al Zahra,Dana Chicken House Restaurant
+571,,['Cafe'],Al Jurf,Black Doze
+572,,"['Arabian', 'International']","Al Zorah Marina, Al Zorah",Saj Express Restaurant
+573,,['Bakery'],Ajman Industrial Area,Paris Bakery
+574,,"['Sushi', 'Asian']",Al Jurf,Sushi Station
+575,,"['Fast Food', 'Juices']",Al Muwaihat,Rai Al Karak Cafeteria
+576,,['International'],"Radisson Blu Hotel Ajman, Al Jurf, Ajman",Jazz Lounge - Radisson Blu Hotel
+577,,"['Bakery', 'Desserts']",Al Rashidiya 1,Cake Hut
+578,,['Fast Food'],Al Hamidiya,Mahatat Al Shai Cafeteria
+579,,"['Indian', 'South Indian', 'Bengali']",Ajman Industrial Area,Ajman Gate Restaurant
+580,,['Cafe'],Nuaimiya,Khan Al Khalili Cafe
+581,,"['Arabian', 'Seafood', 'American', 'Italian']","Al Zorah Marina, Al Zorah",Pub 61 Restaurant & Cafe
+582,,['Fast Food'],Nuaimiya,Al Ain Fried Chicken
+583,,"['Fast Food', 'Indian', 'Chinese']",Al Zahra,Rannan Cafeteria
+584,,"['Fast Food', 'Juices']",Ajman Industrial Area,Sea Star Cafeteria
+585,,"['Fast Food', 'Beverages']",Al Jurf,Golden Tea Cafeteria
+586,,['Desserts'],Al Zahra,Shahd Al Malekah Sweets
+587,,"['Indian', 'South Indian']",Al Rashidiya 3,Al Mashoor Cafeteria
+588,,['Cafe'],Al Muwaihat,Wake Up Cafe
+589,,"['Pizza', 'American', 'Arabian']",Al Zahra,Pizza Al Hatab
+590,,['Burger'],Al Zahra,Dana Chicken House Restaurant
+591,,"['Fast Food', 'Juices']",Al Muwaihat,Rai Al Karak Cafeteria
+592,,['Cafe'],Al Jurf,Black Doze
+593,,"['Lebanese', 'Middle Eastern', 'Seafood']",Al Rashidiya 1,Al Diwan Restaurant
+594,,['Fast Food'],Nuaimiya,Tea World Cafeteria
+595,,['Bakery'],Al Hamidiya,Zuccero Cakery
+596,,"['Arabian', 'Middle Eastern', 'Desserts']",Nuaimiya,Lareen Sweets
+597,,"['Arabian', 'Middle Eastern', 'Street Food']",Al Rashidiya 1,Al Rabwa Falafel & Shawarma
+598,,['Bakery'],Ajman Industrial Area,Paris Bakery
+599,,['Greek'],Ajman Corniche,The Greek Boys
+600,,['Fast Food'],Al Rashidiya 3,Rashed Ali Mohd. Cafeteria
+601,,['Fast Food'],Al Hamidiya,Mahatat Al Shai Cafeteria
+602,,"['Indian', 'South Indian', 'Bengali']",Ajman Industrial Area,Ajman Gate Restaurant
+603,,"['Arabian', 'Middle Eastern']",Al Muwaihat,Layali Al Fareej Restaurant
+604,,['Cafe'],Nuaimiya,Khan Al Khalili Cafe
+605,,['Cafe'],"Marsa Ajman, Ajman Corniche",Despresso
+606,,"['Bakery', 'Desserts']",Al Rashidiya 1,Cake Hut
+607,,"['Fast Food', 'Grill', 'Juices']",Al Zahra,Zahrat Al Banafsaj
+608,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Hamidiya,Hawa Beirut Restaurant
+609,,['Indian'],Ajman Industrial Area,Sind Restaurant and Sweets
+610,,"['Indian', 'South Indian']",Al Nakhil,Al Hibah
+611,,"['Seafood', 'Indian']",Al Nakhil 1,Chacha Machi
+612,,"['Indian', 'South Indian']",Al Bustan,Mugavai Restaurant
+613,,"['Indian', 'Pakistani']",Nuaimiya,Al Rawi Restaurant
+614,,"['Fast Food', 'Juices']",Al Hamidiya,Shai Mama
+615,,"['Bakery', 'Arabian']",Nuaimiya,Al Freej Bakery
+616,,"['Fast Food', 'Juices', 'Tea']",Nuaimiya,My Sea Side Cafeteria
+617,,"['Fast Food', 'Juices']",Al Hamidiya,Anar Cafeteria
+618,,"['Burger', 'Pasta', 'Fast Food']",Al Zahra,Tik Tak
+619,,"['Indian', 'North Indian']",Ajman Industrial Area,Al Abarah Restaurant And Sweets
+620,,"['Street Food', 'Fast Food']",Al Jurf,Rajab Cafetaria
+621,,['Cafe'],Ajman Industrial Area,Shaghaf Cafe
+622,,"['Fast Food', 'Juices']",Al Nakhil 1,Like Cafeteria
+623,,"['Desserts', 'Bakery', 'Beverages']",Al Jurf Industrial Area,Qatayef Sweets & Pastries
+624,,"['Indian', 'Street Food', 'Fast Food', 'Juices']",Nuaimiya,Mumbai Cafe
+625,,['Cafe'],Al Rashidiya 1,La Rose Cafe & Cafeteria
+626,,"['Indian', 'South Indian']",Nuaimiya,Al Naqous Restaurant
+627,,"['Burger', 'Fast Food']",Al Zahra,Chelsea Burger
+628,,"['Pakistani', 'North Indian', 'Indian']",Ajman Industrial Area,Shahenshah Lahore Restaurant
+629,,['Fast Food'],Al Zahra,Truck Burger Cafeteria
+630,,['Indian'],Ajman Industrial Area,Al Aqaba
+631,,['Pakistani'],Al Rashidiya 1,Al Hameedia Restaurant
+632,,"['Fast Food', 'Beverages']","Emarat Petrol Station, Meshairef",Al Khafayef Cafeteria
+633,,"['Fast Food', 'Beverages', 'Juices']",Al Bustan,Al Dahisha Cafeteria
+634,,['Indian'],Nuaimiya,Rasha Cafeteria
+635,,"['Fast Food', 'Juices']",Al Rashidiya 1,Alfain Cafeteria
+636,,['Chinese'],"China Mall, Al Jurf Industrial Area",Ada Wu Chinese
+637,,"['Cafe', 'Middle Eastern', 'Arabian']",Ajman Corniche,Caravan Resort Coffee Shop
+638,,"['Fast Food', 'Seafood', 'Grill']","Ajman One Towers, Al Rashidiya 3",Asmak Al Behar
+639,,"['Indian', 'Chinese', 'Seafood']",Al Zahra,Amwaj Al Bahar Restaurant (Sea Waves Restaurant)
+640,,"['Indian', 'International']","Ajman Beach Hotel, Ajman Corniche",Edge - The Restaurant - Ajman Beach Hotel
+641,,"['Indian', 'South Indian']",Al Rashidiya 3,Asiana Restaurant
+642,,"['Fast Food', 'Desserts']",Al Muwaihat,Fleur
+643,,['Fast Food'],Al Bustan,Imad Nader Cafeteria
+644,,"['Fast Food', 'Beverages']",Al Hamidiya,Rukn Al Karak Cafeteria
+645,,['Lebanese'],Al Zahra,Oasis Bakery Cafe
+646,,['Bangladeshi'],Al Rashidiya 2,Al Rahmania
+647,,['Fast Food'],Al Muwaihat,Samboosa King
+648,,"['Indian', 'South Indian']",Ajman Industrial Area,Adam Restaurant
+649,,"['Arabian', 'Middle Eastern']",Nuaimiya,Falafil Al Khawaja Cafeteria
+650,,"['Indian', 'Street Food']",Ajman Industrial Area,Rafeeq Cafeteria (Shankar Cafeteria)
+651,,['Fast Food'],Al Nakhil 1,Lazeez Cafeteria
+652,,['Desserts'],Nuaimiya,Al Dorah Bakery
+653,,"['Pakistani', 'Indian']",Al Rashidiya 2,Qasar Al Khan
+654,,"['Indian', 'South Indian', 'North Indian', 'Seafood']",Al Nakhil,Tasty Line Restaurant
+655,,"['Indian', 'South Indian']",Ajman Industrial Area,Al Yezaf
+656,,"['Indian', 'Street Food', 'Fast Food', 'Juices']",Nuaimiya,Mumbai Cafe
+657,,"['Desserts', 'Middle Eastern', 'Arabian']",Nuaimiya,Noor Al Shams
+658,,"['Indian', 'Kerala', 'Pakistani']",Ajman Industrial Area,Bab Al Karam
+659,,['Desserts'],Ajman Corniche,Juha Cafeteria And Sweets
+660,,"['Sri Lankan', 'Indian', 'South Indian']",Ajman Industrial Area,Al Hana Restaurant
+661,,['Fast Food'],Nuaimiya,Al Abaq
+662,,"['Burger', 'Fast Food']",Al Zahra,Chelsea Burger
+663,,"['Fast Food', 'Burger', 'Juices']",Al Bustan,Karak Al Zafran Cafeteria
+664,,"['Pizza', 'Burger']",Al Zahra,Baloot Pizza And Burger
+665,,['Beverages'],Al Zahra,Juice Bar
+666,,"['Indian', 'Arabian', 'Middle Eastern']",Ajman Industrial Area,Al Najwa Restaurant
+667,,"['Pakistani', 'Indian']",Al Rashidiya 2,Qasar Al Khan
+668,,"['Indian', 'South Indian', 'Kerala']",Al Zahra,Al Shammel Restaurant
+669,,['Fast Food'],Nuaimiya,Karak Al Zafran Cafeteria
+670,,"['Fast Food', 'Lebanese']",Al Zahra,Saj Al Dayaa Al Lebnani
+671,,['Cafe'],Al Hamidiya,Bait Al Karak
+672,,"['Pakistani', 'Desserts']",Ajman Industrial Area,Bin Salman Sweets
+673,,"['Burger', 'Fast Food']",Al Jurf,Golden Castle
+674,,"['Fast Food', 'Juices']",Al Nakhil 1,Al Sultan Cafeteria
+675,,"['Street Food', 'Arabian', 'Middle Eastern']",Al Rashidiya 1,Sakhrah Al Rouche
+676,,"['Cafe', 'Arabian', 'Middle Eastern']",Nuaimiya,Meramar Cafe
+677,,"['Fast Food', 'Beverages']",Ajman Corniche,Helu Al Shai Cafeteria
+678,,['Chinese'],"China Mall, Al Jurf Industrial Area",Wheel of Fortune
+679,,"['Healthy Food', 'International']",Al Rashidiya 2,Diet Station
+680,,"['Desserts', 'Middle Eastern', 'Arabian']",Nuaimiya,Noor Al Shams
+681,,['Beverages'],Al Zahra,Juice Bar
+682,,['Fast Food'],Nuaimiya,Al Abaq
+683,,"['Sri Lankan', 'Indian', 'South Indian']",Ajman Industrial Area,Al Hana Restaurant
+684,,['Desserts'],Ajman Corniche,Juha Cafeteria And Sweets
+685,,"['Indian', 'South Indian', 'Fast Food']",Ajman Industrial Area,Green Valley
+686,,"['Pizza', 'Burger']",Al Zahra,Baloot Pizza And Burger
+687,,"['Indian', 'South Indian', 'Kerala']",Al Zahra,Al Shammel Restaurant
+688,,"['Indian', 'Arabian', 'Middle Eastern']",Ajman Industrial Area,Al Najwa Restaurant
+689,,"['Arabian', 'Middle Eastern']",Al Bustan,Fool W Falafl Bu Ali
+690,,['Fast Food'],Nuaimiya,Karak Al Zafran Cafeteria
+691,,"['Grill', 'Fast Food', 'Juices']",Ajman Industrial Area,Rabea Al Madina Restaurant
+692,,"['Fast Food', 'Lebanese']",Al Zahra,Saj Al Dayaa Al Lebnani
+693,,"['Arabian', 'Middle Eastern', 'Grill', 'Fast Food']",Al Nakhil,Al Diyafa Al Shamia Restaurant
+694,,['Cafe'],Al Hamidiya,Xo Cafe
+695,,['Indian'],Al Rashidiya 1,Rokan Al Shai Cafeteria
+696,,"['Arabian', 'Middle Eastern', 'Kebab', 'Grill']",Al Muwaihat,Kookh Mashakeek
+697,,['Lebanese'],"Garden City, Al Hamidiya",Al Barbar Restaurant
+698,,"['Indian', 'Pakistani', 'Mughlai']",Al Nakhil 1,Sana Restaurant
+699,,"['Fast Food', 'Burger', 'Juices']",Al Bustan,Karak Al Zafran Cafeteria
+700,,['Cafe'],Al Hamidiya,La Casa Cafe
+701,,['Fast Food'],Al Muwaihat,Sadaf Restaurant And Cafeteria
+702,,"['Arabian', 'Middle Eastern']",Nuaimiya,Moon Star
+703,,"['Bakery', 'Fast Food']",Al Zahra,Al Nada Automatic Bakery
+704,,"['Indian', 'South Indian']",Al Rashidiya 2,Al Ghadeer Restaurant
+705,,['Cafe'],Al Hamidiya,Coffee Tap
+706,,['Indian'],Al Rashidiya 2,Al Nabil Cafeteria
+707,,"['Indian', 'South Indian']",Nuaimiya,Suhaila Cafeteria & Restaurant
+708,,['Indian'],Nuaimiya,Al Qneitra
+709,,['North Indian'],Nuaimiya,Rohans Curry House
+710,,"['Arabian', 'Middle Eastern']",Al Muwaihat,Dar Al Muwaihat Bakery & Restaurant
+711,,"['Indian', 'Pakistani', 'Chinese', 'Fast Food']",Nuaimiya,Karaz Restaurant
+712,,"['Desserts', 'Beverages']",Al Zorah,Doh
+713,,"['Healthy Food', 'Juices']",Al Bustan,Surf Berry Juices
+714,,"['Indian', 'Pakistani']",Al Muwaihat,Sama Al Khair Restaurant
+715,,['Gujarati'],Al Nakhil,Fakhar Gujrat Restaurant
+716,,"['Indian', 'Hyderabadi']",Al Jurf Industrial Area,Arab Hyderabadi Restaurant
+717,,['Indian'],Al Rashidiya 3,Food Express
+718,,['Mandi'],Al Rashidiya 3,Al Janadriah Restaurant Mandi & Madhbi
+719,,['Fast Food'],Al Bustan,Chai Square Cafeteria
+720,,"['Pakistani', 'Indian']",Al Jurf Industrial Area,Al Madina Restaurant
+721,,"['Indian', 'South Indian']",Al Bustan,Enas Restaurant
+722,,"['Pakistani', 'Indian']",Ajman Industrial Area,Majestic Food Stuff Catering Restaurant
+723,,"['Fast Food', 'Juices']",Al Jurf,Zaeem Al Karak Cafeteria
+724,,"['Bakery', 'Desserts']",Ajman Corniche,Salé Sucré
+725,,"['Arabian', 'Middle Eastern', 'Street Food']",Al Muwaihat,Bakhumri Bites
+726,,"['Arabian', 'Middle Eastern']",Ajman Industrial Area,Al Alif Restaurant
+727,,['Thai'],Al Rashidiya 2,Aroi Thai
+728,,['Mandi'],Al Zahra,Bait Al Jood Mandi Restaurant
+729,,"['Arabian', 'Middle Eastern']",Al Zahra,Darb Al Zalaq Restaurant
+730,,"['Burger', 'Fast Food']","Al Zorah Golf Club, Al Zorah",Voltage Burger
+731,,['Egyptian'],Nuaimiya,Tasha Misria Restaurant
+732,,['Fast Food'],Nuaimiya,Station Berth Restaurant
+733,,['Fast Food'],Nuaimiya,Al Dirham
+734,,['Healthy Food'],Al Hamidiya,Diet Point
+735,,"['Arabian', 'Middle Eastern']",Nuaimiya,Asrar Kitchen Restaurant Popular
+736,,"['Arabian', 'Middle Eastern', 'Juices']",Al Nakhil 1,Sabah Al Madeena Restaurant
+737,,"['Fast Food', 'Juices']",Nuaimiya,Al Mearaj Restaurant
+738,,"['South Indian', 'North Indian', 'Mughlai']",Al Nakhil 1,Alpha Restaurant
+739,,"['Arabian', 'Middle Eastern', 'Mandi']",Al Zahra,Rawadat Al Madina Kitchen & Restaurant
+740,,"['Indian', 'South Indian']",Ajman Industrial Area,Sky Restaurant
+741,,['Seafood'],"Ajman One Towers, Al Rashidiya 3",Doctor Samak
+742,,"['Bakery', 'Desserts']",Al Muwaihat,Bake Home Gulf Pastry & Sweets
+743,,"['Healthy Food', 'European', 'Grill']",Al Jurf,Healthy Champs Restaurant
+744,,"['Indian', 'Pakistani', 'Arabian', 'Middle Eastern']",Al Jurf,Qasr Al Jirf Restaurant
+745,,"['Fast Food', 'Desserts', 'Beverages']",Al Jurf,Fizzi
+746,,"['Indian', 'Fast Food']",Al Jurf,Menu
+747,,['Kerala'],Al Rumailah,Mango Restaurant
+748,,"['Arabian', 'Middle Eastern', 'Pakistani']",Al Jurf,Najmat Al Jurf
+749,,['Indian'],Al Rashidiya 2,Othman Restaurant
+750,,['Indian'],Al Jurf,Chicken Express
+751,,"['Arabian', 'Middle Eastern']",Al Zahra,Qaryat Pastry
+752,,"['Indian', 'South Indian']",Al Bustan,Sabeel Cafeteria
+753,,['Indian'],Al Jurf Industrial Area,Rokon Al Shai Cafeteria
+754,,"['Fast Food', 'Juices']",Al Zahra,Al Najaf Cafeteria
+755,,"['Fast Food', 'Juices']",Ajman Corniche,Zaman Al Khair Cafeteria
+756,,"['Arabian', 'Middle Eastern']",Nuaimiya,Al Nafoora
+757,,"['Chinese', 'South Indian', 'Fast Food', 'Beverages']",Al Rashidiya 3,Cup & Lip
+758,,"['Fast Food', 'Juices']",Ajman Industrial Area,Bahar Al Abiyad Cafeteria
+759,,"['Arabian', 'Middle Eastern', 'Egyptian']",Al Zahra,Koshari Zaman Restaurant
+760,,['Indian'],Al Rumailah,Al Mashreq Restaurant
+761,,['Cafe'],Al Rashidiya 1,Classiciat Coffeeshop
+762,,['Fast Food'],Al Rumailah,Najma W Qamar Cafeteria
+763,,"['Bangladeshi', 'Indian']",Al Zahra,Hazem Restaurant
+764,,['Indian'],Al Bustan,Al Jadeed Restaurant
+765,,"['Fast Food', 'Juices']",Al Jurf,Wadi Al Nakheel Cafeteria
+766,,"['Fast Food', 'Beverages']",Nuaimiya,Haleeb Al Zafran
+767,,"['Indian', 'North Indian']",Al Bustan,Shekhawati Restaurant
+768,,"['Cafe', 'Arabian', 'Middle Eastern']",Nuaimiya,Weld Al Daira
+769,,"['Fast Food', 'Juices', 'Beverages']",Al Zahra,New Palace Cafeteria
+770,,"['Fast Food', 'Juices']",Al Jurf,Matar Cafeteria
+771,,['South Indian'],Al Bustan,Tandoor Restaurant
+772,,['Emirati'],Al Rashidiya 3,Al Qasr Al Emarati
+773,,"['Tea', 'Fast Food']",Meshairef,Tea For You Cafeteria
+774,,"['Fast Food', 'Beverages', 'Juices']",Al Rashidiya 2,Shai Al Zafran Cafeteria
+775,,"['Arabian', 'Middle Eastern']",Al Zahra,Warq Enab Asli Restaurant
+776,,"['Indian', 'South Indian', 'North Indian']",Al Rashidiya 3,Shrooq Al Shams Restaurant
+777,,"['Arabian', 'Middle Eastern']",Nuaimiya,Beirut Cafeteria
+778,,"['Desserts', 'Coffee']",Al Zorah,Ace Of Beans
+779,,"['Indian', 'Pakistani']",Ajman Industrial Area,Bu Al Asmar
+780,,['Fast Food'],Al Jurf,Friends  Cafeteria
+781,,"['Fast Food', 'Juices']",Al Muwaihat,Dar of Tea Cafeteria
+782,,"['Arabian', 'Middle Eastern']",Ajman Industrial Area,Yaseen Sweets Restaurant
+783,,['Indian'],Al Zahra,Najma Al Itehad Public Kitchen
+784,,"['Arabian', 'Yemeni', 'Mandi']",Al Zahra,Qaser Balqees Kitchen & Restaurant
+785,,"['Fast Food', 'Indian']",Ajman Industrial Area,Delicious Bites Restaurant & Cafeteria
+786,,['Finger Food'],"Ajman Beach Hotel, Ajman Corniche",Pergola - Ajman Beach Hotel
+787,,['Pakistani'],Al Jurf Industrial Area,Al Tabaq Restaurant
+788,,"['Pakistani', 'Bangladeshi']",Ajman Industrial Area,Khair Al Madina Restaurant
+789,,['Pakistani'],Al Bustan,Shakoor Restaurant
+790,,"['Indian', 'Pakistani']",Al Jurf Industrial Area,Asian Spice Restaurant
+791,,"['Arabian', 'Middle Eastern']",Al Tallah,Bait Al Rqaq
+792,,"['Indian', 'South Indian', 'Kerala']",Nuaimiya,Ali Nasar Restaurant
+793,,"['Desserts', 'Beverages']",Nuaimiya,Al Bait Juice And Ice Cream
+794,,['Lebanese'],Al Tallah,Hummus Brothers
+795,,['Pakistani'],Ajman Industrial Area,Noor Popular Kitchen
+796,,"['Arabian', 'Middle Eastern']",Al Hamidiya,Bait Al Emirates
+797,,['Fast Food'],Ajman Industrial Area,Al Ahlam Cafeteria
+798,,['Pakistani'],Al Jurf Industrial Area,Nojom Restaurant & Public Kitchen
+799,,"['Arabian', 'Middle Eastern']",Meshairef,Alsarood Traditional Foods
+800,,['Cafe'],Al Rumailah,Al Turath Coffee
+801,,"['Arabian', 'Middle Eastern']",Al Zahra,Bait Al Kabab Restaurant
+802,,"['Fast Food', 'Juices']",Al Zahra,Al Majrah Cafeteria
+803,,['Fast Food'],Al Muwaihat,Rashed Ali Cafeteria
+804,,"['Tea', 'Fast Food']",Al Zahra,Karak Al Zafran
+805,,['Fast Food'],Ajman Industrial Area,Tasty Palace
+806,,"['Pakistani', 'Indian']",Al Zahra,Zahrat Al Narjes Restaurant
+807,,"['Fast Food', 'Beverages', 'Juices']",Nuaimiya,Seaside Cafeteria
+808,,['Pakistani'],Ajman Industrial Area,Faizan Restaurant
+809,,['Fast Food'],Al Jurf,Chicken Hut
+810,,['Cafe'],Nuaimiya,Maya Cafe
+811,,['Pakistani'],Ajman Industrial Area,Peshawar Restaurant
+812,,"['Middle Eastern', 'Arabian', 'Mandi']",Al Rashidiya 2,Al Hareef Mandi & Traditional Food Restaurant
+813,,['Fast Food'],Al Bustan,Foodclub Restaurant
+814,,['Indian'],Al Bustan,Anaad Cafeteria
+815,,['Bakery'],Al Muwaihat,Cake Gallery
+816,,['Seafood'],Al Hamidiya,Sea Bass Restaurant
+817,,"['Fast Food', 'Burger', 'Juices']",Meshairef,Al Asr Cafeteria
+818,,['Fast Food'],Nuaimiya,Shai Al Bateen Cafeteria
+819,,"['Indian', 'South Indian']",Ajman Industrial Area,Cafeteria Marwan
+820,,"['Arabian', 'Mandi']",Nuaimiya,Al Hanoof Public Kitchen
+821,,"['Fast Food', 'Beverages']",Al Bustan,Al Maraya Cafeteria
+822,,"['Fast Food', 'Arabian']",Al Rashidiya 1,Pasito Cafe
+823,,['Cafe'],Al Rashidiya 1,Al Waan Coffee Shop
+824,,['Pakistani'],Ajman Industrial Area,Gulf Flower Restaurant
+825,,['Pakistani'],Ajman Industrial Area,Adeel Restuarant
+826,,"['Arabian', 'Middle Eastern', 'Mandi', 'Biryani']",Al Zahra,Al Falah Popular Kitchen
+827,,['Lebanese'],Al Bustan,Al Biet Al Masri Restaurant
+828,,"['Arabian', 'Middle Eastern']",Ajman Corniche,Zad Al Khair
+829,,"['Fast Food', 'Juices']",Al Rashidiya 3,Al Hamamiya Cafeteria
+830,,['Fast Food'],Al Bustan,Smart Tea Cafeteria
+831,,['Fast Food'],Ajman Industrial Area,Bustan Al Shay Cafeteria
+832,,['Pakistani'],Ajman Industrial Area,Masud Akhter Restaurant & Sweets
+833,,['Cafe'],Ajman Industrial Area,Al Kawakeb Coffee Shop
+834,,['Afghan'],Al Jurf Industrial Area,Shams Al Afghani Restaurant
+835,,['Cafe'],Al Rumailah,Shai Al Jazaer
+836,,"['Burger', 'Fast Food', 'Chinese']",Nuaimiya,Falafil Lebnan Cafeteria
+837,,['Indian'],Al Zahra,Afreen Restaurant
+838,,"['Bakery', 'Lebanese']",Al Zahra,Barjeel Bakery
+839,,"['Fast Food', 'Juices']",Al Jurf,Al Jenan Cafeteria
+840,,['Cafe'],Al Hamidiya,Toast Bar
+841,,"['North Indian', 'Fast Food']",Al Rashidiya 1,Tahera Restaurant
+842,,"['Fast Food', 'Juices']",Nuaimiya,Hamdan Cafeteria
+843,,['Middle Eastern'],Al Rashidiya 3,Ayam Shamyah
+844,,"['Indian', 'South Indian']",Al Rashidiya 3,Saqer Cafeteria
+845,,"['Indian', 'Fast Food', 'Juices']",Al Rumailah,Live Cafeteria & Restaurant
+846,,"['Arabian', 'Middle Eastern']",Ajman Corniche,Shams Al Sham
+847,,['Pakistani'],Al Rashidiya 1,Shams Al Khan Restaurant
+848,,"['Fast Food', 'Indian', 'Pakistani']",Nuaimiya,Wadi Sialkot Restaurant
+849,,"['Fast Food', 'Juices']",Al Nakhil,Tea Break Cafeteria
+850,,"['Fast Food', 'Beverages']",Al Hamidiya,Hoop
+851,,['Fast Food'],Al Jurf,Rajab Cafeteria
+852,,"['Indian', 'North Indian']",Ajman Industrial Area,Bombay Restaurant
+853,,['Bakery'],Ajman Industrial Area,Al Madeena Automatic Bakery
+854,,"['Biryani', 'Pakistani']",Ajman Industrial Area,Al Thuq Popular Kitchen
+855,,"['Fast Food', 'Juices']",Al Bustan,Afnan Cafeteria
+856,,"['Arabian', 'Middle Eastern', 'Fast Food', 'Juices']",Al Jurf,Wardat Al Fawar Restaurant & Cafeteria
+857,,"['Fast Food', 'Juices']",Al Rashidiya 1,Magic Light Cafeteria
+858,,['Bakery'],Al Bustan,Big Bun Bakery
+859,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Rashidiya 3,Aladien Restaurant & Traditional Kitchen
+860,,['Indian'],Al Nakhil,Al Banader Restaurant
+861,,['Indian'],Nuaimiya,Al Dhuha Restaurant
+862,,['Iranian'],Al Zorah,Zafaran
+863,,"['Cafe', 'Fast Food']",Ajman Corniche,Amissa Cafe
+864,,"['Biryani', 'Mandi']",Al Zahra,Zahrat Al Mabrook Kitchen And Restaurant
+865,,"['Indian', 'South Indian']",Ajman Industrial Area,Al Kawakeb Cafeteria
+866,,['Cafe'],Al Hamidiya,Just Sweet Cafe
+867,,"['Fast Food', 'Burger', 'Juices']",Al Zahra,Hanya Cafeteria
+868,,"['Fast Food', 'Juices']",Ajman Corniche,Zaman Al Khair Cafeteria
+869,,"['Fast Food', 'Juices']",Al Nakhil,Tea Break Cafeteria
+870,,"['Arabian', 'Middle Eastern']",Nuaimiya,Ibn Al Sham Snack
+871,,"['Bakery', 'Lebanese']","Emarat Petrol Station, Meshairef",Bake Home Sweets & Pastry
+872,,"['Indian', 'Chinese']",Al Jurf Industrial Area,Lal Mahal Restaurant
+873,,['Pakistani'],Ajman Industrial Area,Gulf Flower Restaurant
+874,,"['Arabian', 'Middle Eastern']",Nuaimiya,Flafel Mashawi Al Shami Restaurant
+875,,"['Indian', 'Fast Food', 'Grill', 'Juices']",Al Zahra,Rock Inn Restaurant
+876,,['Pakistani'],Ajman Industrial Area,Ghulam Restaurant
+877,,['Cafe'],Nuaimiya,Al Sindibad
+878,,['Cafe'],Al Muwaihat,Coffee Corner
+879,,"['Biryani', 'Bangladeshi']",Ajman Industrial Area,Al Anaam Restaurant
+880,,['Fast Food'],Al Jurf,Healthy Snack Cafeteria
+881,,['Cafe'],Nuaimiya,Ghawas Coffee Shop
+882,,['Pakistani'],Ajman Industrial Area,Noor Mohammad Restaurant
+883,,"['Indian', 'Kerala']",Al Jurf Industrial Area,Al Tammam Restaurant
+884,,['Indian'],Nuaimiya,Al Dhuha Restaurant
+885,,"['Arabian', 'Middle Eastern']",Nuaimiya,Ibn Al Sham Snack
+886,,"['Fast Food', 'Burger']",Ajman Industrial Area,Al Ahasn Cafeteria
+887,,['Cafe'],Al Hamidiya,Just Sweet Cafe
+888,,"['Arabian', 'Grill', 'Middle Eastern']",Al Bustan,Al Akell Restaurant
+889,,['Iranian'],Al Zorah,Zafaran
+890,,"['Cafe', 'Fast Food']",Ajman Corniche,Amissa Cafe
+891,,"['Indian', 'South Indian']",Ajman Industrial Area,Al Kawakeb Cafeteria
+892,,"['Fast Food', 'Burger', 'Juices']",Al Zahra,Hanya Cafeteria
+893,,"['Indian', 'Chinese']",Al Jurf Industrial Area,Lal Mahal Restaurant
+894,,"['Arabian', 'Middle Eastern']",Nuaimiya,Flafel Mashawi Al Shami Restaurant
+895,,"['Indian', 'South Indian']",Al Zahra,Ain Al Seera
+896,,"['Arabian', 'Middle Eastern']",Al Zahra,Khubz W Kabab Har
+897,,"['Biryani', 'Mandi']",Al Zahra,Zahrat Al Mabrook Kitchen And Restaurant
+898,,"['Arabian', 'Middle Eastern', 'Bakery']",Al Rashidiya 3,Tufeaha Pastry
+899,,['Filipino'],"China Mall, Al Jurf Industrial Area",Happy Tiyan Restaurant
+900,,['Fast Food'],Al Rashidiya 1,Qaser Al Rashidiya Cafeteria
+901,,"['Bakery', 'Lebanese']","Emarat Petrol Station, Meshairef",Bake Home Sweets & Pastry
+902,,['Indian'],Al Bustan,Al Naqa'a Restaurant
+903,,"['Fast Food', 'Juices']",Nuaimiya,Talal Cafeteria
+904,,"['Middle Eastern', 'Arabian']",Al Zahra,Al Amani Restaurant& Shaebi Kitchen
+905,,"['African', 'Seafood']",Nuaimiya,Cleopatra Restaurant
+906,,"['Mandi', 'Yemeni']",Al Muwaihat,Malek Al Mandi Restaurant
+907,,"['Indian', 'South Indian', 'North Indian']",Al Rashidiya 2,Al Rashidiya Cafeteria
+908,,['Cafe'],"City Life Jurf, Al Jurf",Black Drop
+909,,"['Cafe', 'Beverages']",Ajman Corniche,Mr. G Class Cafe
+910,,"['Bakery', 'Middle Eastern']",Nuaimiya,Baba Fatayer
+911,,"['Fast Food', 'Beverages']",Nuaimiya,Agadheer Palace Cafeteria
+912,,['Fast Food'],Al Hamidiya,Loqmitna w Kosharina
+913,,['Fast Food'],Al Zahra,Bait Al Noor Cafeteria
+914,,"['Fast Food', 'Burger', 'Juices']",Nuaimiya,King Of Tea
+915,,"['Fast Food', 'Juices']",Al Bustan,Madinat Al Salam
+916,,['Pakistani'],Al Rumailah,Al Taher Restaurant
+917,,['Fast Food'],Nuaimiya,Hot Tea Cafeteria
+918,,"['Arabian', 'Middle Eastern']",Al Jurf,Falafil Al Quds Cafeteria
+919,,['Fast Food'],Al Hamidiya,Shai Al Zafran Cafeteria
+920,,"['Fast Food', 'Indian', 'Arabian', 'Middle Eastern', 'Chinese']",Nuaimiya,Al Rumman Cafeteria
+921,,['Fast Food'],Al Rashidiya 3,Hub Eat (Sigiriya Restaurant)
+922,,"['Pakistani', 'Indian', 'Chinese', 'BBQ']",Al Rumailah,Osama Restaurant
+923,,['Indian'],Al Jurf Industrial Area,Wadi Al Jurf Restaurant
+924,,['Pakistani'],Al Rashidiya 3,Jebel Kashmir Restaurant
+925,,"['Arabian', 'Middle Eastern']",Nuaimiya,JRA Restaurant
+926,,['Seafood'],Al Rashidiya 1,Sardina Seafood
+927,,['African'],Nuaimiya,Diana Restaurant
+928,,"['Fast Food', 'Beverages']",Al Rumailah,Hamad Cafeteria
+929,,['Pakistani'],"Garden City, Al Hamidiya",Al Jouda Restaurant
+930,,['Fast Food'],"Festival Land, Al Jurf Industrial Area",Daily Fresh
+931,,['Fast Food'],Al Muwaihat,Masbah Al Dar Cafeteria
+932,,"['Pakistani', 'Fast Food', 'Grill']",Ajman Industrial Area,Abdali Restaurant
+933,,['Fast Food'],Al Muwaihat,Casa Pasta & Shrimp
+934,,"['Desserts', 'Coffee']","China Mall, Al Jurf Industrial Area",Darina Stop
+935,,"['Fast Food', 'Juices']",Al Zahra,Ain Darah Cafeteria
+936,,"['Fast Food', 'Cafe']",Ajman Corniche,Orange Cafe
+937,,"['Indian', 'South Indian', 'Bengali']",Ajman Industrial Area,Mohamed Akbar Restaurant
+938,,['Fast Food'],Al Nakhil 1,Strawberry Restaurant & Cafeteria
+939,,"['Fast Food', 'Beverages', 'Juices']",Al Rashidiya 2,Al Majed Cafeteria
+940,,['South Indian'],Al Jurf Industrial Area,Get One Restaurant  & Cafeteria
+941,,"['Arabian', 'Middle Eastern']",Al Muwaihat,Sheel W Mashi
+942,,"['Beverages', 'Juices']",Al Muwaihat,Cocktail Al Sham
+943,,['Indian'],Al Hamidiya,Desi Baba
+944,,['Fast Food'],Al Muwaihat,Rajab Cafeteria
+945,,"['Fast Food', 'Juices']",Al Bustan,New Tea Time Cafeteria
+946,,['Fast Food'],Ajman Industrial Area,Al Mas Cafeteria
+947,,['Fast Food'],Nuaimiya,Al Ruby Cafeteria
+948,,"['Arabian', 'Middle Eastern', 'Bakery']",Al Rashidiya 2,Malek Halwit Al Jebin
+949,,"['Arabian', 'Middle Eastern']","Marsa Ajman, Ajman Corniche",Sea Breeze Restaurant & Cafe
+950,,"['Fast Food', 'Juices']",Ajman Industrial Area,Al Muheet Cafeteria
+951,,"['Fast Food', 'Tea']",Nuaimiya,Karak Al Madina Cafeteria
+952,,['Indian'],Ajman Industrial Area,Cafe Six (Al Qasba Cafeteria)
+953,,['Cafe'],Al Hamidiya,Al Dewanya Coffee Shop
+954,,['Indian'],Al Jurf Industrial Area,Bombay Lucky Restaurant
+955,,"['Fast Food', 'Burger']",Al Hamidiya,Shai Al Hubbick Cafeteria
+956,,"['Indian', 'South Indian', 'Kerala']",Al Rashidiya 3,Right Way Restaurant
+957,,['Indian'],Al Muwaihat,Royal Garden
+958,,"['Fast Food', 'Juices']",Al Zahra,Nashwan Cafeteria
+959,,['Cafe'],Al Rashidiya 3,Samiramis Cafeteria and Coffee Shop
+960,,"['Fast Food', 'Tea']",Ajman Industrial Area,Tea Bree
+961,,['Fast Food'],Ajman Industrial Area,Naseeb Cafeteria
+962,,"['American', 'Fast Food']",Al Zahra,Brittle
+963,,"['Indian', 'Pakistani']",Al Jurf Industrial Area,Afdal Kitchen And Restaurant
+964,,['Pakistani'],Ajman Industrial Area,Konoz Al Baher Restuarant And Sweets
+965,,"['Bangladeshi', 'Indian']",Ajman Industrial Area,Al Zahra New Restaurant
+966,,"['Fast Food', 'Beverages']",Nuaimiya,Miah Fil Miah Cafeteria
+967,,"['Arabian', 'Middle Eastern', 'Lebanese']",Al Hamidiya,Al Sagheerh Pastry
+968,,['Indian'],Ajman Industrial Area,Najam Al Sahara
+969,,"['Tea', 'Fast Food']",Al Zahra,Shai Al Zafran Cafeteria
+970,,"['South Indian', 'Pakistani']",Al Rashidiya 1,Tasty Buds
+971,,['South Indian'],Al Nakhil,Zahrat Al Madina Restaurant
+972,,['Cafe'],Al Rashidiya 1,Askisham
+973,,['Fast Food'],Al Rashidiya 2,Sahar Cafeteria
+974,,['Cafe'],Al Zahra,QSH Specialty Coffee
+975,,"['Pizza', 'Italian']","Grand Centrale Mall, Al Jurf",NYC Pizza
+976,,['Pakistani'],Ajman Industrial Area,Samer Restaurant
+977,,"['Arabian', 'Middle Eastern', 'Grill']",Al Hamidiya,Hash W Nash
+978,,['Bakery'],Al Jurf Industrial Area,Al Khayam Bakery & Sweets
+979,,['Fast Food'],Al Bustan,Mazaya Cafeteria
+980,,['Beverages'],Nuaimiya,House Of Green Tea
+981,,['International'],"Marsa Ajman, Ajman Corniche",Diala
+982,,['Indian'],Nuaimiya,Al Shami Cafeteria
+983,,['Fast Food'],Al Zahra,New Fresh Burger
+984,,"['Cafe', 'Fast Food']",Al Jurf Industrial Area,Arheb Caffe
+985,,"['Fast Food', 'Juices']",Al Muwaihat,Real Estikana Cafeteria
+986,,"['Pakistani', 'Indian']",Nuaimiya,Shams Al Nahar
+987,,['Cafe'],Nuaimiya,Durwa Cafe
+988,,"['Indian', 'South Indian']",Al Nakhil 1,Hala Restaurant
+989,,"['North Indian', 'Indian']",Ajman Industrial Area,Peshawar Darbar Restaurant
+990,,"['Fast Food', 'Juices']",Al Muwaihat,Awraq Al Shay
+991,,['Middle Eastern'],Al Rashidiya 1,Al Ahreer
+992,,"['Fast Food', 'Beverages']",Al Zahra,Al Thameed Cafeteria
+993,,['Cafe'],Al Rashidiya 1,Al Habayeb Coffee Shop
+994,,['Indian'],Al Nakhil 1,Noor Al Safa Restaurant
+995,,['Indian'],Ajman Industrial Area,Galaxy Cafeteria
+996,,"['Fast Food', 'Kerala']",Al Nakhil 1,Saif Humaid Cafeteria
+997,,"['Indian', 'South Indian']",Ajman Industrial Area,Al Nkha Al Mumayaza
+998,,['Cafe'],Al Bustan,Work Hub
+999,,['Pakistani'],Al Jurf Industrial Area,Hanif Qureshi Restaurant
+1000,,"['Indian', 'South Indian']",Ajman Industrial Area,Naseem Al Rabeeh Cafeteria
+1001,,['Fast Food'],"Festival Land, Al Jurf Industrial Area",Karak Tea
+1002,,"['Desserts', 'Arabian', 'Middle Eastern']",Al Zahra,Golden Kunafa
+1003,,['Indian'],Al Nakhil,Hasna Cafeteria
+1004,,"['Fast Food', 'Juices', 'Beverages']",Al Nakhil,SimSim Cafeteria
+1005,,['Turkish'],Al Zahra,Al Tarboosh Al Lebnani
+1006,,"['Fast Food', 'Beverages']",Al Nakhil 1,Hot Food Cafeteria
+1007,,"['Fast Food', 'Juices', 'Burger']",Al Nakhil 1,Al Abeer Cafeteria
+1008,,['Indian'],Al Rashidiya 2,Noor Al Sama Cafeteria
+1009,,['Pakistani'],Nuaimiya,Shine Restaurant
+1010,,"['Kerala', 'Fast Food', 'Juices']",Al Rashidiya 2,Anfal Al Madeena Cafeteria
+1011,,['Fast Food'],Nuaimiya,Al Zain Cafeteria
+1012,,"['Lebanese', 'Middle Eastern', 'Arabian']",Al Hamidiya,Arzet Lebanon Cafeteria
+1013,,"['Fast Food', 'Juices']",Al Zahra,Time Out
+1014,,"['Arabian', 'Middle Eastern', 'Indian', 'Fast Food', 'Chinese']",Al Jurf Industrial Area,Arabian Grill House
+1015,,['Fast Food'],Al Zahra,Beanzo Cafeteria
+1016,,"['Arabian', 'Middle Eastern']",Ajman Industrial Area,Zaithoon Al Wardah
+1017,,"['Fast Food', 'Juices']",Ajman Industrial Area,Golden Leaves Cafeteria
+1018,,['Fast Food'],Al Bustan,Badran Cafeteria
+1019,,['Cafe'],Al Jurf,Gerard
+1020,,['Sushi'],Al Hamidiya,Sushi Enab
+1021,,"['Fast Food', 'Juices']",Ajman Industrial Area,Shay Nanaa Akhdher Cafeteria
+1022,,"['Arabian', 'Middle Eastern']",Al Rashidiya 1,Al Tahoona Pastry
+1023,,"['Fast Food', 'Juices']",Al Zahra,Cafeteria Sameeha
+1024,,['Fast Food'],Al Zahra,Burger Time Cafeteria
+1025,,['Pakistani'],Ajman Industrial Area,Taraheeb Restaurant & Cafeteria
+1026,,"['Fast Food', 'Beverages']",Al Rashidiya 3,Shai Al Rehan
+1027,,"['Fast Food', 'Juices']",Al Nakhil,Al Sadia Cafeteria
+1028,,['Fast Food'],Al Jurf,Khely Shay
+1029,,['Cafe'],Meshairef,Vue
+1030,,"['Fast Food', 'Burger', 'Juices']",Al Zahra,Al Salama Cafeteria
+1031,,['Pakistani'],Al Muwaihat,Najam Al Mousam Restaurant
+1032,,"['Fast Food', 'Juices']",Al Bustan,Al Hadaf Cafeteria
+1033,,"['Indian', 'South Indian']",Ajman Industrial Area,Lubna Restaurant
+1034,,['Fast Food'],Al Jurf,Laffat Wrq Enb Cafeteria
+1035,,"['Fast Food', 'Juices']",Al Zahra,Shams Al Aseel
+1036,,['Fast Food'],Ajman Industrial Area,Al Ajwa Cafeteria
+1037,,"['Fast Food', 'Juices']",Al Hamidiya,Steaking Cafeteria
+1038,,['Pakistani'],Al Bustan,Belal Restaurant
+1039,,"['Fast Food', 'Burger']",Al Zahra,Karak Al Bahrain Cafeteria
+1040,,"['Kerala', 'North Indian']",Nuaimiya,Al Zahra Restaurant
+1041,,"['Fast Food', 'Juices', 'Tea']",Ajman Industrial Area,Alfain Wa Eshreen Cafeteria
+1042,,['North Indian'],Ajman Industrial Area,Bukhari Saeed Kitchen & Restaurant
+1043,,"['North Indian', 'South Indian']",Al Jurf Industrial Area,Al Hibah Restaurant
+1044,,['Pakistani'],Al Rashidiya 1,Noor Dunya Al Sham
+1045,,"['Fast Food', 'Juices']",Al Rashidiya 3,Minha Cafeteria
+1046,,['Pakistani'],Ajman Industrial Area,Rashed Restaurant
+1047,,['Cafe'],Nuaimiya,Sateer Cafe
+1048,,['Fast Food'],Ajman Industrial Area,Hamza Tanveer Cafeteria
+1049,,"['Fast Food', 'Juices']",Al Zahra,Souq Al Shay
+1050,,"['Arabian', 'Middle Eastern']",Nuaimiya,Al Mafgoa
+1051,,"['Indian', 'South Indian']",Ajman Industrial Area,Alwan Restaurant
+1052,,['Bangladeshi'],Nuaimiya,Al Tharwa Restaurant
+1053,,['Middle Eastern'],Nuaimiya,Badaweyah Restaurant  Al Asly
+1054,,['Cafe'],Nuaimiya,Al Mashaheer
+1055,,['Fast Food'],Nuaimiya,House Of Tea
+1056,,"['Fast Food', 'Burger']",Al Zahra,Alteen Wal Zaitoon Cafeteria
+1057,,"['Pakistani', 'Chinese']",Ajman Industrial Area,Al Balqan Cafeteria
+1058,,['Cafe'],Ajman Industrial Area,Florida Coffee Shop
+1059,,['Grill'],Ajman Industrial Area,Tikka Corner Restaurant
+1060,,"['Fast Food', 'Juices']",Al Jurf,Al Banafsaj Cafeteria
+1061,,['Fast Food'],Al Bustan,Misk Of Tea
+1062,,"['Pakistani', 'Indian']",Ajman Industrial Area,Muhsin Restaurant
+1063,,"['Lebanese', 'Middle Eastern']",Ajman Corniche,Tanoor Daia Daiaa Restaurant & Cafe
+1064,,"['Pakistani', 'Fast Food']",Al Rashidiya 3,Qasr Al Kabab Restaurant
+1065,,"['Arabian', 'Middle Eastern']",Al Zahra,Al Maroof Traditional Kitchen & Restaurant
+1066,,['Fast Food'],Al Zahra,Al Sadaf Pastry
+1067,,"['Indian', 'South Indian']",Al Bustan,Flavors Restaurant
+1068,,['Indian'],Ajman Industrial Area,Desi Pakwan Restaurant
+1069,,['Cafe'],Al Jurf,Qaser Al Layaly Cafe
+1070,,"['Fast Food', 'Burger']",Al Jurf,Racing Of Taste Cafe
+1071,,['Pakistani'],Al Bustan,Muhammad Bilal Restaurant
+1072,,['Grill'],Al Zahra,Robuoa Al Sham Restaurant & Grill
+1073,,['Fast Food'],Nuaimiya,Al Zuhoor Al Molawana
+1074,,['Fast Food'],Al Zahra,Al Hamd Cafeteria
+1075,,['Fast Food'],Al Bustan,Al Sada Cafeteria
+1076,,['Indian'],Ajman Industrial Area,Al Ajwad Restaurant
+1077,,['Cafe'],Ajman Corniche,Nagam Cafe
+1078,,['Fast Food'],Ajman Industrial Area,Coffee Time Cafeteria (Karak Al Zafran)
+1079,,"['Arabian', 'Middle Eastern']",Al Hamidiya,Al Hoot Al Azraq
+1080,,['Fast Food'],Ajman Industrial Area,Good Luck Cafeteria
+1081,,"['Indian', 'North Indian']",Al Jurf Industrial Area,Tahira Foodstuff Catering
+1082,,"['Fast Food', 'Beverages']",Ajman Corniche,Najmet Al Bahar Restaurant
+1083,,"['Fast Food', 'Beverages']",Ajman Industrial Area,Taazaa Tea Cafeteria
+1084,,"['Desserts', 'Beverages']",Al Zahra,Karaz Al Sham
+1085,,"['Fast Food', 'Beverages']",Nuaimiya,Arayes Cafeteria
+1086,,"['Fast Food', 'Juices', 'Grill']",Al Hamidiya,Akl Zaman Meal
+1087,,['Fast Food'],Al Jurf,Dallat Khor Cafeteria
+1088,,"['Fast Food', 'Juices']",Al Rashidiya 2,Al Suhood Cafeteria
+1089,,"['Beverages', 'Fast Food']",Al Rashidiya 1,King Of Tea
+1090,,"['Indian', 'Pakistani']",Ajman Industrial Area,Mahjabin Restaurant
+1091,,"['Fast Food', 'Juices']",Al Zahra,Tea Point
+1092,,"['Fast Food', 'Beverages']",Nuaimiya,Al Nazeeb Cafeteria
+1093,,['Cafe'],Ajman Industrial Area,Al Fala Cafe
+1094,,"['Fast Food', 'Juices']",Al Zahra,Isthirahath  Al Shai Cafeteria
+1095,,['Pakistani'],Al Zahra,Al Khair Kitchen
+1096,,"['Fast Food', 'Cafe', 'Beverages']",Al Zahra,Zawruq Al Shai
+1097,,['Cafe'],Meshairef,Bayadh  Thalg Cafe
+1098,,"['Indian', 'South Indian']",Al Jurf,Barakat Cafeteria
+1099,,"['Fast Food', 'Juices']",Al Tallah,Malik Al Qahwa
+1100,,['Indian'],Al Rashidiya 1,Fulkoli
+1101,,"['Chettinad', 'North Indian', 'South Indian']",Nuaimiya,Wadi Al Madeena
+1102,,['Lebanese'],Al Nakhil 1,Amanos
+1103,,['Fast Food'],Al Rashidiya 2,Al Rida Cafeteria
+1104,,['Indian'],Nuaimiya,Al Khashkha Cafeteria
+1105,,['Indian'],Ajman Industrial Area,Masuma Restaurant
+1106,,['Cafe'],Al Hamidiya,Good & Guiltfree Cafe (GNG Cafe)
+1107,,"['Arabian', 'Middle Eastern']","Safeer Mall, Nuaimiya",Middle Way Restaurant
+1108,,['Fast Food'],Ajman Industrial Area,Al Yaser Restaurant
+1109,,['Indian'],Ajman Industrial Area,Al Amana
+1110,,['Lebanese'],Al Zahra,Al Mazaq Al Shami
+1111,,['Pakistani'],Ajman Industrial Area,Fauzya Cafeteria
+1112,,['Pakistani'],Al Rashidiya 1,Afsah
+1113,,['Cafe'],Al Rashidiya 1,Afandina Cafeteria & Coffeeshop
+1114,,['Indian'],Al Rashidiya 2,Al Meqnas Restaurant
+1115,,['Indian'],Ajman Industrial Area,Fresh And Fish Restaurant
+1116,,['Indian'],Ajman Industrial Area,Al Yateem Cafeteria
+1117,,['Fast Food'],Al Hamidiya,King Of Tea
+1118,,"['Arabian', 'Middle Eastern']",Nuaimiya,Rihab Al Sham
+1119,,"['Fast Food', 'Juices']",Al Bustan,Karak Al Zafran Cafeteria
+1120,,['Pakistani'],Al Zahra,Al Syamy Restaurant
+1121,,['Fast Food'],Al Hamidiya,Chickemania
+1122,,"['Fast Food', 'Juices']",Nuaimiya,Al Majlis Cafeteria
+1123,,['Pakistani'],Ajman Industrial Area,Abdul Hakam
+1124,,"['Indian', 'Fast Food', 'Chinese']",Al Nakhil 1,Al Minar Restaurant
+1125,,"['Filipino', 'Burger']",Al Jurf,Lizayz Cafeteria LLC
+1126,,"['Fast Food', 'Juices']",Nuaimiya,Al Majlis Cafeteria
+1127,,['Indian'],Nuaimiya,Al Manzel Cafeteria
+1128,,['Fast Food'],Al Rashidiya 3,Organic Tea Cafeteria
+1129,,"['Fast Food', 'Juices']",Al Nakhil,Raneem Cafeteria
+1130,,"['Indian', 'South Indian']",Ajman Industrial Area,Al Gharafa Cafeteria
+1131,,['Fast Food'],Meshairef,Alamaken Cafe
+1132,,['Fast Food'],Al Jurf,Me & Him Restaurant
+1133,,"['Indian', 'Pakistani']",Ajman Industrial Area,Sahraa Al Khaleej
+1134,,['Indian'],Al Jurf,Al Muatassem Restaurant
+1135,,"['Fast Food', 'Burger', 'Juices']",Al Bustan,Samah Cafeteria
+1136,,['Indian'],Ajman Industrial Area,Al Seham Restaurant
+1137,,"['Fast Food', 'Juices']","China Mall, Al Jurf Industrial Area",NFFC (Najmat Al Fajur Food Corner)
+1138,,"['Street Food', 'Juices']",Nuaimiya,Malek Alkofe Cafe
+1139,,['Indian'],Ajman Industrial Area,Majanah Cafeteria
+1140,,['Fast Food'],Nuaimiya,Mawwal Cafeteria
+1141,,['Pakistani'],Ajman Industrial Area,New Al Kabab Al Saree
+1142,,['Street Food'],"China Mall, Al Jurf Industrial Area",Cup Corn Cafeteria
+1143,,['Desserts'],Al Hamidiya,Al Salwa Refreshment
+1144,,"['Arabian', 'Middle Eastern']",Meshairef,Al Sultan Pastry
+1145,,"['Indian', 'Desserts']",Al Bustan,Al Ameer Sweets
+1146,,['Pakistani'],Ajman Industrial Area,Abuannas Restaurant
+1147,,"['Arabian', 'Middle Eastern', 'Street Food']",Nuaimiya,Wessaya
+1148,,['Fast Food'],Nuaimiya,Karak Al Khaliji
+1149,,['Indian'],Ajman Industrial Area,Al Manil Restaurant
+1150,,['Indian'],Ajman Industrial Area,Al Manil Restaurant
+1151,,['Pakistani'],Al Muwaihat,Lazat Kashmir Restaurant
+1152,,"['Grill', 'Fast Food']",Al Hamidiya,Shawa Shawa Cafe
+1153,,['Indian'],Al Nakhil 1,2002 Cafeteria
+1154,,['Cafe'],"Bahi Ajman Palace Hotel, Ajman Corniche",Lobby Café - Bahi Ajman Palace Hotel
+1155,,['Indian'],Al Bustan,Muhsin Cafeteria
+1156,,['Indian'],Al Nakhil 1,Eissa Cafeteria
+1157,,['Fast Food'],Al Zahra,Shai Tasaheel Cafeteria
+1158,,"['Indian', 'South Indian', 'Fast Food', 'Juices']",Al Jurf Industrial Area,Al Tayeba Restaurant
+1159,,"['Fast Food', 'Indian', 'Chinese']",Al Jurf Industrial Area,Al Basma Cafeteria
+1160,,"['Indian', 'South Indian', 'North Indian']",Ajman Industrial Area,Dalia Cafeteria
+1161,,['South Indian'],Ajman Industrial Area,Khaitan Cafeteria
+1162,,"['Fast Food', 'Beverages', 'Juices']",Ajman Industrial Area,Mubashir Cafeteria
+1163,,"['Street Food', 'Juices']",Al Bustan,Shai Al Bustan Cafeteria
+1164,,"['Fast Food', 'Beverages']",Al Zahra,Shai Al Zahra'a Cafeteria
+1165,,['Lebanese'],Al Zahra,Alforn Alzahabe Llmoaganat
+1166,,['Pakistani'],Al Rashidiya 2,Naaem Cafeteria
+1167,,['Cafe'],Nuaimiya,Alouvre Cafe
+1168,,['Fast Food'],Nuaimiya,Arkan Cafeteria
+1169,,"['Arabian', 'Middle Eastern']",Al Zahra,Almasgouf
+1170,,"['Egyptian', 'Grill']",Al Rashidiya 3,Alhaty Resturant
+1171,,"['Fast Food', 'Coffee', 'Tea']",Al Rashidiya 3,Madeenat Al Shai Cafeteria
+1172,,['Indian'],Ajman Industrial Area,Qamar Jumeira Cafeteria
+1173,,"['Fast Food', 'Juices']",Al Zahra,Shai Al Hubbik Cafeteria
+1174,,"['Indian', 'Fast Food']",Al Nakhil 1,Souq Al Shai Restaurant
+1175,,['Fast Food'],Al Muwaihat,Real Estikana
+1176,,"['Indian', 'Pakistani']",Al Tallah,Reef Al Manama Restaurant
+1177,,['Fast Food'],Al Rashidiya 3,Bravo Cafe Cafeteria

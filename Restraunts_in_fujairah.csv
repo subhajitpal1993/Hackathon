@@ -1,0 +1,292 @@
+,cost_for_two,cuisines,locality,rest_name
+0,,"['Arabian', 'Middle Eastern', 'Seafood']",Town Centre,Al Meshwar
+1,,"['Italian', 'Pizza']","Fujairah City Centre, Haleefath",PizzaExpress
+2,,"['Arabian', 'Middle Eastern', 'Italian', 'European', 'Indian']","Radisson Blu Resort, Sudah",Breeze - Radisson Blu Resort
+3,,['Pakistani'],Al Hilal,Shan-e-Pakistan
+4,,"['American', 'Mexican', 'Burger']","Fujairah Mall, Anajaimat",Applebee's
+5,,['Fast Food'],Owaid,Al Bake
+6,,['Irish'],Haleefath,McGettigan's FJR
+7,,"['Indian', 'Chinese', 'Arabian', 'Middle Eastern', 'Bakery']",Seh Al Rahi,Caesars Restaurant
+8,,['Turkish'],Sudah,Othmani Turkish Restaurant
+9,,['Indian'],Sudah,Maharajah Cafe
+10,,['Iranian'],Al Faseel,Sadaf
+11,,"['Italian', 'Arabian', 'Middle Eastern', 'Seafood']","Le M√©ridien Al Aqah Beach Resort, Sudah",Views Brasserie - Le Méridien Al Aqah Beach Resort
+12,,"['Arabian', 'Middle Eastern']","Fujairah Trade Centre, Fujairah City",Al Mallah
+13,,['Turkish'],Merashid,Al Tarboosh
+14,,"['Pizza', 'Fast Food']",Town Centre,Pizza Hut
+15,,['Fast Food'],Al Mahatta,Al Shamaa
+16,,"['Seafood', 'International']","Fairmont Fujairah Beach Resort, Sudah",The Copper Lobster - Fairmont Fujairah Beach Resort
+17,,"['Arabian', 'Middle Eastern']","Fujairah Trade Centre, Fujairah City",Al Mallah
+18,,"['Arabian', 'Middle Eastern', 'Italian', 'Indian']",Madhab,Bon Appetit
+19,,['Fast Food'],Town Centre,KFC
+20,,['American'],"InterContinental Hotel & Resorts, Sudah",DRiFT Seafood Kitchen & Bar - InterContinental...
+21,,"['Pizza', 'Fast Food']",Town Centre,Pizza Hut
+22,,"['Indian', 'North Indian']",Sudah,Makani
+23,,['Steak'],"Le M√©ridien Al Aqah Beach Resort, Sudah",Gonu Bar and Grill - Le Méridien Al Aqah Beach Resort
+24,,"['Indian', 'South Indian']",Merashid,Chennai Darbar
+25,,"['Cafe', 'Bakery']",Seh Al Rahi,Dolci Paris
+26,,"['Lebanese', 'Chinese', 'South Indian', 'Mughlai']",Madhab,Eat & Drink
+27,,['Italian'],"Millennium Hotel, Anajaimat",Shardana Italian Restaurant
+28,,"['Indian', 'Chinese', 'Arabian', 'Middle Eastern']",Merashid,Jeddah Palace Restaurant
+29,,"['Indian', 'North Indian', 'South Indian']","Lulu Mall, Seh Al Rahi",Anjali
+30,,['American'],"InterContinental Hotel & Resorts, Sudah",DRiFT Seafood Kitchen & Bar - InterContinental...
+31,,"['Indian', 'South Indian']",Merashid,Chennai Darbar
+32,,"['Arabian', 'Middle Eastern', 'Asian', 'American', 'Steak', 'Indian', 'Desserts']","Fujairah Rotana Resort & Spa, Sudah",Waves - Fujairah Rotana Resort & Spa
+33,,"['Lebanese', 'Chinese', 'South Indian', 'Mughlai']",Madhab,Eat & Drink
+34,,"['Indian', 'Chinese', 'Arabian', 'Middle Eastern']",Merashid,Jeddah Palace Restaurant
+35,,"['Arabian', 'Middle Eastern']","Radisson Blu Resort, Sudah",Al Nokhada - Radisson Blu Resort
+36,,['Fast Food'],Al Sharia,Eat Hot & Drink Restaurant & Cafeteria
+37,,"['Cafe', 'Arabian', 'Desserts']",Al Hilal,Photo Cafe
+38,,['Continental'],"Radisson Blu Resort, Sudah",The Lounge - Radisson Blu Resort
+39,,"['Burger', 'Fast Food']",Town Centre,Hardee's
+40,,"['Indian', 'South Indian']",Al Mahatta,Thalassery
+41,,"['Indian', 'South Indian', 'North Indian']",Merashid,Nalukettu
+42,,"['Arabian', 'Middle Eastern', 'Mediterranean']","Nour Arjaan by Rotana,Town Centre",Murjan - Nour Arjaan by Rotana
+43,,"['Indian', 'Fast Food']",Al Mahatta,Green Valley
+44,,['Turkish'],Haleefath,Mado
+45,,['Italian'],Sudah,Marina Restaurant and Cafe
+46,,['Iranian'],Town Centre,Shahrzad Palace
+47,,['Steak'],"Radisson Blu Resort, Sudah",Grand Bleu - Radisson Blu Resort
+48,,"['Indian', 'South Indian', 'Kerala']","City Tower Hotel, Town Centre",Kairali - City Tower Hotel
+49,,['European'],"Fujairah Rotana Resort & Spa, Sudah",Sharkeys - Fujairah Rotana Resort & Spa
+50,,['American'],"Fujairah Mall, Anajaimat",O'Learys
+51,,"['Cafe', 'Desserts']",Sudah,Patatello Cafe
+52,,"['American', 'Japanese', 'Mexican']",Town Centre,Lava Lounge
+53,,"['Arabian', 'Middle Eastern']",Al Mahatta,Hadramout Mandi
+54,,"['Fast Food', 'Burger', 'American']",Fujairah Port,McDonald's
+55,,"['Asian', 'Chinese', 'Thai', 'Seafood']","Fujairah City Centre, Haleefath",Asian Wok
+56,,"['Arabian', 'Middle Eastern']",Ghalala,Al Shami
+57,,['Finger Food'],"Le M√©ridien Al Aqah Beach Resort, Sudah",Baywatch Beach Bar - Le Méridien Al Aqah Beach Resort
+58,,['Pizza'],Free Zone,Papa John's
+59,,"['Finger Food', 'Arabian', 'Middle Eastern', 'Seafood']","Miramar Al Aqah Beach Resort, Sudah",Bahari Bar & Grill
+60,,"['Salad', 'Finger Food']","Fairmont Fujairah Beach Resort, Sudah",IAMMAI - Fairmont Fujairah Beach Resort
+61,,['International'],Rughaylat,The Sailors Restaurant & Cafe
+62,,"['Indian', 'North Indian', 'South Indian']","Fujairah City Centre, Haleefath",Bombay Chowpatty
+63,,['Italian'],"Miramar Al Aqah Beach Resort, Sudah",Mammone - Miramar Al Aqah Beach Resort
+64,,['British'],Seh Al Rahi,The Orangery
+65,,"['Indian', 'North Indian', 'Chinese']",Safad,Delhi Darbar
+66,,['Mediterranean'],"Novotel, Seh Al Rahi",Flavours - Novotel
+67,,"['Indian', 'Arabian', 'Middle Eastern']",Sudah,Sulaimani Restaurant
+68,,"['Indian', 'North Indian']","Lulu Mall, Seh Al Rahi",Royal Tandoor
+69,,"['Filipino', 'Seafood', 'Chinese']",Ghalala,Golden Fork
+70,,"['Arabian', 'Middle Eastern']",Sudah,Al Noaman
+71,,"['Arabian', 'Middle Eastern']",Merashid,Al Lewan
+72,,"['Continental', 'American', 'Arabian', 'Middle Eastern', 'Italian', 'Indian', 'Healthy Food']","Millennium Hotel, Anajaimat",Al Rihla
+73,,"['Emirati', 'Arabian', 'Middle Eastern']",Rughaylat,Redan
+74,,['Fast Food'],Ghalala,Space Toon
+75,,['Cafe'],Old City,Finjan Cafe
+76,,['Pakistani'],Merashid,Karachi Darbar
+77,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Mahatta,Layali Aden
+78,,['Fast Food'],Al Gurfaa,Al Arooba
+79,,['Middle Eastern'],Al Hilal,Food Way Restaurant
+80,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Mahatta,Layali Al Sham
+81,,"['Fast Food', 'American']",Al Hilal,Texas Chicken
+82,,"['Thai', 'Japanese', 'Indonesian', 'Chinese']","Miramar Al Aqah Beach Resort, Sudah",Sensasia - Miramar Al Aqah Beach Resort
+83,,"['Fast Food', 'Healthy Food', 'American', 'Salad']",Sudah,Subway
+84,,['Filipino'],"City Tower Hotel, Town Centre",Manila Beats - City Tower Hotel
+85,,"['Ice Cream', 'Desserts']","Century Mall Fujairah, Al Sharia",Cold Stone Creamery
+86,,['Cafe'],"Fujairah City Centre, Haleefath",Starbucks
+87,,"['Indian', 'South Indian']",Safad,Tharavad
+88,,['Turkish'],"Fujairah Trade Centre, Fujairah City",Al Basha
+89,,['Cafe'],"Century Mall Fujairah, Al Sharia",Tim Hortons
+90,,"['Arabian', 'Middle Eastern', 'Indian', 'Chinese', 'Continental']","City Tower Hotel, Town Centre",Maxim's - City Tower Hotel
+91,,"['Arabian', 'Middle Eastern']",Al Faseel,Arous Al Bahar
+92,,"['Bakery', 'Cafe']","Fujairah Mall, Anajaimat",Paul Bakery & Cafe
+93,,"['Finger Food', 'American']","Millennium Hotel, Anajaimat",Joe's Sports Bar
+94,,"['Indian', 'Desserts']",Ghalala,Regal
+95,,['Cafe'],"Fujairah Trade Centre, Fujairah City",Opera Cafe
+96,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Mahatta,Layali Al Sham
+97,,['Chinese'],"Lulu Mall, Seh Al Rahi",China Garden
+98,,"['Fast Food', 'Healthy Food', 'American', 'Salad']",Al Mahatta,Subway
+99,,"['Bakery', 'Cafe']","Fujairah Mall, Anajaimat",Paul Bakery & Cafe
+100,,['Cafe'],"Fujairah Trade Centre, Fujairah City",Opera Cafe
+101,,"['Arabian', 'Middle Eastern', 'Afghan']",Sudah,Afghan Khaleej Bukhari Restaurant
+102,,['Seafood'],"Sandy Beach Hotel & Resort, Sudah",Amouage - Sandy Beach Hotel & Resort
+103,,"['Arabian', 'Middle Eastern']",Al Faseel,Arous Al Bahar
+104,,"['Finger Food', 'American']","Millennium Hotel, Anajaimat",Joe's Sports Bar
+105,,['Emirati'],Sudah,Tanor Lahm Restaurant
+106,,"['Arabian', 'Middle Eastern', 'European', 'Asian', 'Italian', 'Steak', 'Desserts']","Miramar Al Aqah Beach Resort, Sudah",Al Majlis - Miramar Al Aqah Beach Resort
+107,,['Chinese'],"Lulu Mall, Seh Al Rahi",China Garden
+108,,"['Pizza', 'Italian']","Fujairah City Centre, Haleefath",Vanellis
+109,,"['Arabian', 'Middle Eastern', 'Afghan']",Sudah,Afghan Khaleej Bukhari Restaurant
+110,,['Emirati'],Sudah,Tanor Lahm Restaurant
+111,,"['Arabian', 'Middle Eastern', 'European', 'Asian', 'Italian', 'Steak', 'Desserts']","Miramar Al Aqah Beach Resort, Sudah",Al Majlis - Miramar Al Aqah Beach Resort
+112,,['British'],"City Tower Hotel, Town Centre",RC Pub - City Tower Hotel
+113,,"['Arabian', 'Middle Eastern']",Al Mahatta,Eeva Cafeteria
+114,,['Desserts'],Town Centre,Krispy Kreme
+115,,['Bakery'],Ghalala,Mawadda Gourmet
+116,,['Turkish'],Ghalala,Turkish House
+117,,"['Indian', 'Pakistani']",Ghalala,Al Khan
+118,,"['Indian', 'North Indian', 'Arabian', 'Middle Eastern']","Fortune Royal Hotel, Ghalala",Freddy's - Fortune Royal Hotel
+119,,['International'],"Concorde,Town Centre",Belle View - Concorde
+120,,"['Ice Cream', 'Desserts']",Safad,Baskin Robbins
+121,,['Fast Food'],Owaid,Chicken 'n' Fries
+122,,"['Indian', 'South Indian', 'Arabian', 'Middle Eastern']",Ghalala,Arab Cochin Restaurant
+123,,"['Arabian', 'Middle Eastern', 'Indian', 'Chinese']",Merashid,Curry House
+124,,"['Arabian', 'Middle Eastern']","Fujairah Trade Centre, Fujairah City",Babylon Cafe
+125,,"['Chinese', 'Indian', 'Italian']",Sudah,Roshani Restaurant
+126,,['Italian'],Sudah,Itlano Pizza And Pasta Llc
+127,,['Italian'],"Hotel ibis, Seh Al Rahi",Il Centro - Hotel ibis
+128,,"['Cafe', 'Lebanese']","Miramar Al Aqah Beach Resort, Sudah",Al Moltaqa - Miramar Al Aqah Beach Resort
+129,,['Finger Food'],"InterContinental Hotel & Resorts, Sudah",Horizon Lobby Lounge & Bar - InterContinental...
+130,,"['Fast Food', 'Italian']",Al Faseel,Bona Roma
+131,,['Italian'],"Hotel ibis, Seh Al Rahi",Il Centro - Hotel ibis
+132,,['Pizza'],"Fujairah Trade Centre, Fujairah City",Pizza Inn
+133,,"['Cafe', 'Lebanese']","Miramar Al Aqah Beach Resort, Sudah",Al Moltaqa - Miramar Al Aqah Beach Resort
+134,,['Finger Food'],"InterContinental Hotel & Resorts, Sudah",Horizon Lobby Lounge & Bar - InterContinental...
+135,,"['Arabian', 'Middle Eastern', 'Chinese']",Free Zone,Al Osra
+136,,"['Fast Food', 'Italian']",Al Faseel,Bona Roma
+137,,['Fast Food'],"Fujairah City Centre, Haleefath",New York Fries
+138,,['Pakistani'],Sudah,Khaybar Kebab
+139,,"['Arabian', 'Middle Eastern']",Safad,Falafil Umdah
+140,,"['Indian', 'Pakistani']",Ghalala,Roti Boti
+141,,"['Cafe', 'Healthy Food']",Al Sharia,Synergy Cafe
+142,,"['American', 'Mexican']","Fujairah Mall, Anajaimat",Sandella's Flatbread Cafe
+143,,"['Fast Food', 'Juices']",Ghalala,Jabal Safad
+144,,['Finger Food'],"Sandy Beach Hotel & Resort, Sudah",Ocean View Bar - Sandy Beach Hotel & Resort
+145,,['Cafe'],"Lulu Mall, Seh Al Rahi",Baker's Boy
+146,,['Fast Food'],Merashid,Baniyas
+147,,['Desserts'],Fujairah Port,Dunkin'
+148,,['Continental'],Sudah,Dibba Rock
+149,,"['Indian', 'Hyderabadi']",Al Mahatta,Red Rose
+150,,"['Finger Food', 'Arabian', 'Middle Eastern']","Sandy Beach Hotel & Resort, Sudah",Snoopy's Lounge - Sandy Beach Hotel & Resort
+151,,"['Indian', 'North Indian']",Sudah,Hindi Darbar
+152,,['Filipino'],Al Mahatta,Al Mabrook
+153,,['Cafe'],"Fujairah City Centre, Haleefath",Beanstro
+154,,"['Indian', 'Pakistani']",Ghalala,Star Restaurant
+155,,"['Arabian', 'Middle Eastern', 'Bakery']",Safad,Gulf Pastry
+156,,['British'],"Hotel ibis, Seh Al Rahi",Sports Lounge - Hotel ibis
+157,,['Fast Food'],Safad,Al Mushrif
+158,,"['Cafe', 'Ice Cream']",Al Mahatta,Meltz Cafe
+159,,"['Indian', 'Arabian', 'Middle Eastern']","Holiday Beach Resort, Sudah",Coral Restaurant
+160,,"['Cafe', 'Bakery']","Fujairah City Centre, Haleefath",PappaRoti
+161,,"['Arabian', 'Middle Eastern']",Merashid,Al Mugad
+162,,['Finger Food'],"Novotel, Seh Al Rahi",The Bookstore - Novotel
+163,,"['Arabian', 'Middle Eastern']","Al Diar Siji Hotel, Al Faseel",Al Diwan - Al Diar Siji Hotel
+164,,['Cafe'],"Fujairah Mall, Anajaimat",McCafe
+165,,"['Arabian', 'Middle Eastern']",Madhab,Yaffa Restaurant
+166,,"['Fast Food', 'Arabian', 'Middle Eastern']",Ghalala,Al Farooj
+167,,"['Indian', 'Chinese']",Al Ittihad,Choice
+168,,['Fast Food'],Free Zone,Shams Al Bahar
+169,,"['Indian', 'Arabian', 'Middle Eastern']","Holiday Beach Resort, Sudah",Coral Restaurant
+170,,"['Arabian', 'Middle Eastern']",Owaid,Hikaya Pastry
+171,,"['Indian', 'Bengali']","Fortune Royal Hotel, Ghalala",Rang Mahal - Fortune Royal Hotel
+172,,['Bakery'],Al Mahatta,Al Aqsa Sweets
+173,,['Fast Food'],Al Mahatta,Al Baghdadi
+174,,['Cafe'],"Concorde,Town Centre",Queen of Shisha - Concorde
+175,,"['French', 'Bakery']","Lulu Mall, Seh Al Rahi",French Bakery
+176,,['Pakistani'],Ghalala,Salam
+177,,['Seafood'],Sudah,Fen Cafe & Restaurant
+178,,['Desserts'],"Fujairah City Centre, Haleefath",Pinkberry
+179,,"['Indian', 'South Indian']",Free Zone,Blue Valley
+180,,['Cafe'],"Concorde,Town Centre",Queen of Shisha - Concorde
+181,,"['Indian', 'South Indian']",Free Zone,Blue Valley
+182,,"['French', 'Bakery']","Lulu Mall, Seh Al Rahi",French Bakery
+183,,['Pakistani'],Ghalala,Salam
+184,,"['Chinese', 'Seafood', 'Italian', 'Arabian', 'Middle Eastern']",Seh Al Rahi,Napoly
+185,,['Fast Food'],Old City,Al Anhar
+186,,['Finger Food'],"Fujairah Rotana Resort & Spa, Sudah",Bar Muda
+187,,['Indian'],Al Mahatta,Lulu
+188,,"['International', 'Ethiopian']","City Tower Hotel, Town Centre",Azizi Disco - City Tower Hotel
+189,,['Fast Food'],Owaid,Jawaher
+190,,"['Indian', 'South Indian']",Owaid,National
+191,,"['Indian', 'Arabian', 'Middle Eastern', 'Grill']",Sudah,Family Restaurant
+192,,"['Arabian', 'Middle Eastern', 'Chinese', 'Indian']",Merashid,Al Roof
+193,,"['Arabian', 'Middle Eastern']","Concorde,Town Centre",Al Shorfa - Concorde
+194,,"['Cafe', 'Italian', 'Burger', 'Arabian']",Rughaylat,Babylon Cafe
+195,,['Finger Food'],"Mina Al Fajer, Sudah",Arena Sports Bar And Kitchen
+196,,"['Indian', 'South Indian']",Ghalala,Faris
+197,,"['Arabian', 'Middle Eastern']",Ghalala,New Damascus
+198,,['Cafe'],Rughaylat,Netgahwa Cafe
+199,,['Indian'],Owaid,Jabal Al Noor
+200,,['Iranian'],Sudah,Hatam
+201,,['Cafe'],Sudah,Teaco Cafe
+202,,['Cafe'],Rughaylat,The 50's Cafeteria
+203,,['Egyptian'],Owaid,Falafil Al Nail
+204,,['Fast Food'],Old City,Al Falah Cafeteria
+205,,"['Arabian', 'Middle Eastern']",Ghalala,New Damascus
+206,,['Finger Food'],"Fujairah Rotana Resort & Spa, Sudah",Bar Muda
+207,,['Cafe'],"Al Diar Siji Hotel, Al Faseel",Siji - Al Diar Siji Hotel
+208,,"['Coffee', 'Healthy Food']",Seh Al Rahi,Workshop Cafe
+209,,['Fast Food'],Al Faseel,Safeenath Al Sahra
+210,,['Bakery'],Merashid,Bake Home
+211,,"['Lebanese', 'Arabian', 'Middle Eastern']","Al Diar Siji Hotel, Al Faseel",Asmak - Al Diar Siji Hotel
+212,,"['Coffee', 'Healthy Food']",Seh Al Rahi,Workshop Cafe
+213,,['Fast Food'],Al Faseel,Safeenath Al Sahra
+214,,"['Lebanese', 'Arabian', 'Middle Eastern']","Al Diar Siji Hotel, Al Faseel",Asmak - Al Diar Siji Hotel
+215,,"['Arabian', 'Middle Eastern']",Rughaylat,Special Tikka
+216,,['Pakistani'],Safad,Al Maeda
+217,,['Fast Food'],Merashid,Hot & Fast
+218,,"['Indian', 'Pakistani']",Ghalala,Al Amal Cafeteria
+219,,['Iranian'],Owaid,Iran Restaurant & Bakery
+220,,['Fast Food'],Merashid,Hot & Fast
+221,,"['Arabian', 'Middle Eastern']","Century Mall Fujairah, Al Sharia",Al Diyafa Express
+222,,['Turkish'],Owaid,Food Concept
+223,,['Fast Food'],Sudah,Burger Hut
+224,,"['Arabian', 'Middle Eastern']",Merashid,Bab Al Harah
+225,,['Continental'],"Radisson Blu Resort, Sudah",Beach Shack - Radisson Blu Resort
+226,,"['Beverages', 'Juices']",Owaid,Al Sham
+227,,"['Bakery', 'Arabian', 'Middle Eastern']",Rughaylat,Ruqaqal Khaleej
+228,,"['Ice Cream', 'Juices']",Al Mahatta,Kickers Ice Cream
+229,,"['Arabian', 'Middle Eastern']",Rughaylat,Mayidat Al Nauman
+230,,"['Arabian', 'Middle Eastern', 'Italian', 'Steak', 'Seafood']","Al Diar Siji Hotel, Al Faseel",Al Shourfa - Al Diar Siji Hotel
+231,,['Finger Food'],"Novotel, Seh Al Rahi",The Bookstore - Novotel
+232,,"['Arabian', 'Middle Eastern', 'Desserts']",Owaid,Habeba Sweets
+233,,"['Bakery', 'Arabian', 'Middle Eastern']",Rughaylat,Ruqaqal Khaleej
+234,,"['Arabian', 'Middle Eastern']",Rughaylat,Mayidat Al Nauman
+235,,"['Arabian', 'Middle Eastern']",Town Centre,Al Nafoora
+236,,"['Arabian', 'Middle Eastern', 'Italian', 'Steak', 'Seafood']","Al Diar Siji Hotel, Al Faseel",Al Shourfa - Al Diar Siji Hotel
+237,,['Finger Food'],"Novotel, Seh Al Rahi",The Bookstore - Novotel
+238,,"['Arabian', 'Middle Eastern', 'Desserts']",Owaid,Habeba Sweets
+239,,['Indian'],Old City,Roman
+240,,['Afghan'],Al Mahatta,Qasr Al Afghan
+241,,['Indian'],Sudah,Al Rifa Restaurent
+242,,"['Finger Food', 'Salad']","Nour Arjaan by Rotana,Town Centre",Aquarius Pool Bar - Nour Arjaan by Rotana
+243,,"['Arabian', 'Middle Eastern', 'Bakery']",Ghalala,New Union Bakery
+244,,['Filipino'],"Fortune Royal Hotel, Ghalala",Ratsky - Fortune Royal Hotel
+245,,"['Arabian', 'Middle Eastern']",Town Centre,Al Nafoora
+246,,"['Indian', 'South Indian']","City Tower Hotel, Town Centre",Raagini - City Tower Hotel
+247,,"['Arabian', 'Middle Eastern', 'Salad', 'Steak', 'Seafood', 'Desserts']","Sandy Beach Hotel & Resort, Sudah",The Coffee Shop - Sandy Beach Hotel & Resort
+248,,['Iranian'],Owaid,Iran Restaurant & Bakery
+249,,['Iranian'],"Lulu Mall, Seh Al Rahi",Hatam
+250,,['Pakistani'],Ghalala,Al Rahaa Cafe
+251,,['Cafe'],"Fortune Royal Hotel, Ghalala",Al Majlis - Fortune Royal Hotel
+252,,['Desserts'],"Lulu Mall, Seh Al Rahi",Cherry Berry
+253,,['Indian'],"City Tower Hotel, Town Centre",Gulzar - City Tower Hotel
+254,,['Cafe'],"Le M√©ridien Al Aqah Beach Resort, Sudah",Tea & Dates Lobby Lounge - Le Méridien Al Aqah...
+255,,"['Arabian', 'Middle Eastern', 'Cafe']",Al Mahatta,Layali Al Helmiyah Coffee Shop
+256,,['Indian'],Al Mahatta,Iqbal
+257,,['Indian'],Owaid,Bol Bol
+258,,['Indian'],Al Faseel,Al Koofah
+259,,['Cafe'],"Nour Arjaan by Rotana,Town Centre",Lobby Lounge - Nour Arjaan by Rotana
+260,,"['Cafe', 'Desserts']","Concorde,Town Centre",Bistro Café - Concorde
+261,,['Fast Food'],Rughaylat,Bin Hafeer
+262,,"['Indian', 'South Indian']",Al Faseel,Tasneem
+263,,"['Indian', 'South Indian']",Merashid,Ameena
+264,,['Fast Food'],Al Sharia,Naya Burger Restaurant
+265,,['Indian'],"Fortune Royal Hotel, Ghalala",Sargam - Fortune Royal Hotel
+266,,"['Arabian', 'Fast Food', 'Middle Eastern']",Safad,Gargayan Restaurant And Dessert
+267,,['Fast Food'],Al Sharia,Naya Burger Restaurant
+268,,['Indian'],"Fortune Royal Hotel, Ghalala",Sargam - Fortune Royal Hotel
+269,,['Cafe'],"City Tower Hotel, Town Centre",Cafe Lounge - City Tower Hotel
+270,,['Cafe'],Ghalala,Corniche
+271,,"['Arabian', 'Middle Eastern']",Al Gurfaa,New United Restaurant
+272,,"['Arabian', 'Fast Food', 'Middle Eastern']",Safad,Gargayan Restaurant And Dessert
+273,,['Finger Food'],"Novotel, Seh Al Rahi",Amwaj Pool Bar - Novotel
+274,,"['Indian', 'Fast Food']",Al Mahatta,Al Wahda
+275,,['Fast Food'],Old City,Al Kawkab
+276,,['Fast Food'],Merashid,Al Sawaqi
+277,,['Cafe'],Old City,Alhan
+278,,['Finger Food'],"Holiday Beach Resort, Sudah",The Jet Set
+279,,"['Arabian', 'Middle Eastern']","Hotel ibis, Seh Al Rahi",Al Majlis Café & Restaurant
+280,,"['Indian', 'South Indian']","Fortune Royal Hotel, Ghalala",Tarangini - Fortune Royal Hotel
+281,,"['Indian', 'South Indian']",Merashid,Sabiha
+282,,['Cafe'],"Lulu Mall, Seh Al Rahi",Four Seasons
+283,,['Pakistani'],"City Tower Hotel, Town Centre",Pakeeza - City Tower Hotel
+284,,['Cafe'],Al Faseel,Faseel Cafe
+285,,"['Indian', 'South Indian']",Ghalala,Mazab
+286,,"['Indian', 'South Indian']",Ghalala,Khalid Ahmed
+287,,['Cafe'],Al Gurfaa,Cafe Layali Zaman
+288,,['Pakistani'],"Fortune Royal Hotel, Ghalala",Chandani - Fortune Royal Hotel
+289,,"['Arabian', 'Middle Eastern']","Fortune Royal Hotel, Ghalala",Wanasah - Fortune Royal Hotel
+290,,['Bangladeshi'],"City Tower Hotel, Town Centre",Dollywood - City Tower Hotel

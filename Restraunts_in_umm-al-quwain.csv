@@ -1,0 +1,181 @@
+,cost_for_two,cuisines,locality,rest_name
+0,,['Italian'],"Barracuda Beach Resort, Al Shebeakah",Thunder Road Barracuda
+1,,['Lebanese'],"Hotel Royal Residence Main, Green Belt Area",Sikkat Beirut
+2,,['German'],Al Khour,Das Brauhaus
+3,,"['Kerala', 'South Indian']","Pearl Hotel & Spa, Al Khour",Backwaters - Pearl Beach Hotel
+4,,['Fast Food'],Al Humrah,KFC
+5,,['Pakistani'],Al Muqta,Lahore Darbar Restaurant
+6,,"['Arabian', 'Middle Eastern']",Al Riqqah,Wadi Al Neel
+7,,"['Mandi', 'Arabian', 'Middle Eastern', 'Afghan']",Al Humrah,Baith Al Mandi Restaurant
+8,,"['Lebanese', 'Italian']",Al Khour,Palma Coffee Shop
+9,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Raas,Aloberge Restaurant And Cafeteria
+10,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Raas,Al Ayaam Grills And Restaurant
+11,,"['Indian', 'South Indian', 'North Indian', 'Chinese']",Al Muqta,Thalassery Restaurant
+12,,['Pakistani'],Al Raas,Desi Tarqa Restaurant
+13,,"['Indian', 'Pakistani']",Al Muqta,Al Syed Restaurant
+14,,"['Indian', 'South Indian', 'North Indian', 'Chinese']",Al Muqta,Thalassery Restaurant
+15,,['Fast Food'],Al Humrah,McDonald's
+16,,['Pakistani'],Al Raas,Desi Tarqa Restaurant
+17,,"['Indian', 'Pakistani']",Al Muqta,Al Syed Restaurant
+18,,['Filipino'],"Pearl Hotel & Spa, Al Khour",Barako Grill
+19,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Raas,UAQ Beach Hotel Restaurant
+20,,['Fast Food'],Al Humrah,Arabian Chicken Hut Restaurant
+21,,['Desserts'],Al Humrah,Fashion Sweets
+22,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Riqqah,Amwaj Al Seif
+23,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Raas,Taiba Restaurant And Grill
+24,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Muqta,Bu Ali Restaurant
+25,,"['Arabian', 'Middle Eastern', 'Pizza']",Al Humrah,Pizza Romana
+26,,"['Arabian', 'Middle Eastern']",Al Humrah,Gulf Pastry
+27,,"['Fast Food', 'Burger']",Al Humrah,Burger King
+28,,['Fast Food'],Al Ramlah,Arabian Chicken Hut
+29,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Ramlah,Hot Burger
+30,,['Cafe'],Al Humrah,Starbucks
+31,,['Afghan'],Al Salamah,Afghan Kabab Restaurant
+32,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Riqqah,Sheikh Al Mandi
+33,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Riqqah,Mandi Beit Al Yahar
+34,,"['Thai', 'Seafood']",Al Raas,Thai Junior
+35,,"['Indian', 'South Indian', 'Kerala']",Al Muqta,Utupura Restaurant
+36,,"['Fast Food', 'Beverages', 'Juices']",Al Humrah,Tasty Burger Restaurant And Cafeteria
+37,,"['Desserts', 'Bakery']",Al Humrah,Monkey Cookies
+38,,"['Indian', 'Hyderabadi', 'Biryani']",Al Riqqah,Al Retaj Restaurant
+39,,['Pakistani'],Old Umm Al Quwain,Al Sultan Restaurant
+40,,"['Indian', 'South Indian', 'Chinese', 'Fast Food']",Al Muqta,Omer Khayyam Restaurant
+41,,['Cafe'],Old Umm Al Quwain,Shanzilezi Coffeeshop And Cafeteria
+42,,"['Arabian', 'Street Food']",Al Raas,Abu Al Ezz Al Shami Restaurant
+43,,['Pakistani'],Al Muqta,Rizwan Restaurant
+44,,['Iranian'],Al Riqqah,Irani Shebestan
+45,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Salamah,Shams Al Aseel
+46,,"['Indian', 'South Indian', 'Kerala']",Al Salamah,Al Shuwa Restaurant
+47,,"['Indian', 'South Indian']",Al Raas,Al Fanoon
+48,,['Fast Food'],Old Umm Al Quwain,Sadaf Restaurant And Cafeteria
+49,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Humrah,Al Marsa Restaurant And Cafeteria
+50,,"['Fast Food', 'Desserts', 'Burger']",Al Salamah,Food station
+51,,['Bakery'],Al Ramlah,Cake World
+52,,"['Lebanese', 'Syrian']",Old Umm Al Quwain,Sheikh Al Jabal Restaurant
+53,,"['Beverages', 'Ice Cream']",Al Riqqah,Fruity Drinks
+54,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Humrah,New Cardoba Restaurant
+55,,"['Indian', 'North Indian']",Old Umm Al Quwain,Indian Palace Restaurant
+56,,['Iranian'],Al Salamah,Shebestan Restaurant
+57,,"['Indian', 'South Indian', 'Fast Food']",Al Humrah,Rajab Restaurant
+58,,['Desserts'],Al Salamah,Balqees Sweets
+59,,"['Arabian', 'Middle Eastern']",Al Ramlah,Donya Al Sham
+60,,['European'],"Vida Beach Resort, Al Khour",Origins - Vida Beach Resort
+61,,"['Arabian', 'Middle Eastern', 'Juices']",Old Umm Al Quwain,Cardoba Restaurant
+62,,"['Arabian', 'Middle Eastern']",Al Riqqah,Al Kabab Bahraini Restaurant
+63,,['Biryani'],Al Humrah,Al Noor Al Shaabi Kitchen
+64,,"['Arabian', 'Middle Eastern']",Al Ramlah,King of Pastry
+65,,"['Desserts', 'Ice Cream', 'Beverages']",Al Muqta,Ice Shake
+66,,"['Fast Food', 'Healthy Food', 'American', 'Salad']",Al Raas,Subway
+67,,"['Indian', 'North Indian']",Old Umm Al Quwain,Waves
+68,,['Ice Cream'],Al Muqta,Baskin Robbins
+69,,"['Fast Food', 'Juices']",Al Riqqah,Al Riyadh Cafeteria
+70,,['Fast Food'],Al Ramlah,Farrouj Hut
+71,,"['Arabian', 'Middle Eastern']",Al Riqqah,Al Kabab Bahraini Restaurant
+72,,"['Cafe', 'Desserts']",Green Belt Area,Dunkin'
+73,,"['Arabian', 'Middle Eastern']",Al Ramlah,King of Pastry
+74,,['Biryani'],Al Humrah,Al Noor Al Shaabi Kitchen
+75,,['Fast Food'],Old Umm Al Quwain,Moosa Sweets And Restaurant
+76,,['Fast Food'],Al Salamah,Al Khayam Cafeteria
+77,,"['Arabian', 'Middle Eastern']",Al Riqqah,Ibn Al Deera
+78,,"['Fast Food', 'Juices']",Al Riqqah,Al Riyadh Cafeteria
+79,,['Bakery'],Al Raas,Umm Al Quwain Automatic Bakery
+80,,"['Indian', 'Chinese', 'Arabian']",Al Riqqah,Oasis Caterers
+81,,['Fast Food'],Al Ramlah,Falafel Al Zahra Cafeteria
+82,,['Filipino'],Al Raas,Mariya Restaurant
+83,,['Bakery'],Al Ramlah,Cake Palace
+84,,['Cafe'],Al Muqta,Cafe Hawara
+85,,"['Desserts', 'Ice Cream']",Al Riqqah,Freej Halwan Ice Cream
+86,,['Syrian'],Al Ramlah,Tal Alzaitoun
+87,,['Filipino'],Al Muqta,Blue Moon Restaurant
+88,,['Fast Food'],Al Raas,Zam Zam Cafeteria
+89,,"['Fast Food', 'Juices']",Al Humrah,Al Marjana Cafeteria
+90,,['Cafe'],Al Khour,Palma Saray Coffee Shop
+91,,['Cafe'],Al Muqta,Beverly Hills Cafe
+92,,"['Cafe', 'Coffee', 'Tea']",Al Riqqah,Asly Tea
+93,,"['Indian', 'South Indian']",Al Riqqah,Abdul Wahab
+94,,"['European', 'Italian', 'Arabian', 'Desserts', 'Cafe']",Al Humrah,Shakespeare and Co.
+95,,['Desserts'],Al Raas,Al Hosni Omani Sweets
+96,,"['Arabian', 'Middle Eastern']",Al Riqqah,Al Masy Cafeteria
+97,,"['Fast Food', 'Juices']",Al Raas,Khokh Al Shay
+98,,['Bangladeshi'],Old Umm Al Quwain,Sylhet Shah Jalal Restaurant
+99,,"['Cafe', 'Coffee', 'Tea']",Al Riqqah,Asly Tea
+100,,"['Arabian', 'Middle Eastern']",Al Raas,Al Bait Al Iraqi
+101,,['Bakery'],Al Raas,Umm Al Quwain Automatic Bakery
+102,,['Seafood'],Al Raas,Al Sayad Seafood
+103,,"['European', 'Italian', 'Arabian', 'Desserts', 'Cafe']",Al Humrah,Shakespeare and Co.
+104,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Salamah,Al Jood Restaurant
+105,,['Bakery'],Al Ramlah,Cake Palace
+106,,['Cafe'],Al Muqta,Beverly Hills Cafe
+107,,"['Emirati', 'Arabian', 'Middle Eastern']",Al Salamah,Popular Foods Restaurant
+108,,['Iranian'],Al Riqqah,Irani Kabab Restaurant
+109,,"['Arabian', 'Middle Eastern']",Al Raas,Fatayer
+110,,['Bangladeshi'],Al Humrah,Bangla Restaurant
+111,,['Fast Food'],Al Riqqah,New City Market Restaurant
+112,,['Indian'],Old Umm Al Quwain,Sagar Restaurant
+113,,"['Indian', 'South Indian']",Al Ramlah,Al Farhana Restaurant & Cafeteria
+114,,['Fast Food'],Al Salamah,Al Marjana Cafeteria
+115,,"['Indian', 'South Indian']",Old Umm Al Quwain,Khyber Restaurant
+116,,['Indian'],Al Riqqah,Al Baikh Restaurant
+117,,"['Fast Food', 'Juices']",Al Riqqah,Ashwan Cafeteria
+118,,['Filipino'],Al Riqqah,Al Rashakah Cafeteria
+119,,"['Arabian', 'Middle Eastern', 'Pakistani']",Al Salamah,Al Walima Al Arabi
+120,,['Italian'],Al Raas,Zid's Pizza and Pasta
+121,,"['Desserts', 'Ice Cream']",Al Raas,Toot & Farwala
+122,,"['Indian', 'South Indian']",Green Belt Area,Al Mada Restaurant & Cafeteria
+123,,"['Indian', 'South Indian']",Al Salamah,Al Deenar Restaurant
+124,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Muqta,Le Chalet
+125,,"['Indian', 'South Indian', 'Fast Food', 'Juices']",Al Humrah,Wadi Al Hamra Restaurant And Cafeteria
+126,,"['Indian', 'South Indian']",Al Muqta,Marhaba Cafeteria & Restaurant
+127,,"['Indian', 'South Indian']",Al Muqta,Kulaib Restaurant
+128,,['Fast Food'],Al Salamah,Ajmal Restaurant & Cafeteria
+129,,"['Indian', 'South Indian']",Al Ramlah,Al Dhahak Restaurant
+130,,"['Arabian', 'Middle Eastern']",Al Raas,Balabak Sweets
+131,,"['Indian', 'South Indian']",Al Salamah,Al Sharqi Restaurant
+132,,"['Indian', 'South Indian']",Al Raas,Golden Hut
+133,,['Ice Cream'],Al Riqqah,Happyland Premium Icecream
+134,,"['Indian', 'South Indian']",Old Umm Al Quwain,Al Salam Restaurant
+135,,['Cafe'],Al Muqta,Dar Al Arab Cafe & Cafeteria
+136,,['Biryani'],Al Humrah,Al Hanoof Public Kitchen
+137,,['Biryani'],Al Khour,Umm Al Quwain Public Kitchen
+138,,['Fast Food'],Al Salamah,Al Ramla Cafeteria
+139,,"['Indian', 'South Indian']",Al Muqta,Najmath Al Khaleej Cafeteria
+140,,"['Indian', 'South Indian']",Al Muqta,Al Mubashir Restaurant
+141,,"['Indian', 'South Indian']",Al Khour,Al Khoor Restaurant
+142,,"['Indian', 'South Indian']",Old Umm Al Quwain,First Choice Restaurant
+143,,['Ice Cream'],Al Raas,Ice Cream House
+144,,"['Beverages', 'Juices']",Al Raas,Fruity Nana
+145,,"['Fast Food', 'Lebanese', 'Middle Eastern', 'Arabian', 'Beverages', 'Juices']",Al Humrah,Al Frnal Zahbee
+146,,['Indian'],Al Riqqah,Jaleel Cafeteria
+147,,['Fast Food'],Al Muqta,Al Thalla Cafeteria
+148,,"['Indian', 'South Indian']",Old Umm Al Quwain,Al Najdah Restaurant
+149,,['Indian'],Al Riqqah,Comilla
+150,,['Bangladeshi'],Al Riqqah,Khalifa Restaurant
+151,,"['Pakistani', 'Indian']",Al Muqta,Green Leaf Restaurant
+152,,['Fast Food'],Al Riqqah,Happyland Fastfood
+153,,['Pakistani'],Al Muqta,Hamzah Restaurant
+154,,"['Indian', 'South Indian']",Al Ramlah,Bu Abdullah Cafeteria
+155,,['Sri Lankan'],Al Riqqah,Murie's Dish
+156,,"['Filipino', 'Chinese']",Al Raas,Second Home Restaurant
+157,,['Cafe'],Al Muqta,Al Madar Cafe & Cafeteria
+158,,['Cafe'],Al Riqqah,Noor Al Sabah
+159,,['Cafe'],Al Riqqah,A5 Cafe
+160,,"['Arabian', 'Middle Eastern']",Al Riqqah,Baba Abdu
+161,,['Cafe'],Al Muqta,Carpuccino Cafe
+162,,"['Indian', 'South Indian']",Al Muqta,Nooh Cafeteria
+163,,['Cafe'],Al Muqta,Al Muluk Cafe
+164,,['Cafe'],Al Muqta,Al Ajamy Cafe
+165,,['Seafood'],Al Riqqah,Al Nokhatha Seafood
+166,,"['Arabian', 'Middle Eastern']",Al Muqta,Al Wadi Al Akhdar Restaurant
+167,,['Fast Food'],Old Umm Al Quwain,Seashell City Restaurant
+168,,"['Indian', 'South Indian']",Al Riqqah,Nawar Restaurant And Cafeteria
+169,,"['Indian', 'South Indian']",Al Humrah,Salsabeel Cafe And Restaurant
+170,,"['Indian', 'South Indian']",Al Muqta,Green Valley Restaurant
+171,,['Desserts'],Al Salamah,Bakeology
+172,,"['Indian', 'South Indian']",Old Umm Al Quwain,Dhaka Restaurant
+173,,"['Indian', 'South Indian']",Al Salamah,Sinan Restaurant
+174,,['Indian'],Old Umm Al Quwain,Osama Restaurant
+175,,"['Indian', 'Fast Food']",Al Muqta,Cafeteria ZamZam
+176,,['Pakistani'],Al Muqta,Aflatoon Restaurant
+177,,['Cafe'],Al Raas,Cafe Sham
+178,,"['Indian', 'South Indian']",Old Umm Al Quwain,Al Salamia Restaurant
+179,,['Indian'],Old Umm Al Quwain,Al Harmoodi Restaurant

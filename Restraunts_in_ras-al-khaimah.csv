@@ -1,0 +1,734 @@
+,cost_for_two,cuisines,locality,rest_name
+0,,"['Indian', 'Seafood', 'Asian', 'Iranian']",Al Dhait South,Emirates Sea
+1,,"['American', 'Mexican']","Manar Mall, Al Uraibi",Chili's
+2,,"['Indian', 'North Indian']",Al Dhait South,Bombay Darbar Restaurant
+3,,['Pizza'],"Al Hamra Mall, Al Hamra",PizzaExpress
+4,,['Mandi'],Al Dhait North,Madfoon Al Sadda
+5,,"['Italian', 'American']",Mina Al Arab,Thunder Road
+6,,['Mediterranean'],"The Cove Rotana Resort, Al Dhait South",Basilico - The Cove Rotana Resort
+7,,"['Mandi', 'Arabian', 'Middle Eastern', 'Afghan']",Al Dhait North,Qasr Al Afghan Mandy
+8,,"['Seafood', 'Biryani', 'North Indian', 'Mughlai', 'Indian', 'Kebab']","RAK Mall, Al Qurm",India Palace
+9,,['Cafe'],"Manar Mall, Al Uraibi",The Coffee Club
+10,,['Pakistani'],Al Seer,Al Saad Restaurant
+11,,['Indian'],Dafan Al Khor,Delux Motimahal
+12,,"['Indian', 'South Indian', 'North Indian', 'Chinese']",Al Seer,Kohinoor Restaurant
+13,,"['Japanese', 'Sushi']",RAK City,Waga
+14,,"['Indian', 'South Indian', 'North Indian', 'Chinese']",Al Seer,Pure Veg Restaurant
+15,,"['Continental', 'Arabian', 'Middle Eastern', 'Italian']","The Cove Rotana Resort, Al Dhait South",Cinnamon - The Cove Rotana Resort
+16,,"['Fast Food', 'Beverages']",Al Nakheel,Falafel Abu Naeem Cafeteria
+17,,['Portuguese'],"Al Hamra Mall, Al Hamra",Nando's Al Hamra Mall
+18,,"['Indian', 'Hyderabadi']",Al Jazirat,Hyderabad Restaurant
+19,,['Indian'],Al Dhait South,Makani  Restaurant
+20,,['Pizza'],Al Dhait South,Pizza Hut
+21,,['Steak'],"Waldorf Astoria Ras Al Khaimah, Al Hamra",Lexington Grill - Waldorf Astoria Ras Al Khaimah
+22,,"['Indian', 'Chinese', 'Continental']",Sidroh,Caesars Restaurant
+23,,"['Japanese', 'Sushi']","Al Hamra Mall, Al Hamra",Sumo Sushi & Bento
+24,,"['European', 'Italian', 'Arabian', 'Desserts', 'Cafe']","Al Naeem Mall, Al Nakheel",Shakespeare and Co.
+25,,"['Japanese', 'Sushi']","Waldorf Astoria Ras Al Khaimah, Al Hamra",Umi - Waldorf Astoria Ras Al Khaimah
+26,,"['Fast Food', 'Beverages']",Al Nakheel,Juice World Restaurant
+27,,"['Indian', 'North Indian']","Citymax Hotel Ras Al Khaimah, Nakheel",Claypot - Citymax Hotel Ras Al Khaimah
+28,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Dhait South,Bait Al Mandi
+29,,['Korean'],Mina Al Arab,KPOP Chicken
+30,,['International'],"Waldorf Astoria Ras Al Khaimah, Al Hamra",Qasr Al Bahar - Waldorf Astoria Ras Al Khaimah
+31,,['Fast Food'],Al Hamra,Better Taste Restaurant
+32,,"['Arabian', 'Middle Eastern', 'Indian', 'Fast Food']",Al Nakheel,Eat & Drink Restaurant
+33,,"['Arabian', 'Middle Eastern']",Dafan Al Khor,Yansoon
+34,,['European'],"Al Hamra Golf Club, Al Hamra",Maison Mathis
+35,,"['European', 'Arabian', 'Middle Eastern', 'Italian', 'Indian']","Marjan Island Resort & Spa, Al Marjan Island",Al Liwan - Marjan Island Resort & Spa
+36,,['Fast Food'],"Manar Mall, Al Uraibi",KFC
+37,,['Nepalese'],Al Nakheel,Roh Al Ettehad Restaurant
+38,,"['Lebanese', 'Arabian', 'Middle Eastern']","Marjan Island Resort & Spa, Al Marjan Island",Zaitouna House - Marjan Island Resort & Spa
+39,,"['Belgian', 'European']",Al Hamra,Belgian Cafe
+40,,"['Indian', 'South Indian', 'North Indian']",Al Seer,Taj Mahal Restaurant
+41,,"['Indian', 'South Indian']",Al Uraibi,Rahmath Restaurant
+42,,"['Indian', 'South Indian', 'North Indian']",Al Nakheel,Venus Deluxe Restaurant
+43,,['Mediterranean'],Al Rams,1484 By Puro
+44,,"['Lebanese', 'Arabian', 'Middle Eastern']","Al Naeem Mall, Al Nakheel",Reem Al Bawadi
+45,,"['Fast Food', 'American']","Al Naeem Mall, Al Nakheel",Dairy Queen
+46,,['Pizza'],"Al Hamra Mall, Al Hamra",Papa John's
+47,,"['Arabian', 'Middle Eastern', 'Indian', 'Mughlai', 'Chinese', 'Iranian']",Sidroh,Sealand
+48,,['Mandi'],Al Sall,Hadramout Mandi & Madfoon
+49,,"['Arabian', 'Middle Eastern']",Al Qusaidat,Karam Al Sham
+50,,"['Mandi', 'Arabian', 'Middle Eastern']",Sidroh,Joraif Mandi
+51,,['International'],"DoubleTree by Hilton, Al Marjan Island",Al Marjan - DoubleTree by Hilton
+52,,"['Indian', 'North Indian']",Al Uraibi,Al Mehfal Restaurant
+53,,"['Finger Food', 'Beverages']","The Cove Rotana Resort, Al Dhait South",Breeze - The Cove Rotana Resort
+54,,['Italian'],"DoubleTree by Hilton, Al Marjan Island",Vespa - DoubleTree by Hilton
+55,,"['Arabian', 'Middle Eastern', 'Cafe', 'Desserts']",Sidroh,Konafa Coffee
+56,,['Indian'],Al Nadiyah,Indian Chef Restaurant
+57,,['Indian'],Al Seer,Golden Crown
+58,,['Indian'],Al Seer,Kurinji Restaurant
+59,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Seer,Lebanese House
+60,,['Italian'],"Al Hamra Golf Club, Al Hamra",Pesto Ristorante
+61,,"['Cafe', 'Desserts']",Al Hamra,Tucano Cafe
+62,,"['Indian', 'South Indian', 'North Indian']",Al Seer,Gafoorka's Thattukada
+63,,['Turkish'],"Rixos Bab Al Bahr, Al Marjan Island",Lalezar - Rixos Bab Al Bahr
+64,,"['Fast Food', 'Beverages']",Al Uraibi,Hot Fried Chicken
+65,,"['Italian', 'Mediterranean']",Al Marjan Island,Puro Cafe & Terrace
+66,,"['Filipino', 'Chinese']",Al Nakheel,Mang Ariesyo's Bulaluhan
+67,,['Cafe'],Dafan Al Khor,Tim Hortons
+68,,"['Lebanese', 'Arabian', 'Middle Eastern']",Mina Al Arab,The Lounge by Manhattan
+69,,"['Moroccan', 'Lebanese', 'Arabian', 'Middle Eastern']","Waldorf Astoria Ras Al Khaimah, Al Hamra",Marjan - Waldorf Astoria Ras Al Khaimah
+70,,"['Arabian', 'Middle Eastern']",Al Qurm,Ali Baba Restaurant
+71,,"['Fast Food', 'Lebanese', 'Arabian', 'Middle Eastern']",Sidroh,Al Farooj
+72,,"['Indian', 'South Indian', 'Chinese']",Al Seer,Moonlight Restaurant
+73,,"['American', 'Fast Food', 'Burger']",Al Nadiyah,CaliBurger
+74,,"['Italian', 'Mexican', 'Asian', 'American']",Al Hamra,Marina Muse
+75,,"['Fast Food', 'Pizza', 'Burger']",Al Seer,Canadian Pizza
+76,,"['Continental', 'European']",Al Nakheel,Capra Restaurant
+77,,"['Fast Food', 'Burger']",Al Dhait South,Voltage Burger
+78,,"['Indian', 'Desserts']",Al Seer,The Vegetarian's Restaurant
+79,,"['Cafe', 'Desserts']",Mina Al Arab,The Muse Cafe
+80,,"['Indian', 'South Indian']",Al Jazirat,Madras Restaurant
+81,,['Fast Food'],Dafan Al Khor,Burger King
+82,,['Italian'],Al Sall,Al Rukin Al Italy
+83,,"['Fast Food', 'Burger', 'American']","Manar Mall, Al Uraibi",McDonald's
+84,,['Cafe'],Suhaim,Icons Coffee Couture
+85,,['Cafe'],Sidroh,Cafe Barbera
+86,,['Cafe'],Mina Al Arab,Communitea
+87,,"['Indian', 'Fast Food', 'Desserts']",Suhaim,Bestow Cafe and Restaurant
+88,,"['Fast Food', 'Beverages']",Al Nakheel,Al Mashahir Cafeteria
+89,,['Fast Food'],Dafan Al Khor,Fresh Chicken King
+90,,['Italian'],"Rixos Bab Al Bahr, Al Marjan Island",L'Olivo - Rixos Bab Al Bahr
+91,,['Italian'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",Piaceri da Gustare - Hilton Ras Al Khaimah Beach Resort
+92,,"['Cafe', 'Arabian', 'Middle Eastern']","Waldorf Astoria Ras Al Khaimah, Al Hamra",Camelia - Waldorf Astoria Ras Al Khaimah
+93,,"['Turkish', 'Lebanese', 'Arabian', 'Middle Eastern']",Al Marjan Island,Seven Heights - Rixos Bab Al Bahr
+94,,"['Arabian', 'Middle Eastern', 'Cafe', 'Indian', 'Italian', 'Asian']","Bin Majid Beach Resort, Al Marjan Island",Oasis Restaurant - Bin Majid Beach Resort
+95,,"['Burger', 'Fast Food']","Manar Mall, Al Uraibi",Hardee's
+96,,"['Arabian', 'Middle Eastern']","Manar Mall, Al Uraibi",Massaya
+97,,"['Indian', 'Chinese', 'Fast Food']",Al Seer,Emirates Fried Chicken
+98,,['Fast Food'],"Al Hamra Mall, Al Hamra",Texas Chicken
+99,,"['Brazilian', 'Latin American']","Hilton Ras Al Khaimah Beach Resort, Al Mairid",Pura Vida - Hilton Ras Al Khaimah Beach Resort
+100,,['Finger Food'],"DoubleTree by Hilton, Al Marjan Island",The Anchor Brew & Grill - DoubleTree by Hilton
+101,,['Japanese'],Al Nadiyah,Ruzo
+102,,"['Indian', 'North Indian']","Manar Mall, Al Uraibi",Yellow Chilli By Sanjeev Kapoor
+103,,['Cafe'],Mina Al Arab,Communitea
+104,,"['Indian', 'Fast Food', 'Desserts']",Suhaim,Bestow Cafe and Restaurant
+105,,['Italian'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",Piaceri da Gustare - Hilton Ras Al Khaimah Beach Resort
+106,,"['Indian', 'South Indian']",Al Jazirat,New Grand Restaurant
+107,,['Afghan'],Al Nadiyah,Al Yaqoot Al Afghani
+108,,"['Arabian', 'Middle Eastern', 'Indian', 'Chinese']",Al Seer,Grand Restaurant
+109,,['Iranian'],Al Dhait South,Sadaf
+110,,['Cafe'],"Manar Mall, Al Uraibi",Louis Feraud Caffe
+111,,"['Indian', 'South Indian']",Al Seer,Rainbow Restaurant
+112,,['Fast Food'],Al Mamourah,Saif Al Khaleej Cafeteria
+113,,['Italian'],Mina Al Arab,La Burrata Italian Restaurant
+114,,"['Indian', 'Italian', 'Burger']","Bin Majid Beach Hotel, Al Dhait South",Al Rahala Restaurant - Bin Majid Beach Hotel
+115,,"['Arabian', 'Middle Eastern']",Al Sall,Al Tawoos Al Irani
+116,,"['Fast Food', 'Healthy Food', 'American', 'Salad']",Suhaim,Subway
+117,,"['Turkish', 'Lebanese', 'Arabian', 'Middle Eastern']",Al Marjan Island,Seven Heights - Rixos Bab Al Bahr
+118,,['Cafe'],"Marjan Island Resort & Spa, Al Marjan Island",Amouage - Marjan Island Resort & Spa
+119,,"['Brazilian', 'Latin American']","Hilton Ras Al Khaimah Beach Resort, Al Mairid",Pura Vida - Hilton Ras Al Khaimah Beach Resort
+120,,"['Fast Food', 'Beverages']",Al Nakheel,Al Mashahir Cafeteria
+121,,"['Thai', 'Filipino', 'Chinese']","RAK Mall, Al Qurm",Siam Palace
+122,,"['Indian', 'North Indian']","Manar Mall, Al Uraibi",Dabbawala
+123,,"['Fast Food', 'Arabian', 'Middle Eastern', 'Bakery']",Sidroh,Al Noof
+124,,['Fast Food'],Al Jazirat,Al Walaem Restaurant
+125,,['Chinese'],"Manar Mall, Al Uraibi",Chinese Dragon
+126,,"['Cafe', 'Bakery']","Manar Mall, Al Uraibi",PappaRoti
+127,,"['Burger', 'Fast Food']","Manar Mall, Al Uraibi",Hardee's
+128,,['Steak'],"Rixos Bab Al Bahr, Al Marjan Island",Meat Point - Rixos Bab Al Bahr
+129,,['Desserts'],Al Dhait South,Shuffle & Waffle
+130,,['Cafe'],Mina Al Arab,Queue Cafe
+131,,['Cafe'],Sidroh,Corniche Cafe
+132,,['Cafe'],"Waldorf Astoria Ras Al Khaimah, Al Hamra",Peacock Alley - Waldorf Astoria Ras Al Khaimah
+133,,"['Italian', 'Indian', 'Arabian', 'Steak']","Hilton Garden Inn, Al Nakheel",The Garden Grille - Hilton Garden Inn
+134,,"['Arabian', 'Middle Eastern']",RAK City,Al Abra
+135,,"['Arabian', 'Middle Eastern', 'Cafe']",Dafan Al Khor,Al Saraya Restaurant & Cafe
+136,,"['Fast Food', 'Burger']",Al Marjan Island,SALT
+137,,"['Burger', 'Fast Food']",Dahan,Shanab Burger
+138,,['Desserts'],"My City Centre, Al Dhait South",Freez
+139,,['Bakery'],Sidroh,Sallora Bakery
+140,,['Continental'],The Ritz-Carlton,Farmhouse-The Ritz Carlton
+141,,"['Desserts', 'Arabian', 'Middle Eastern']",Dahan,Feras Sweets
+142,,"['Indian', 'South Indian', 'North Indian']",Al Dhait South,Al Ain Restaurant
+143,,"['Bakery', 'Desserts', 'Cafe']",Dafan Al Khor,Mister Baker
+144,,['Fast Food'],Dafan Al Khor,Safeenath Al Bahar
+145,,"['North Indian', 'Kerala', 'Chinese', 'Arabian']",Al Mamourah,Spice Village Restaurant
+146,,['Afghan'],Al Seer,Kabul Rice Bukhari
+147,,"['Italian', 'Mediterranean']","Waldorf Astoria Ras Al Khaimah, Al Hamra",Azure - Waldorf Astoria Ras Al Khaimah
+148,,['Cafe'],Dafan Al Khor,Space Cafe
+149,,"['American', 'Burger']",Mina Al Arab,Area 51 Burger Cafe
+150,,['Indian'],Sidroh,Namaste Cuisine
+151,,['Finger Food'],"DoubleTree by Hilton, Dafan Al Khor",TreeTop Bar - DoubleTree by Hilton
+152,,"['Continental', 'American', 'Arabian', 'Middle Eastern', 'Asian', 'Indian', 'Burger', 'Italian']","Ras Al Khaimah Hotel, Dafan Al Khor",Awtar
+153,,"['Desserts', 'Ice Cream']","Al Naeem Mall, Al Nakheel",Cold Stone Creamery
+154,,"['Indian', 'North Indian']","Al Hamra Mall, Al Hamra",Golden Crown
+155,,['Indian'],"Al Hamra Mall, Al Hamra",The Rupee Room Express
+156,,['Cafe'],RAK City,Laloca Cafe & Lounge
+157,,['Finger Food'],"Bin Majid Beach Hotel, Al Dhait South",Pebbles Sports Bar - Bin Majid Beach Hotel
+158,,"['Indian', 'South Indian']",Al Nakheel,National Restaurant
+159,,"['Pizza', 'Italian']",Al Dhait North,Broccoli Pizza & Pasta
+160,,['Cafe'],"Al Hamra Mall, Al Hamra",Starbucks
+161,,['Cafe'],"Marjan Island Resort & Spa, Al Marjan Island",Turtle Beach - Marjan Island Resort & Spa
+162,,['Cafe'],Al Dhait North,Gerard
+163,,['Cafe'],"Al Hamra Mall, Al Hamra",Caffe Nero
+164,,"['Arabian', 'Middle Eastern']",Sidroh,Al Sahari
+165,,"['Fast Food', 'Beverages']",Al Jazirat,Zahrat Al Jabal Cafeteria
+166,,"['Arabian', 'Middle Eastern']",Al Nakheel,Shawarma Al Maidan
+167,,['Pizza'],Dafan Al Khor,Pizza Inn
+168,,"['Desserts', 'Ice Cream']","Al Naeem Mall, Al Nakheel",Cold Stone Creamery
+169,,"['Indian', 'North Indian']","Al Hamra Mall, Al Hamra",Golden Crown
+170,,['Indian'],"Al Hamra Mall, Al Hamra",The Rupee Room Express
+171,,['Finger Food'],"Bin Majid Beach Hotel, Al Dhait South",Pebbles Sports Bar - Bin Majid Beach Hotel
+172,,['Cafe'],"Marjan Island Resort & Spa, Al Marjan Island",Turtle Beach - Marjan Island Resort & Spa
+173,,['Cafe'],"Al Hamra Mall, Al Hamra",Starbucks
+174,,['Cafe'],Al Seer,Costa Coffee
+175,,['Cafe'],Al Dhait North,Gerard
+176,,['Cafe'],"Al Hamra Mall, Al Hamra",Caffe Nero
+177,,"['Arabian', 'Middle Eastern']",Sidroh,Al Sahari
+178,,"['Fast Food', 'Beverages']",Al Jazirat,Zahrat Al Jabal Cafeteria
+179,,['Mediterranean'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",Sol Beach Lounge & Bar - Hilton Ras Al Khaimah Beach...
+180,,"['Lebanese', 'Italian']",Al Dhait South,On The Wood
+181,,['Cafe'],Mina Al Arab,Poem Bistro Cafe
+182,,"['Desserts', 'Ice Cream']",RAK City,Ashuk Ice Cream
+183,,['Pakistani'],Al Nakheel,Sher-E-Punjab
+184,,"['Arabian', 'Middle Eastern']",Al Dhait South,Kabab Mahaley Restaurant
+185,,['Moroccan'],Al Rams,Seven Stars Cafe
+186,,['Finger Food'],"Waldorf Astoria Ras Al Khaimah, Al Hamra",17Squared - Waldorf Astoria Ras Al Khaimah
+187,,"['Fast Food', 'Arabian', 'Middle Eastern']",Sidroh,Tarboosh Al Basha
+188,,['Cafe'],Mina Al Arab,Azure Cafe
+189,,['Filipino'],Al Nakheel,Panaderia Restaurant
+190,,['Finger Food'],"Tower Links Golf Club, Al Qurm",The Bunker Lounge
+191,,['Tea'],Al Darbijaniyah,Chapati Karak
+192,,['Cafe'],Mina Al Arab,Azure Cafe
+193,,['Mediterranean'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",Sol Beach Lounge & Bar - Hilton Ras Al Khaimah Beach...
+194,,"['Desserts', 'Ice Cream']",RAK City,Ashuk Ice Cream
+195,,"['Arabian', 'Middle Eastern']",Al Dhait South,Kabab Mahaley Restaurant
+196,,['Moroccan'],Dafan Al Khor,Al Dar Al Bida
+197,,['Finger Food'],"Waldorf Astoria Ras Al Khaimah, Al Hamra",17Squared - Waldorf Astoria Ras Al Khaimah
+198,,"['Fast Food', 'Arabian', 'Middle Eastern']",Sidroh,Tarboosh Al Basha
+199,,['Moroccan'],Al Rams,Seven Stars Cafe
+200,,['Fast Food'],Al Jazirat,Chickees Fried Chicken
+201,,['Indian'],Sidroh,Lamb Roasting Restaurant
+202,,['Cafe'],Sidroh,Manhattan Cafe
+203,,"['Nepalese', 'Chinese', 'Indian']",Al Uraibi,Kathmandu Restaurant
+204,,['Iranian'],Al Nadiyah,Al Tanoor Al Iraqi Restaurant
+205,,"['Arabian', 'Middle Eastern']",Sidroh,"Manhattan Pies, Pizzeria & Grill"
+206,,['Cafe'],"Al Naeem Mall, Al Nakheel",Caribou Coffee
+207,,['Fast Food'],Dafan Al Khor,Lulu Fried Chicken
+208,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Jazirat,Lebanese Restaurant
+209,,['Fast Food'],Al Nakheel,Gulf Bakery
+210,,['Indian'],Al Seer,Royal Thalassery Restaurant
+211,,['Pakistani'],Al Sall,Al Faris
+212,,['Fast Food'],Dahan,Al Arz Automatic Bakery
+213,,"['Arabian', 'Middle Eastern']",Sidroh,Al Comodor Flafel
+214,,['Bakery'],Khuzam,Hot Breads
+215,,"['Cafe', 'Arabian', 'Middle Eastern']",Al Qurm,Location Caffe
+216,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Sall,Al Dana Mandi
+217,,"['Cafe', 'American', 'Bakery', 'Beverages']",Al Qurm,Tim Hortons
+218,,['Desserts'],Al Nadiyah,Bee Sweet
+219,,"['American', 'Fast Food']",Dafan Al Khor,Charleys Philly Steaks
+220,,['Pizza'],Dafan Al Khor,Pizza Inn
+221,,"['Fast Food', 'Arabian', 'Middle Eastern']",RAK City,Turkey Shawarma
+222,,['Fast Food'],Al Mamourah,Bondok Cafeteria
+223,,['Pakistani'],Al Rams,Al Falah
+224,,"['Fast Food', 'Beverages']",Al Dhait South,Bon Burger
+225,,['Fast Food'],Al Nakheel,Gulf Bakery
+226,,['Italian'],"Marjan Island Resort & Spa, Al Marjan Island",Pirates Club - Marjan Island Resort & Spa
+227,,"['Indian', 'South Indian']",Al Jazirat,Vasans Restaurant
+228,,['Cafe'],Al Dhait South,Rotana Cafe
+229,,"['Indian', 'South Indian', 'North Indian', 'Arabian', 'Middle Eastern']","Capital Hotel, Al Qurm",Tandoori Chat - Capital Hotel
+230,,"['Bakery', 'Arabian', 'Middle Eastern']",Al Seer,Al Shurafa Bakery
+231,,"['American', 'Fast Food']",Dafan Al Khor,Charleys Philly Steaks
+232,,['Fast Food'],Al Mamourah,Bondok Cafeteria
+233,,['Pakistani'],Al Rams,Al Falah
+234,,"['Arabian', 'Middle Eastern']",Al Sall,Istanbul Shawarma
+235,,['Italian'],"Marjan Island Resort & Spa, Al Marjan Island",Pirates Club - Marjan Island Resort & Spa
+236,,"['Indian', 'South Indian']",Al Jazirat,Vasans Restaurant
+237,,['Fast Food'],Al Darbijaniyah,Al Zahra Cafeteria
+238,,"['Fast Food', 'Beverages']",Al Nakheel,Al Zarqa Cafeteria
+239,,['Cafe'],Al Dhait South,Rotana Cafe
+240,,['Fast Food'],Al Jazirat,Super Taste
+241,,"['Indian', 'South Indian', 'North Indian', 'Arabian', 'Middle Eastern']","Capital Hotel, Al Qurm",Tandoori Chat - Capital Hotel
+242,,['Finger Food'],"The Cove Rotana Resort, Al Dhait South",Sunset Bar - The Cove Rotana Resort
+243,,['Drinks Only'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",Dome Lounge - Hilton Ras Al Khaimah Beach Resort
+244,,"['American', 'Indian', 'Desserts']","DoubleTree by Hilton, Dafan Al Khor",Podium - DoubleTree by Hilton
+245,,['Fast Food'],Ras Al Selaab,Al Sahl Cafeteria
+246,,"['Bakery', 'Arabian', 'Middle Eastern']",Al Seer,Al Shurafa Bakery
+247,,"['Indian', 'South Indian']",Al Jazirat,Titanic Restaurant
+248,,"['Cafe', 'European']",Al Seer,Mufi's Cafe
+249,,['Indian'],"RAK Mall, Al Qurm",Maharaja
+250,,['Seafood'],"The Ritz-Carlton, Al Hamra",Shore House-The Ritz Carlton
+251,,['Fast Food'],Al Dhait South,Al Zaitoon
+252,,"['Italian', 'Pizza']",Al Dhait South,Pizza Pollo
+253,,['Desserts'],Al Nakheel,Dunkin'
+254,,"['Arabian', 'Desserts']",Al Dhait South,Arabian Sweets
+255,,"['Italian', 'International']","Bin Majid Beach Resort, Al Marjan Island",Cucina Restaurant - Bin Majid Beach Resort
+256,,"['Indian', 'Arabian', 'Middle Eastern', 'Chinese']",Sidroh,Al Dahab Cafeteria
+257,,['Seafood'],"The Ritz-Carlton, Al Hamra",Shore House-The Ritz Carlton
+258,,['Iranian'],Al Dhait South,Rostum Restaurant
+259,,"['Arabian', 'Middle Eastern']",Al Sall,Istanbul Shawarma
+260,,"['Cafe', 'Fast Food']",Dafan Al Khor,TEN 11 Coffee Boutique
+261,,['Desserts'],Al Nakheel,Dunkin'
+262,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Kharran,Al Bait Al Malik
+263,,"['Indian', 'Arabian', 'Middle Eastern']",Al Seer,Family Sweets and Cafeteria
+264,,"['Desserts', 'Ice Cream', 'Juices', 'Beverages']",Al Mairid,Tamashah Ice Cream
+265,,['Drinks Only'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",Dome Lounge - Hilton Ras Al Khaimah Beach Resort
+266,,"['Arabian', 'Middle Eastern']",Al Darbijaniyah,Gulf Pastry
+267,,"['British', 'Seafood']",Al Hamra,The Codfather
+268,,['Pakistani'],RAK City,Murad Zahi
+269,,"['Arabian', 'Middle Eastern']",Al Nakheel,Arajel Cafe & Restaurant
+270,,"['Arabian', 'Middle Eastern']","Tower Links Golf Club, Al Qurm",Awtar
+271,,"['Indian', 'South Indian']",Al Seer,Tammam Restaurant
+272,,['Fast Food'],Al Seer,Al Danah Cafeteria
+273,,"['Italian', 'International']","Bin Majid Beach Resort, Al Marjan Island",Cucina Restaurant - Bin Majid Beach Resort
+274,,"['Indian', 'Arabian', 'Middle Eastern', 'Chinese']",Sidroh,Al Dahab Cafeteria
+275,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Kharran,Al Bait Al Malik
+276,,['Pakistani'],Al Qurm,Sher-e-Pakistan
+277,,['Iranian'],Al Dhait South,Rostum Restaurant
+278,,['Drinks Only'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",XO Bar - Hilton Ras Al Khaimah Beach Resort
+279,,['Finger Food'],"Hilton Garden Inn, Al Nakheel",The Garden Bar - Hilton Garden Inn
+280,,"['Indian', 'Arabian', 'Middle Eastern']",Al Seer,Family Sweets and Cafeteria
+281,,"['Mandi', 'Emirati', 'Middle Eastern', 'Arabian']",Al Seer,Layali Al Emarat Mandi Restaurant
+282,,['Iranian'],Al Nakheel,Al Oraibi Restaurant
+283,,"['Desserts', 'Ice Cream', 'Juices', 'Beverages']",Al Mairid,Tamashah Ice Cream
+284,,['Iranian'],Al Mamourah,Shiraz Al Irani
+285,,"['Bakery', 'Arabian', 'Middle Eastern']",Al Sall,Al Mukhtar
+286,,"['Cafe', 'American']","Tower Links Golf Club, Al Qurm",The Riders Cafe
+287,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Darbijaniyah,Al Anood
+288,,"['Indian', 'South Indian']",Al Juwais,Najmat Al Sabah Restaurant
+289,,"['Indian', 'North Indian', 'South Indian']",Al Hamra,Al Manhal
+290,,['Finger Food'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",Sunset Bar - Hilton Ras Al Khaimah Beach Resort
+291,,['International'],"City Stay Beach Hotel Apartments, Al Marjan Island",Sea View Restaurant - City Stay Beach Hotel Apartment
+292,,['Fast Food'],Dafan Al Khor,Al Najla Cafeteria
+293,,"['Cafe', 'American', 'Desserts']",Al Nadiyah,La Terrasse Cafe
+294,,"['Arabian', 'Middle Eastern', 'Chinese', 'Indian']",Al Sall,Malek Al Shawarma
+295,,['Fast Food'],Al Sharisha,Al Beak Restaurant & Cafeteria
+296,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Dhait South,Al Shurafa Bakery
+297,,"['British', 'European', 'French']",RAK City,Owl Cafe
+298,,"['Emirati', 'Arabian', 'Middle Eastern']",Dafan Al Khor,Al Saeed
+299,,"['Arabian', 'Middle Eastern']",Al Mataf,Al Walemah
+300,,"['Bakery', 'Lebanese', 'Arabian', 'Middle Eastern']",Sidroh,Libnan Al Akhdar Cafeteria
+301,,"['Mandi', 'Arabian', 'Middle Eastern']",Khuzam,Khalid Hareeah Kitchen
+302,,['Lebanese'],"Al Naeem Mall, Al Nakheel",Villa Beirut
+303,,['Fast Food'],Al Sall,Zinger King
+304,,['Desserts'],"Safeer Mall, Al Dhait North",Krispy Kreme
+305,,['Cafe'],Al Dhait South,Mixecato
+306,,['Fast Food'],Sidroh,Al Najaf Cafeteria
+307,,"['Cafe', 'American', 'Continental', 'Asian']","Citymax Hotel Ras Al Khaimah, Nakheel",City Cafe - Citymax Hotel Ras Al Khaimah
+308,,['Finger Food'],"Hilton Garden Inn, Al Nakheel",The Garden Bar - Hilton Garden Inn
+309,,"['Arabian', 'Middle Eastern', 'Indian']",RAK City,Khalid Restaurant
+310,,"['Indian', 'South Indian']",Al Jazirat,Onam Restaurant
+311,,['Iranian'],Al Mamourah,Shiraz Al Irani
+312,,['Indian'],Al Dhait North,Special Kabab
+313,,['Finger Food'],"Rixos Bab Al Bahr, Al Marjan Island",Mojito Bar - Rixos Bab Al Bahr
+314,,['Finger Food'],"Bin Majid Beach Resort, Al Marjan Island",Madison Sports Bar
+315,,"['Arabian', 'Middle Eastern', 'Filipino']",RAK City,Food Hut Restaurant
+316,,['Mandi'],"Al Hamra Mall, Al Hamra",Mandilicious
+317,,"['Burger', 'American', 'Fast Food']",Al Manar Mall,Shake Shack
+318,,['Fast Food'],Al Seer,Executive Restaurant And Cafeteria
+319,,"['Burger', 'Italian', 'Pizza']",Al Dhait South,Ala Al Jamer
+320,,"['Seafood', 'Arabian', 'Middle Eastern']","City Hotel, Al Uraibi",Sushel
+321,,"['Chinese', 'Thai', 'Asian']",Dafan Al Khor,Redstar Wok
+322,,"['Fast Food', 'Beverages']",Al Nakheel,Al Zarqa Cafeteria
+323,,"['Bakery', 'Cafe', 'Coffee']","Grove Village, Dafan Al Khor",Yamanote Atelier
+324,,"['Arabian', 'Middle Eastern']",Dahan,Classic Restaurant
+325,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Dhait South,Lebanon Spring Bakery
+326,,"['Syrian', 'Arabian', 'Middle Eastern']",Dafan Al Khor,Rawabi Al Sham
+327,,['Pakistani'],Al Qurm,Sher-e-Pakistan
+328,,"['Pizza', 'Arabian', 'Middle Eastern']",Al Uraibi,Pizzeria Italiana
+329,,['Fast Food'],Mina Al Arab,Al Siraj Al Muneer Restaurant
+330,,['Drinks Only'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",XO Bar - Hilton Ras Al Khaimah Beach Resort
+331,,['Finger Food'],The Ritz-Carlton,Moon Bar-The Ritz Carlton
+332,,['Iranian'],"RAK Mall, Al Qurm",Hatam
+333,,['Cafe'],"Rixos Bab Al Bahr, Al Marjan Island",Aisha Lobby Lounge - Rixos Bab Al Bahr
+334,,"['Indian', 'South Indian']",Al Seer,Tammam Restaurant
+335,,['Sri Lankan'],Al Sall,Emirates Lanka Restaurant
+336,,"['Fast Food', 'Beverages']",Al Rams,Jabal Al Noor Cafeteria
+337,,"['Cafe', 'Italian', 'Arabian', 'Middle Eastern']",Dafan Al Khor,Al Dar Caffe
+338,,['Arabian'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",Al Bahar Rooftop - Hilton Ras Al Khaimah Resort & Spa
+339,,"['Arabian', 'Middle Eastern']","RAK Mall, Al Qurm",Al Daya'a Shawerma
+340,,"['Burger', 'Italian', 'Beverages']",Sidroh,Mr.Denamito
+341,,"['South Indian', 'Chettinad']",Al Jazirat,Kurinji Restaurant
+342,,['Finger Food'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",Rio Beach Bar - Hilton Ras Al Khaimah Beach Resort
+343,,"['British', 'Indian', 'American', 'European']",Al Jazirat,Blue Moon
+344,,['Cafe'],Khuzam,Al Maha Cafe
+345,,"['Arabian', 'Middle Eastern']",Dafan Al Khor,Lahm W Ajeen
+346,,['Turkish'],Al Nakheel,Eskandar Turkish Restaurant
+347,,['Turkish'],Al Seer,Pappa Kumpir
+348,,"['Coffee', 'Tea']",Al Darbijaniyah,Malik Al Karak Cafeteria
+349,,['Fast Food'],Al Dhait South,Al Mahara Cafeteria
+350,,"['Fast Food', 'Indian', 'Burger']",Al Kharran,Hot & Cool Cafeteria
+351,,"['Emirati', 'Arabian', 'Middle Eastern']",Dafan Al Khor,Al Saeed
+352,,['Fast Food'],Al Dhait South,Yamy Sweets
+353,,['Desserts'],Al Dhait South,Al Khayam Bakery
+354,,"['Fast Food', 'Beverages']",Al Seer,Jabal Hafeet Cafeteria
+355,,"['Italian', 'Mediterranean']","Waldorf Astoria Ras Al Khaimah, Al Hamra",Azure Pool Bar - Waldorf Astoria Ras Al Khaimah
+356,,"['Indian', 'South Indian']",RAK City,Calicut Restaurant
+357,,['Seafood'],RAK City,Al Rashid
+358,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Dhait South,Al Afia Pastry
+359,,['Filipino'],Al Hamra,Al Qana'a Restaurant (Tambayang Noypi)
+360,,['Fast Food'],Al Mamourah,Al Deira Fried Chicken
+361,,['Finger Food'],"Rixos Bab Al Bahr, Al Marjan Island",Cigar Bar - Rixos Bab Al Bahr
+362,,['Cafe'],Dafan Al Khor,Triargel Cafe and Lounge
+363,,"['Cafe', 'Italian']","Marjan Island Resort & Spa, Al Marjan Island",Al Forno - Marjan Island Resort & Spa
+364,,"['Mandi', 'Arabian', 'Middle Eastern']",Sidroh,Omer Al Khayyam
+365,,"['Indian', 'North Indian', 'Chinese', 'Fast Food']",Al Jazirat,Al Fateen Restaurant
+366,,['Finger Food'],"The Cove Rotana Resort, Al Dhait South",Laguna Bay - The Cove Rotana Resort
+367,,['Fast Food'],Al Mataf,Reyan Cafeteria
+368,,"['Cafe', 'Coffee']",Al Turfa,Al Bawadi Cafe
+369,,['Cafe'],"Golden Tulip Khatt Springs Resort & Spa, Airport Area",Ristretto Cafe - Golden Tulip Khatt Springs Resort &...
+370,,['Pakistani'],Al Kharran,Pak Khayber
+371,,"['Indian', 'Fast Food']","RAK Mall, Al Qurm",Bikanerwala
+372,,['Indian'],Al Dhait South,Eshhafan Fareej Restaurant
+373,,"['American', 'Finger Food']","Tulip Inn Ras Al Khaimah Hotel, Al Kharran",Champs Sports Bar - Tulip Inn Ras Al Khaimah Hotel
+374,,"['Indian', 'Fast Food']",Al Kharran,Bahar Al Khaleej
+375,,['Fast Food'],Al Jazirat,Good Morning Restaurant
+376,,"['Indian', 'South Indian']","Capital Hotel, Al Qurm",Malabari - Capital Hotel
+377,,"['Desserts', 'Juices', 'Burger']",Sidroh,Max Cafe
+378,,['Seafood'],RAK City,Al Rashid
+379,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Dhait South,Al Afia Pastry
+380,,['Finger Food'],"Rixos Bab Al Bahr, Al Marjan Island",Cigar Bar - Rixos Bab Al Bahr
+381,,['Finger Food'],"The Cove Rotana Resort, Al Dhait South",Laguna Bay - The Cove Rotana Resort
+382,,['Finger Food'],"Bin Majid Beach Hotel, Al Dhait South",Aqua Pool Bar - Bin Majid Beach Hotel
+383,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Mamourah,Al Kahaf
+384,,"['Mandi', 'Arabian', 'Middle Eastern']",Sidroh,Omer Al Khayyam
+385,,"['Fast Food', 'Beverages']",Al Seer,Al Shamel Cafeteria
+386,,['Finger Food'],"Rixos Bab Al Bahr, Al Marjan Island",Sea & See - Rixos Bab Al Bahr
+387,,"['Indian', 'North Indian', 'Chinese', 'Fast Food']",Al Jazirat,Al Fateen Restaurant
+388,,"['Cafe', 'Coffee']",Al Turfa,Al Bawadi Cafe
+389,,"['American', 'Asian', 'Continental']","Tulip Inn Ras Al Khaimah Hotel, Al Kharran",FRESH - Tulip Inn Ras Al Khaimah
+390,,['Pakistani'],Al Kharran,Pak Khayber
+391,,"['Indian', 'Fast Food']","RAK Mall, Al Qurm",Bikanerwala
+392,,"['Indian', 'South Indian']",Al Nakheel,Al Nasma Restaurant
+393,,['Fast Food'],Al Jazirat,Good Morning Restaurant
+394,,"['Indian', 'South Indian']","Capital Hotel, Al Qurm",Malabari - Capital Hotel
+395,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Mamourah,Al Ghub Restaurant
+396,,"['Arabian', 'Middle Eastern']",Al Juwais,Yasmin Al Sham
+397,,['Fast Food'],Al Nakheel,Fly Chicken
+398,,['Healthy Food'],Al Hamra,The Clubhouse
+399,,"['Mandi', 'Arabian', 'Middle Eastern']",RAK City,Lialy Aden Mathabhi
+400,,['Pakistani'],Al Mamourah,Lahori Restaurant
+401,,['Fast Food'],Al Rams,Zamzam
+402,,['Fast Food'],Dafan Al Khor,Zahrath Al Khaleej Cafeteria
+403,,"['Desserts', 'Juices', 'Burger']",Sidroh,Max Cafe
+404,,['Seafood'],RAK City,Souk Al Samak
+405,,['Indian'],Al Dhait South,Eshhafan Fareej Restaurant
+406,,"['Arabian', 'Middle Eastern']",Al Mamourah,Falafel & Tahini
+407,,['Cafe'],"Marjan Island Resort & Spa, Al Marjan Island",Al Majlis - Marjan Island Resort & Spa
+408,,['Pakistani'],Sidroh,Jumaira Traditional Kitchen
+409,,"['Egyptian', 'Arabian']",Al Dhait South,Bait Al Mahashi
+410,,['Finger Food'],"Golden Tulip Khatt Springs Resort & Spa, Airport Area",Gen - x
+411,,['Pakistani'],Al Nakheel,Al Nakheel Restaurant
+412,,['Mandi'],Al Mamourah,Alyaher Mandi Restaurant
+413,,['Cafe'],"Bin Majid Beach Hotel, Al Dhait South",Arcadia - Bin Majid Beach Hotel
+414,,['Mandi'],Al Dhait North,Al Ghawas Restaurant & Kitchen
+415,,['Finger Food'],"Golden Tulip Khatt Springs Resort & Spa, Airport Area",Pool Bar - Golden Tulip Khatt Springs Resort & Spa
+416,,"['Contemporary', 'Continental', 'Fast Food']",Al Nadiyah,Mellows Wholesome Eatery
+417,,"['Fast Food', 'Tea']",Al Sall,Al Lilli Cafeteria
+418,,"['Fast Food', 'Beverages']",Al Dhait South,Sun n Sands Cafeteria
+419,,['Indian'],Al Dhait South,Maharaja Restaurant
+420,,['Indian'],Al Seer,Al Sultan Restraunt
+421,,['Fast Food'],Al Kharran,Shams Al Aseel
+422,,"['Uzbek', 'Russian']",Sidroh,Moskva
+423,,"['Chinese', 'Italian', 'Sushi', 'Asian']",Dafan Al Khor,RAK Restaurant
+424,,"['Arabian', 'Middle Eastern']",Al Kharran,Zahrat Al Libanon Al Jadeed
+425,,"['Juices', 'Beverages']",Al Mamourah,Al Tabeei Juices
+426,,['Finger Food'],"Al Hamra Palace Beach Resort, Al Hamra",Marjan Pool Bar - Al Hamra Palace Beach Resort
+427,,['Cafe'],"DoubleTree by Hilton, Al Marjan Island",Lobby Lounge - DoubleTree by Hilton
+428,,['Ethiopian'],Al Mamourah,Al Habasha
+429,,['Fast Food'],Al Rams,Neaim Cafeteria
+430,,['Fast Food'],Al Nakheel,Doner House Restaurant
+431,,['Fast Food'],Al Dhait South,Magic Food
+432,,['Seafood'],Al Mamourah,Al Rubban
+433,,['Italian'],Mina Al Arab,Pizza Roma
+434,,['Fast Food'],Al Nadiyah,Al Mumthaz Pasteries
+435,,"['Indian', 'Fast Food']",Al Kharran,Bahar Al Khaleej
+436,,['Cafe'],"Manar Mall, Al Uraibi",Gloria Jean's Coffee Shop
+437,,['Fast Food'],Al Rams,Shams Al Noor Caeteria
+438,,['Indian'],Al Seer,Food Cafe Cafeteria
+439,,"['Arabian', 'Middle Eastern']",Al Sall,Al Fawar
+440,,['American'],Sidroh,Captain Burger
+441,,['Burger'],Airport Area,Local Burger
+442,,"['Arabian', 'Middle Eastern', 'Indian', 'Chinese', 'Filipino', 'Pakistani']",Al Mamourah,Noor Al Shams
+443,,"['Indian', 'South Indian']",Al Jazirat,Al Razi Restaurant
+444,,"['Mandi', 'Seafood']",Sidroh,Layali Saba Mandi
+445,,"['Juices', 'Beverages']",Sidroh,Farghaly Fruits
+446,,"['Arabian', 'Middle Eastern', 'Fast Food']",Sidroh,Al Kahf Restaurant
+447,,"['Finger Food', 'Arabian', 'Middle Eastern']","DoubleTree by Hilton, Al Marjan Island",Al Marjan Bar - DoubleTree by Hilton
+448,,['Cafe'],Dafan Al Khor,Shahrazad
+449,,['Cafe'],"Tulip Inn Ras Al Khaimah Hotel, Al Kharran",Ristretto Cafe & Lounge - Tulip Inn Ras Al Khaimah...
+450,,['Cafe'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",BN Cafe - Hilton Ras Al Khaimah Resort & Spa
+451,,['Pakistani'],Al Jazirat,Desi Taste Restaurant
+452,,"['Fast Food', 'Beverages']",Al Dhait North,Al Anabi Cafeteira
+453,,['Pakistani'],Al Jazirat,Al Shabab
+454,,['Fast Food'],Al Jazirat,Al Deira Fried Chicken
+455,,['Finger Food'],"DoubleTree by Hilton, Dafan Al Khor",Lobby Lounge - DoubleTree by Hilton
+456,,"['Indian', 'South Indian']",Al Nakheel,Tasty Restaurant
+457,,['Mandi'],Ras Al Selaab,Al Makla Mandi
+458,,"['Ice Cream', 'Desserts', 'Juices', 'Beverages']",Al Sall,Rawaa Ice Cream
+459,,"['Fast Food', 'Beverages']",Al Seer,Al Ghaya Cafeteria
+460,,"['Cafe', 'Bakery']","Al Hamra Mall, Al Hamra",Salamek
+461,,"['Beverages', 'Juices', 'Healthy Food']",Al Darbijaniyah,Forty Fruity
+462,,['Finger Food'],Al Juwais,Asian Night Club
+463,,['Indian'],Al Hudaibah,Al Oodh
+464,,"['Fast Food', 'Beverages']",Al Dhait South,Mahrat Al Bahar Restaurant
+465,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Sall,Maxicano
+466,,['Fast Food'],Al Qurm,Yamal Al Sham
+467,,"['Indian', 'South Indian']",Al Nadiyah,New Dubai Restaurant
+468,,['Fast Food'],Al Seer,Al Mooda Cafeteria
+469,,['Cafe'],"City Hotel, Al Uraibi",Balance
+470,,['Filipino'],Al Seer,KMP Restaurant
+471,,"['Middle Eastern', 'Arabian']",Al Kharran,Al Shamil Popular Kitchen
+472,,['Fast Food'],Al Sall,Al Bayan Cafeteria
+473,,"['Emirati', 'Arabian', 'Middle Eastern']",Al Dhait North,Al Shan Public Kitchen
+474,,['Pakistani'],Al Nadiyah,Al Zaman Restaurant
+475,,"['Beverages', 'Juices']",Al Dhait South,Fruits
+476,,"['Indian', 'Chinese', 'Filipino']",Al Hamra,YAS Hospitality
+477,,['Finger Food'],Al Qurm,Mahfil Night Club
+478,,['Fast Food'],Al Mataf,Al Thalla Cafeteria
+479,,"['North Indian', 'Biryani']",Airport Area,Zaika Restaurant
+480,,['Cafe'],Al Uraibi,Nadeena Cafeteria & Cafe
+481,,"['Fast Food', 'Juices']",Al Seer,Al Qubtan Restaurant
+482,,"['Beverages', 'Juices']",Al Dhait South,Fruits
+483,,['Seafood'],RAK City,Wave Seafood Restaurant
+484,,['Drinks Only'],"City Hotel, Al Uraibi",Chill Pub
+485,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Sall,Maxicano
+486,,['Fast Food'],Al Sharisha,Zahrat Al Wadi Pastry
+487,,['Fast Food'],RAK City,Shat Al Bahar Cafeteria
+488,,['Finger Food'],"Rixos Bab Al Bahr, Al Marjan Island",Su Bar - Rixos Bab Al Bahr
+489,,['Cafe'],Al Kharran,Phoenician Cafe
+490,,"['Arabian', 'Middle Eastern']",Al Qurm,Al Farooj Al Dhahabi
+491,,['Fast Food'],Al Mataf,Al Thalla Cafeteria
+492,,['Cafe'],Al Uraibi,Nadeena Cafeteria & Cafe
+493,,"['Indian', 'South Indian']",Al Nakheel,Anwar Restaurant
+494,,"['North Indian', 'Biryani']",Airport Area,Zaika Restaurant
+495,,"['Fast Food', 'Juices']",Al Seer,Al Qubtan Restaurant
+496,,['Fast Food'],Al Sharisha,Zahrat Al Wadi Pastry
+497,,['Finger Food'],"Rixos Bab Al Bahr, Al Marjan Island",Su Bar - Rixos Bab Al Bahr
+498,,['Drinks Only'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",Deck Bar - Hilton Ras Al Khaimah Resort & Spa
+499,,['Fast Food'],RAK City,Shat Al Bahar Cafeteria
+500,,"['Arabian', 'Middle Eastern', 'Fast Food']",Dafan Al Khor,Fatayer Al Tayer Cafeteria
+501,,['Cafe'],Sidroh,Oragina Cafe
+502,,"['Arabian', 'Middle Eastern']",Al Juwais,Mamlakat Alfatair
+503,,['Fast Food'],Sidroh,Ebrahim Al Ajjal Saeed Cafeteria
+504,,['Desserts'],Sidroh,Ice Point
+505,,"['Fast Food', 'Beverages']",Al Dhait North,Al Anabi Cafeteira
+506,,['Drinks Only'],"Hilton Ras Al Khaimah Beach Resort, Al Mairid",Deck Bar - Hilton Ras Al Khaimah Resort & Spa
+507,,['Fast Food'],Al Kharran,Al Falah Cafeteria
+508,,"['Arabian', 'Middle Eastern']",Al Uraibi,Ahlia Talla Restaurant & Cafe
+509,,['Pakistani'],Al Dhait South,Al Ward Restaurant
+510,,"['Juices', 'Beverages']",Al Rams,Al Rukn Al Tazej
+511,,['Fast Food'],Al Sall,Daye Cafeteria
+512,,['Fast Food'],Al Kharran,Al Shifa
+513,,"['Healthy Food', 'Fast Food', 'Beverages']",Al Dhait South,Ice Cap Cafeteria
+514,,"['Indian', 'South Indian']",Al Seer,Middle East Restaurant
+515,,['Fast Food'],Al Rams,Al Ahmad Cafeteria
+516,,"['Arabian', 'Middle Eastern']",Sidroh,Mazar Restaurant
+517,,['Lebanese'],Al Seer,Aroos Demashq Restaurant
+518,,"['Fast Food', 'Beverages']",Al Jazirat,Al Jazeerat Al Arab Cafeteria
+519,,"['Italian', 'Fast Food']","Hilton Garden Inn, Al Nakheel",The Pool Bar - Hilton Garden Inn
+520,,['Cafe'],Al Uraibi,Queen Inn Cafe
+521,,"['Fast Food', 'Beverages']",Al Seer,Al Athlal Cafeteria
+522,,['Finger Food'],"Bin Majid Beach Hotel, Al Dhait South",Waves Beach Bar
+523,,['Fast Food'],Mina Al Arab,Pasta Station
+524,,['Fast Food'],Al Sall,Malik El Bratah Cafeteria
+525,,"['Arabian', 'Middle Eastern', 'Pizza']",Dafan Al Khor,Al Sanabil
+526,,['Fast Food'],Al Mataf,Malek Al Burger Cafeteria
+527,,['Filipino'],Al Jazirat,Good Morning Restaurant & Cafe
+528,,['Afghan'],Al Rams,Al Ruwais Cafeteria
+529,,"['Indian', 'South Indian']",Al Seer,Middle East Restaurant
+530,,['Fast Food'],Al Rams,Al Ahmad Cafeteria
+531,,"['Arabian', 'Middle Eastern']",Sidroh,Mazar Restaurant
+532,,"['Burger', 'Fast Food']",Al Dhait North,Unique Burger
+533,,"['Emirati', 'Arabian', 'Middle Eastern']",Al Nadiyah,Al Jamaheer Traditional Kitchen
+534,,['Lebanese'],Al Seer,Aroos Demashq Restaurant
+535,,"['Fast Food', 'Beverages']",Al Jazirat,Al Jazeerat Al Arab Cafeteria
+536,,"['Fast Food', 'Beverages']",Al Seer,Al Athlal Cafeteria
+537,,['Fast Food'],Mina Al Arab,Pasta Station
+538,,['Fast Food'],Al Sall,Malik El Bratah Cafeteria
+539,,"['Arabian', 'Middle Eastern', 'Pizza']",Dafan Al Khor,Al Sanabil
+540,,['Fast Food'],Al Mataf,Malek Al Burger Cafeteria
+541,,['Filipino'],Al Jazirat,Good Morning Restaurant & Cafe
+542,,['Afghan'],Al Rams,Al Ruwais Cafeteria
+543,,['Finger Food'],"Bin Majid Beach Hotel, Al Dhait South",Waves Beach Bar
+544,,['Fast Food'],Mina Al Arab,Pasta Station
+545,,['Fast Food'],Al Nadiyah,Beach Cafeteria
+546,,"['Fast Food', 'Beverages']",Al Jazirat,Al Hamraa Restaurant
+547,,"['Indian', 'South Indian']",Al Seer,Elite Restaurant
+548,,['Fast Food'],Al Qurm,Ahlan Cafeteria
+549,,['Burger'],Al Dhait South,Grilled Burger
+550,,"['Indian', 'South Indian']",Al Nakheel,Al Joory Restaurant
+551,,['Fast Food'],Al Rams,Zahrath Al Rams
+552,,['Fast Food'],Al Dhait North,Al Sarab Cafeteria
+553,,['Cafe'],Sidroh,Aroma Cafe
+554,,"['Pakistani', 'Fast Food']",Al Sharisha,Al Jamaheer Cafeteria
+555,,['Cafe'],Mina Al Arab,RMR Story Cafe
+556,,"['Fast Food', 'Beverages']",Al Dhait South,Jasil Cafeteria
+557,,['Finger Food'],"Capital Hotel, Al Qurm",Mehfil - Capital Hotel
+558,,"['Indian', 'South Indian']",Al Jazirat,Al Hammadi Restaurant
+559,,"['Arabian', 'Middle Eastern']",Al Seer,Al Ajwaa Restaurant
+560,,['Fast Food'],Sidroh,Zooma Cafeteria
+561,,"['Desserts', 'Arabian', 'Middle Eastern']",Al Dhait South,Bake Home
+562,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Mairid,Wadi Al Bawadi Shawarma
+563,,"['Healthy Food', 'Fast Food', 'Beverages']",Al Dhait South,Ice Cap Cafeteria
+564,,"['Arabian', 'Middle Eastern', 'Desserts']",Al Qurm,Al Halabi Sweets
+565,,"['Arabian', 'Middle Eastern', 'Fast Food']",Sidroh,Almokhatar Cafeteria
+566,,['Pakistani'],Al Kharran,Al Narjis Al Akhdar
+567,,"['Arabian', 'Middle Eastern']",Al Mairid,Al Batata Al Machwia
+568,,"['Pakistani', 'Fast Food']",Al Sharisha,Al Jamaheer Cafeteria
+569,,['Cafe'],Sidroh,Aroma Cafe
+570,,['Fast Food'],Al Dhait North,Al Sarab Cafeteria
+571,,['Finger Food'],Al Marjan Island,Taal
+572,,"['Egyptian', 'Arabian', 'Middle Eastern']",Sidroh,Al Helw
+573,,"['Indian', 'South Indian']",Al Mairid,Al Ghareb
+574,,"['Arabian', 'Middle Eastern', 'Fast Food']",Dafan Al Khor,Fatayer Al Tayer Cafeteria
+575,,"['Ice Cream', 'Desserts']",Al Sall,London Ice Cream
+576,,"['Filipino', 'Bakery', 'Desserts']",Al Juwais,Mr. Bakemac
+577,,['Pakistani'],Al Dhait South,Al Kharan
+578,,"['Indian', 'Biryani']",Al Rams,Madeenat Al Rams Restaurant
+579,,['Fast Food'],Al Mamourah,Al Mulook Cafeteria
+580,,['Fast Food'],Al Dhait South,Bait Al Rashola Cafeteria
+581,,"['Arabian', 'Middle Eastern']",Al Juwais,Mamlakat Alfatair
+582,,['Finger Food'],Al Marjan Island,Taal
+583,,['Pakistani'],Al Mamourah,Mujahed Restaurant
+584,,"['Egyptian', 'Arabian', 'Middle Eastern']",Sidroh,Al Helw
+585,,['Desserts'],Al Jazirat,Sweets Boulevard
+586,,"['Indian', 'South Indian']",Al Mairid,Al Ghareb
+587,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Kharran,Al Talal Al Dahabiah
+588,,"['Ice Cream', 'Desserts']",Al Sall,London Ice Cream
+589,,"['Filipino', 'Bakery', 'Desserts']",Al Juwais,Mr. Bakemac
+590,,['Pakistani'],Al Dhait South,Al Kharan
+591,,"['Indian', 'Biryani']",Al Rams,Madeenat Al Rams Restaurant
+592,,['Fast Food'],Al Mamourah,Al Mulook Cafeteria
+593,,['Fast Food'],Al Mataf,Crown Fried Chicken
+594,,"['Beverages', 'Coffee', 'Tea']",Al Nakheel,Ahla Karak Cafeteria
+595,,['Pakistani'],Al Jazirat,Ajab Khan Restaurant
+596,,['Fast Food'],Al Sharisha,Nihal Cafeteria
+597,,"['Bakery', 'Desserts', 'Arabian', 'Middle Eastern']",Al Kharran,Rucn Sweets
+598,,"['Cafe', 'Arabian']",Al Dhait South,Shat Al Eskenderyah
+599,,['Indian'],RAK City,Al Khas
+600,,['Fast Food'],Al Sall,Al Noor Cafeteria
+601,,"['Indian', 'South Indian']",Al Rams,Al Amanat Restaurant
+602,,"['Beverages', 'Juices', 'Healthy Food']",Dahan,RAK Fourty Fruity
+603,,"['Egyptian', 'Arabian', 'Middle Eastern']",Sidroh,Afandena
+604,,"['Cafe', 'Arabian']",Al Nadiyah,Free Time Cafe
+605,,['Pakistani'],Al Jazirat,Ajab Khan Restaurant
+606,,['Fast Food'],Al Mataf,Crown Fried Chicken
+607,,['Fast Food'],Al Sharisha,Nihal Cafeteria
+608,,['Cafe'],Sidroh,Classic Cafe
+609,,"['Cafe', 'Arabian']",Al Dhait South,Shat Al Eskenderyah
+610,,['Indian'],RAK City,Al Khas
+611,,['Fast Food'],Al Sall,Al Noor Cafeteria
+612,,"['Indian', 'South Indian']",Al Rams,Al Amanat Restaurant
+613,,['Biryani'],RAK City,Al Jawhara
+614,,"['Beverages', 'Juices', 'Healthy Food']",Dahan,RAK Fourty Fruity
+615,,"['Egyptian', 'Arabian', 'Middle Eastern']",Sidroh,Afandena
+616,,['Cafe'],Sidroh,Ya Lail Ya Ain Cafe
+617,,['Fast Food'],Al Nudood,Emirates Hut
+618,,['Fast Food'],Al Mamourah,Al Maharjan Cafeteria
+619,,"['Desserts', 'Arabian', 'Middle Eastern']",Al Dhait South,Najm Al Khuwairat Omani Sweets
+620,,"['Arabian', 'Middle Eastern', 'Cafe']",Al Qurm,Al Akaber
+621,,"['Cafe', 'Coffee']",Al Dhait South,Surge
+622,,"['Healthy Food', 'Juices', 'Beverages']","Al Hamra Mall, Al Hamra",Frootty
+623,,['Cafe'],Al Seer,Al Dewania Cafe
+624,,['Sri Lankan'],Al Seer,Lakrasa
+625,,['Cafe'],"Ras Al Khaimah Hotel, Dafan Al Khor",Shahrazad Cafe
+626,,['Pakistani'],Al Mamourah,Al Shehhi
+627,,"['Indian', 'South Indian']",Al Jazirat,Ashaab
+628,,['Cafe'],Sidroh,Layali Libanon Cafe
+629,,"['Indian', 'Biryani']",Al Dhait South,Al Arabi Al Shaabi Kitchen
+630,,['Beverages'],Al Sharisha,Afandina Juice - عصائر أفندينا
+631,,['Fast Food'],Al Rams,Al Qimma Cafeteria
+632,,['Indian'],Al Mamourah,Al Momayaz
+633,,['Fast Food'],Al Sall,Al Manar Cafeteria
+634,,"['Arabian', 'Middle Eastern']",Al Rams,Loaloat Al Rams Restaurant
+635,,"['Cafe', 'Desserts']",Al Dhait South,District 7
+636,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Sall,Al Bait Al Emarati
+637,,"['Fast Food', 'Beverages', 'Juices']",Al Rams,Jebel Al Ruwais
+638,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Mataf,Al Fareed Shawarma
+639,,"['Emirati', 'Arabian', 'Middle Eastern']",Al Dhait North,Ras Al Khaima Traditional Kitchen
+640,,['Cafe'],RAK City,Al Marsa Cafe
+641,,['Fast Food'],Al Rams,Al Batata Al Ladede
+642,,"['Arabian', 'Middle Eastern']",Al Rams,Al Bul Bul Pastry
+643,,"['Indian', 'South Indian']",Dafan Al Khor,Adil Restaurant
+644,,"['Fast Food', 'Beverages']",Al Jazirat,Al Nidaa Cafeteria
+645,,"['Cafe', 'Coffee', 'Tea']",Dafan Al Khor,Al Wahdawi Restaurant & Cafe
+646,,['Chinese'],"DoubleTree By Hilton Corniche Hotel & Residences, Dafan...",Xing Long - DoubleTree By Hilton Corniche Hotel &...
+647,,['Russian'],Sidroh,Pelmeni In Emirates
+648,,['Cafe'],Sidroh,Al Khawaja Cafe
+649,,"['Arabian', 'Middle Eastern']",Al Dhait South,Al Shiyabi Omani Halwa
+650,,['Finger Food'],"DoubleTree By Hilton Corniche Hotel & Residences, Dafan...",Ri Bar - DoubleTree By Hilton Corniche Hotel &...
+651,,['Moroccan'],Al Qurm,Moroccan Restaurant
+652,,['Pakistani'],Sidroh,Zahrat Dahan
+653,,['Cafe'],"RAK Mall, Al Qurm",Sweetaly Cafe
+654,,"['Arabian', 'Middle Eastern']",Al Dhait South,Al Shiyabi Omani Halwa
+655,,"['Indian', 'South Indian']",Al Mamourah,Malik Of Sandwiches
+656,,"['Indian', 'South Indian', 'North Indian']",Al Rams,Abu Omar Restaurant
+657,,['Fast Food'],Al Jazirat,Al Noor Fried Chicken
+658,,"['Arabian', 'Middle Eastern']",Dafan Al Khor,Al Rashaqa
+659,,['Afghan'],Al Seer,Al Bait Al Afghani Restaurant & Cafeteria
+660,,['Fast Food'],Al Mamourah,Cark Al Maamurah Cafeteria
+661,,"['Finger Food', 'International', 'Desserts']",The Ritz-Carlton,Oasis Pool & Bar - The Ritz Carlton
+662,,['Moroccan'],Al Qurm,Moroccan Restaurant
+663,,['Cafe'],"RAK Mall, Al Qurm",Sweetaly Cafe
+664,,"['Indian', 'South Indian']",Al Mamourah,Malik Of Sandwiches
+665,,"['Indian', 'South Indian', 'North Indian']",Al Rams,Abu Omar Restaurant
+666,,['Fast Food'],Al Jazirat,Al Noor Fried Chicken
+667,,"['Arabian', 'Middle Eastern']",Dafan Al Khor,Al Rashaqa
+668,,['Afghan'],Al Seer,Al Bait Al Afghani Restaurant & Cafeteria
+669,,"['Indian', 'South Indian']",Al Jazirat,Al Moshir Restaurant
+670,,['Fast Food'],Al Mamourah,Cark Al Maamurah Cafeteria
+671,,"['Finger Food', 'International', 'Desserts']",The Ritz-Carlton,Oasis Pool & Bar - The Ritz Carlton
+672,,"['Mexican', 'Fast Food']",Al Hamra,Hungry Burritos
+673,,"['Indian', 'South Indian']",Al Seer,Restaurant Al Hala
+674,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Kharran,New RAK Restaurant
+675,,['Cafe'],"Prime Hotel, Al Juwais",Coffee Shop
+676,,['Cafe'],RAK City,Shaghf Cafe
+677,,['Pakistani'],Al Dhait South,Barqia Restaurant
+678,,"['Arabian', 'Middle Eastern']",Al Rams,Falafel Alkomedor
+679,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Sall,Al Bait Al Emarati
+680,,['Cafe'],Al Rams,Jabal Hafeet Cafe & Restaurant
+681,,"['Arabian', 'Middle Eastern']",Al Rams,Falafel Alkomedor
+682,,['Cafe'],Al Rams,Jabal Hafeet Cafe & Restaurant
+683,,"['Indian', 'South Indian']",RAK City,Al Shareef
+684,,"['Indian', 'South Indian']",Al Nadiyah,Al Rifaah Restaurant
+685,,"['Italian', 'Iranian']","Al Hamra Mall, Al Hamra",Oliva
+686,,"['Indian', 'South Indian']",Al Rams,Al Talaa Restaurant
+687,,"['Indian', 'South Indian']",Al Sall,Al Farhan
+688,,"['Indian', 'South Indian']",Al Jazirat,Al Burj Cafetera
+689,,"['Arabian', 'Lebanese']",Mina Al Arab,Al Masar  Restaurant
+690,,['Fast Food'],Al Mataf,Al Misbah Cafeteria
+691,,['Cafe'],Sidroh,Dardasha Cafe
+692,,['Cafe'],Al Kharran,Bait El Noor For Tea
+693,,['Fast Food'],Al Mamourah,Al Sambosa Cafeteria
+694,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Sall,Al Jood
+695,,"['Mandi', 'Arabian', 'Middle Eastern']",Al Rams,Al Mashahar
+696,,"['Desserts', 'Beverages']",Al Dhait South,Cookies Village
+697,,"['Indian', 'Afghan']",Al Qurm,Al Marfa Restaurant
+698,,['Healthy Food'],Dafan Al Khor,Healthy Green Restaurant
+699,,"['Arabian', 'Middle Eastern']",Sidroh,Al Barza Al Shabi
+700,,['Bakery'],Sidroh,Al Bait Al Shami Sweets
+701,,['Bakery'],Dafan Al Khor,Monkey Cookies
+702,,['Fast Food'],Al Sharisha,Al Wahaj Cafeteria
+703,,['Cafe'],Sidroh,Al Basha Cafe
+704,,"['Indian', 'Biryani']",Al Dhait South,Al Arabi Al Shaabi Kitchen
+705,,['Fast Food'],Al Mataf,Al Zawraq
+706,,['Indian'],Al Ghubb,Al Sajidah
+707,,['Fast Food'],Al Dhait South,Hamez Helow
+708,,['Fast Food'],Al Darbijaniyah,Al Cark Al Dahabi
+709,,['Middle Eastern'],Al Seer,Al Yacout Afghan Restaurant
+710,,['Fast Food'],Al Sall,Al Boom Cafeteria
+711,,['Fast Food'],Al Rams,Puro Express
+712,,['Cafe'],Sidroh,Milano Cafe
+713,,['Cafe'],Sidroh,Al Qasioun Cafe
+714,,['Fast Food'],Al Darbijaniyah,Malik Al Qahwa Restaurant
+715,,['Fast Food'],Al Mamourah,Al Ramla
+716,,['Fast Food'],Al Mamourah,Al Shayi Al Ghawi Cafeteria
+717,,['Arabian'],Al Rams,Al Tarbosh Al Shamy Cafeteria
+718,,"['Fast Food', 'Beverages']",Al Nakheel,Awati Cafeteria
+719,,['Finger Food'],"Capital Hotel, Al Qurm",Al Mahabba - Capital Hotel
+720,,['Fast Food'],"Al Naeem Mall, Al Nakheel",POParazzi's
+721,,['Filipino'],Dafan Al Khor,Mai Kolachi
+722,,"['Arabian', 'Middle Eastern', 'Desserts']",Al Rams,Al Malakia Pasteries
+723,,['Finger Food'],"Capital Hotel, Al Qurm",Alwansa - Capital Hotel
+724,,['Fast Food'],"Al Naeem Mall, Al Nakheel",POParazzi's
+725,,['Fast Food'],Al Dhait South,Ayyal Lbilad
+726,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Mairid,Al Ghayeb Cafeteria
+727,,"['Indian', 'Biryani']",Al Dhait South,Al Arabi Al Shaabi Kitchen
+728,,['Fast Food'],Al Mamourah,Al Waseela Cafeteria
+729,,['Filipino'],Dafan Al Khor,Mai Kolachi
+730,,['Cafe'],"Prime Hotel, Al Juwais",Prime Cafe
+731,,['Fast Food'],Al Mamourah,Falafel & Pastry Al Sobat
+732,,"['Ice Cream', 'Desserts']",Al Rams,Al Fereej Ice Cream

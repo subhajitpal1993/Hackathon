@@ -1,0 +1,2098 @@
+,cost_for_two,cuisines,locality,rest_name
+0,,"['Indian', 'Biryani', 'North Indian', 'Kebab', 'Mughlai']",Abu Shagara,Gazebo - جازيبو
+1,,"['Pakistani', 'Indian', 'Mughlai', 'Desserts']",Al Mareija,Najmat Lahore Restaurant
+2,,"['Chinese', 'Asian']",Al Majaz,Chin Chin
+3,,"['Indian', 'North Indian', 'South Indian', 'Chinese']",Abu Shagara,Kamat
+4,,"['Chinese', 'Indian', 'Nepalese']",Bu Tina,Momo House
+5,,"['Arabian', 'Middle Eastern']",Al Nud,Aroos Damascus - عروس دمشق
+6,,"['Indian', 'Pakistani', 'Biryani', 'Kebab', 'BBQ']",Al Majaz,Nayaab Haandi
+7,,"['South Indian', 'Kerala']","Ansar Mall, Al Nahda",Salkara Restaurant
+8,,"['Arabian', 'Middle Eastern', 'Grill', 'BBQ']",Al Majaz,Aleppo Grills (Al Mashawi Al Halabya) -...
+9,,"['Indian', 'North Indian', 'Street Food', 'South Indian', 'Chinese']",Abu Shagara,Bombay Food Factory
+10,,"['Indian', 'Biryani', 'Chinese']",Al Khan,Katis Restaurant
+11,,"['Fast Food', 'Burger', 'Italian']",Abu Shagara,Eat Route
+12,,"['Indian', 'North Indian', 'Desserts']",Muwailih Commercial,Rajasthan Al Malaki
+13,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Majaz,Laffah Cafeteria - كافتيريا لفاح
+14,,"['African', 'Portuguese']","Al Qasba, Al Khan",Nando's Al Qasba
+15,,"['Pakistani', 'Kebab', 'Biryani']",Al Nahda,Kabab Karachi
+16,,"['Mughlai', 'Indian', 'Pakistani']",Al Nahda,Delhi Nihari Restaurant
+17,,"['Indian', 'Kerala', 'South Indian', 'Chinese', 'Beverages']",Abu Shagara,Kurkum
+18,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Majaz,Falafil Al Comodor
+19,,"['Pizza', 'Italian', 'Fast Food']",Al Majaz,Papa Murphy's Pizza
+20,,"['Indian', 'Biryani', 'North Indian', 'Kebab']",Al Nud,Kulcha King - كولشا كينج
+21,,"['Arabian', 'Middle Eastern', 'Continental', 'Lebanese']",Al Majaz,Falafel Frayha- فلافل فريحة
+22,,"['Indian', 'North Indian', 'Mughlai']","Sahara Centre, Al Nahda",Makani Restaurant - مكاني رستورانت
+23,,"['Indian', 'Fast Food']","Safeer Mall, Al Nahda",Raju Omlet
+24,,"['Indian', 'Pakistani', 'Fast Food']",Al Mujarrah,Chutney
+25,,"['Indian', 'North Indian']",Al Nahda,Namaste India - Tamata Al Hamra
+26,,"['Street Food', 'North Indian', 'Indian']",Abu Shagara,Chhappan Bhog
+27,,['Cafe'],"Al Majaz Waterfront, Al Majaz 3",Molten Chocolate Cafe
+28,,"['Fast Food', 'Juices']",Al Ghuwair,Juice World
+29,,"['Burger', 'Fast Food', 'Street Food']",Al Majaz,SOL
+30,,"['Fast Food', 'Pizza']",Al Nahda,Pizza Hut
+31,,"['Indian', 'North Indian', 'Street Food', 'Fast Food']",Al Nahda,Alam Al Wajbat (World Of Food)
+32,,"['Pakistani', 'Indian', 'Chinese', 'Kebab', 'Grill']",Abu Shagara,Khanji
+33,,"['Indian', 'North Indian', 'Hyderabadi']",Al Nud,Hyderabadi'z
+34,,"['Lebanese', 'Arabian', 'Desserts', 'Beverages']",Al Nahda,Al Mukhtar Bakery - مخبز المختار
+35,,"['Indian', 'North Indian', 'South Indian', 'Chinese']",Abu Shagara,Kamat
+36,,"['Indian', 'Chinese', 'South Indian']",Abu Shagara,Woodlands Restaurant
+37,,"['Indian', 'South Indian', 'Chinese']",Al Nabba,Calicut Notebook
+38,,"['American', 'Fast Food']",Al Taawun,Road House American Diner
+39,,"['Chinese', 'Indian', 'North Indian']",Abu Shagara,Orient Grill
+40,,"['Steak', 'Burger', 'American', 'Mexican']",Al Majaz,DineBest
+41,,"['Cafe', 'Bakery', 'Desserts']",University City,Paper Fig Desserts
+42,,"['Cafe', 'Desserts', 'Beverages']","The Grand Avenue, Al Nasseriya",Waffee Street
+43,,"['Indian', 'American', 'Asian', 'Fast Food']",University City,Black Salt
+44,,"['American', 'Mexican']","Al Majaz Waterfront, Al Majaz 3",TGI Fridays
+45,,"['Biryani', 'North Indian', 'Mughlai', 'Indian']","Safeer Mall, Al Nahda",India Palace
+46,,"['Indian', 'North Indian', 'Seafood', 'Continental']",Al Majaz,Five Star Restaurant
+47,,"['Thai', 'Seafood']",Al Majaz,Bangkok Town
+48,,"['Arabian', 'Middle Eastern', 'Mandi']",Al Majaz,Madfoon Al Khaimah - مطعم مدفون الخيمة
+49,,"['Arabian', 'Middle Eastern', 'Lebanese', 'Syrian']",Al Taawun,Khubz & Meleh Restaurant
+50,,"['Sushi', 'Japanese']",University City,Zushi
+51,,"['Indian', 'North Indian']","Al Majaz Waterfront, Al Majaz 3",Ushna
+52,,['Chinese'],Al Majaz,Little China Restaurant
+53,,"['Desserts', 'Cafe']",Al Taawun,The Choco Monarch
+54,,"['South Indian', 'North Indian', 'Street Food', 'Desserts']",Al Nahda,Puranmal
+55,,"['Cafe', 'Coffee', 'Fast Food', 'Desserts']",University City,Mara Cafe
+56,,"['Indian', 'North Indian', 'South Indian', 'Fast Food']",Al Majaz,Bikanervala
+57,,"['Indian', 'North Indian', 'Fast Food']",Al Nahda,Spice of India (Al Tawabel Al Hindia)
+58,,"['Tex-Mex', 'American', 'Fast Food']",University City,Crisol
+59,,"['Fast Food', 'Burger', 'American']",University City,Jimmy's Shack
+60,,"['Indian', 'North Indian', 'South Indian', 'Chinese']",Abu Shagara,Spicy Land Restaurant
+61,,"['American', 'Tex-Mex']","Sahara Centre, Al Nahda",Chili's
+62,,['Pizza'],Al Nasseriya,The Pizza Company
+63,,"['Indian', 'Rajasthani', 'Pizza']",Al Mahatah,SuryaNagri Express (Wadi Al Madina)
+64,,"['European', 'Italian', 'Arabian', 'Desserts', 'Cafe']","Al Majaz Waterfront, Al Majaz 3",Shakespeare and Co. - شكسبير اند كو
+65,,"['Indian', 'Chinese', 'Mughlai']",Al Nahda,Tasty Dhaba (Al Nahda Garden Fast Food)
+66,,"['Steak', 'Indian', 'Chinese', 'Seafood']",Abu Shagara,Rainbow Steak House
+67,,"['Chinese', 'Thai']",Halwan Suburb,Peking Chinese Restaurant
+68,,"['Chinese', 'Thai', 'Nepalese', 'Asian']","Crystal Plaza Hotel, Al Majaz",Xi'an
+69,,"['Pizza', 'Fast Food']","Sahara Centre, Al Nahda",Papa John's
+70,,"['Indian', 'Kerala']",Al Ghuwair,Taste Of Malabar
+71,,"['Indian', 'North Indian', 'Mughlai']",Industrial Area,Al Afadhil
+72,,"['Indian', 'South Indian', 'Chinese', 'Fast Food']",Al Nahda,Creek Restaurant
+73,,"['Pakistani', 'Biryani', 'BBQ', 'Desserts']",Industrial Area,Qasr Lahore Restaurant
+74,,"['North Indian', 'Indian']",Al Nud,Desi Bites (Sama Maleha Restaurant)
+75,,"['Lebanese', 'Arabian', 'Pizza', 'Grill']",University City,Labenah & Zaatar
+76,,"['Bakery', 'Desserts']",Abu Shagara,Occassions
+77,,"['Fast Food', 'Beverages', 'Desserts']",Abu Shagara,Haji Ali Juice Centre
+78,,['Bakery'],Al Nahda,Shamseen Bakeries - مخابز الشمسين
+79,,"['Arabian', 'Middle Eastern', 'Beverages']",Al Khan,Tarbouch Al Soory
+80,,"['Indian', 'Chinese', 'Beverages']",Abu Shagara,Bamboo Chinese
+81,,"['Desserts', 'Ice Cream']",Al Majaz,Kulfilicious
+82,,"['Fast Food', 'North Indian', 'Street Food']",Muwailih Commercial,Urban Tadka
+83,,['Indian'],University City,Rang
+84,,"['Indian', 'South Indian']",Abu Shagara,Saravanaa Bhavan
+85,,['Cafe'],Al Mareija,Fen Cafe & Restaurant
+86,,"['Indian', 'Hyderabadi', 'Biryani']",Al Khan,Biryani Junction
+87,,"['Indian', 'South Indian']",Abu Shagara,Sangeetha Vegetarian Restaurant
+88,,"['Indian', 'Fast Food', 'BBQ', 'Mughlai']",Al Mareija,Kabab Bombay Cafeteria
+89,,"['Indian', 'Seafood', 'Pakistani', 'Grill']","The Grand Avenue, Al Nasseriya",Al Miqat
+90,,"['Pakistani', 'Indian', 'Biryani', 'Kebab']",Al Nud,Qasar Al Qasimiah Restaurant
+91,,"['Indian', 'Hyderabadi']",Halwan Suburb,Silver Spoon Restaurant
+92,,"['Lebanese', 'Street Food']",Al Nahda,Al Arz Automatic Bakery
+93,,"['Kerala', 'Indian', 'Biryani']",Abu Shagara,Vadakkan Pepper
+94,,"['North Indian', 'South Indian', 'Kebab', 'Chinese']",Al Taawun,Delicious Corner Restaurant
+95,,"['Mandi', 'Arabian', 'Middle Eastern', 'Yemeni']",Al Taawun,Al Bait Al Malaky
+96,,['Pakistani'],Bu Tina,Al Ashiyah Cafeteria( Haji Chapali Kabab)
+97,,"['Arabian', 'Middle Eastern', 'Lebanese', 'Beverages']",Al Majaz,Al Mallah
+98,,"['Japanese', 'Sushi', 'Asian', 'Poké']","Al Qasba, Al Khan",Sumo Sushi & Bento - سومو سوشي وبنتو
+99,,"['Fast Food', 'American']",Al Nahda,KFC
+100,,"['Lebanese', 'Middle Eastern', 'Arabian']","Al Majaz Waterfront, Al Majaz 3",Zahr El-Laymoun
+101,,"['Arabian', 'Middle Eastern']",Al Taawun,Chef Shawerma
+102,,['South Indian'],Al Nahda,Al Ghaar - Ghar Ka Swaad
+103,,['Chinese'],"Safeer Mall, Al Nahda",Hengchen
+104,,"['Indian', 'North Indian', 'Fast Food']",Al Nahda,Spice of India (Al Tawabel Al Hindia)
+105,,"['Indian', 'North Indian', 'Fast Food']",Al Nahda,Spice of India (Al Tawabel Al Hindia)
+106,,"['Mandi', 'Arabian', 'Middle Eastern', 'Yemeni']",Al Nahda,Bait Al Mandi
+107,,['Fast Food'],Al Nahda,Kukko Restaurant
+108,,"['Fast Food', 'Indian']",Industrial Area,Gokul Cafeteria
+109,,"['Indian', 'North Indian', 'Kebab', 'Biryani']","Al Qasba, Al Khan",The Yellow Chilli By Sanjeev Kapoor
+110,,['Chinese'],Al Nahda,China Park
+111,,"['Chinese', 'Indian', 'Kerala']",Al Manakh,Rajas Puttukada
+112,,"['Chinese', 'Asian']",Abu Shagara,Chowking
+113,,"['Cafe', 'American', 'Coffee', 'Beverages']","Al Majaz Waterfront, Al Majaz 3",Tim Hortons - تيم هورتنز
+114,,"['Indian', 'South Indian', 'North Indian', 'Chinese', 'Beverages']",Al Nahda,Al Nahda Amrutha Restaurant
+115,,"['Fast Food', 'Juices']",Al Majaz,Al Afrah Cafeteria - كافتريا الافراح
+116,,"['Pakistani', 'Biryani']",Al Nud,Syed Al Biryani Restaurant
+117,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Majaz,Farouj Fawaz
+118,,"['Biryani', 'Pakistani', 'Indian', 'North Indian']",Abu Shagara,Bait Karachi & Delhi Biryani
+119,,"['Cafe', 'Bakery', 'Desserts']","Sahara Centre, Al Nahda",PAUL Bakery & Restaurant
+120,,"['Burger', 'Fast Food']",Al Majaz,Hardee's
+121,,['Italian'],University City,Italiere
+122,,['Chinese'],Al Mujarrah,Wardat Beijing Chinese Restaurant
+123,,"['Lebanese', 'Italian', 'Beverages']",Al Khan,On The Wood - عالحطب
+124,,"['North Indian', 'Street Food']",Muwailih Commercial,Desi Chaat
+125,,"['Mandi', 'Emirati', 'Yemeni', 'Middle Eastern']",Al Majaz,Warsan Mandi Restaurant
+126,,['Afghan'],Al Majaz,Al Kabab Al Afghani
+127,,"['Fast Food', 'Arabian', 'Middle Eastern', 'Chinese', 'Beverages']",Al Nahda,Arabian Taste
+128,,"['Indian', 'Hyderabadi', 'Biryani']",Abu Shagara,Al Loqmah Al Laziziah
+129,,"['Biryani', 'Chinese', 'Indian', 'South Indian']",Al Nahda,Taj Bangalore Restaurant
+130,,"['Fast Food', 'Burger', 'Arabian', 'Indian', 'Beverages', 'Juices']",Al Khan,Burj Al Khan - برج الخان
+131,,"['Mandi', 'Arabian', 'Middle Eastern', 'Yemeni']",Halwan Suburb,Wadi Raidan Mandi - وادي ريدان للمندي
+132,,"['Fast Food', 'Burger', 'Desserts', 'Beverages']",Al Mirgab,Smoothies (Al Toot Al Aswaad)
+133,,"['Italian', 'Fast Food', 'Desserts', 'Beverages']",Al Majaz,Italian Pizza Kawkab Restaurant - كوكب...
+134,,"['Bakery', 'Cafe']",Abu Shagara,Mister Baker
+135,,"['Bakery', 'Cafe']",Abu Shagara,Mister Baker
+136,,"['Cafe', 'Indian', 'Fast Food', 'Beverages']",Al Nahda,FiLLi
+137,,"['Fast Food', 'Indian']",Al Ghuwair,Al Rajwah Cafeteria
+138,,"['Pakistani', 'Indian', 'Biryani', 'Grill', 'BBQ']",Abu Shagara,Bab Deira
+139,,"['Parsi', 'Chinese', 'Indian', 'Seafood']",Al Nasseriya,Emirates Sea
+140,,"['Arabian', 'Middle Eastern', 'Bakery']",Al Taawun,Safartas - سفرطاس
+141,,"['Fast Food', 'Burger', 'American']",Al Majaz,McDonald's
+142,,"['Fast Food', 'Beverages']","Owais Building, Al Mujarrah",Ice & Berry
+143,,"['Indian', 'Asian']",Muwailih Commercial,Foodbook Restaurant
+144,,"['Pizza', 'Italian', 'Continental']",Al Majaz,Pizza Lazeeza
+145,,"['North Indian', 'South Indian', 'Chinese', 'Seafood']",Al Mujarrah,Coastal Delicacies Restaurant
+146,,"['Indian', 'North Indian', 'South Indian']",Al Nahda,Vasanta Bhavan Vegetarian Restaurant
+147,,"['Indian', 'Japanese', 'Sushi']",Industrial Area,Kuizinn
+148,,"['Indian', 'South Indian']",Al Shuwaihean,Hadaeq Chennai Restaurant
+149,,"['American', 'Fast Food', 'Burger']",University City,Astoria Burger
+150,,['Pakistani'],Al Majaz,Rahat Al Madinah
+151,,"['Pakistani', 'Indian', 'Biryani']",Al Nahda,Student Biryani
+152,,"['Ice Cream', 'Desserts']","Al Majaz Waterfront, Al Majaz 3",Cold Stone Creamery - كولد ستون كريمري
+153,,"['Arabian', 'Middle Eastern', 'Lebanese', 'Juices']",Al Majaz,Jabal Lebnan Al Jadeed Restaurant
+154,,"['Chinese', 'North Indian', 'Kebab', 'South Indian', 'Kerala', 'Asian', 'Filipino']",Al Nahda,Kabab Cochin
+155,,['Pizza'],Al Majaz,Domino's
+156,,"['Arabian', 'Middle Eastern', 'North Indian']",Al Nahda,Chicken Tikka
+157,,"['Indian', 'Chinese', 'Grill', 'Fast Food']",Abu Shagara,Hot Burger
+158,,"['Mandi', 'Arabian', 'Middle Eastern']",University City,Maraheb - مطعم مراحب
+159,,"['Indian', 'Hyderabadi']",Abu Shagara,Al Arz Al Lazeez Restaurant
+160,,['Turkish'],Sharqan,Mado
+161,,"['Cafe', 'Continental', 'Healthy Food', 'Coffee']",University City,Storie Cafe
+162,,"['Burger', 'American', 'Beverages']",Al Taawun,Wazzup Dog
+163,,"['Indian', 'Kerala', 'Chinese', 'Grill']",Al Nahda,Ajmal Tasty Restaurant
+164,,"['Street Food', 'Indian']",Abu Shagara,Mithaas Fast Food
+165,,"['Indian', 'South Indian', 'North Indian', 'Chinese', 'Gujarati']",Halwan Suburb,Madeenat Haridwar
+166,,['Fast Food'],Al Nahda,Taza
+167,,"['Indian', 'Pakistani', 'Grill']",Abu Shagara,Al Rawayat Restaurant
+168,,"['Kerala', 'South Indian', 'North Indian']",Abu Shagara,Malanaad Restaurant
+169,,"['Indian', 'North Indian']",Al Ghuwair,Jaipur Restaurant
+170,,"['Indian', 'Chinese', 'Fast Food']",Al Nahda,Food Park City Restaurant
+171,,"['South Indian', 'North Indian', 'Chinese']",Industrial Area,Nila Restaurant
+172,,"['Grill', 'Arabian', 'Middle Eastern']",Al Nahda,Al Zaki Grills
+173,,"['Arabian', 'Chinese', 'Indian', 'Seafood']",Al Majaz,Sealand Restaurant
+174,,['Indian'],"Sahara Centre, Al Nahda",Paratha King
+175,,"['North Indian', 'South Indian', 'Chettinad', 'Biryani']",Abu Shagara,Karaikudi Chettinad Mess
+176,,"['Indian', 'South Indian']",Al Khan,Saarangaa Bhojan Shala
+177,,['Cafe'],"Sahara Centre, Al Nahda",PappaRoti Cafe
+178,,"['Pizza', 'Italian']",Al Majaz,The Pizza Pie Factory
+179,,"['Chinese', 'Asian', 'Thai', 'Seafood']","Ansar Mall, Al Nahda",Wuhan Restaurant
+180,,"['Arabian', 'Middle Eastern', 'Emirati', 'Seafood']","Al Majaz Waterfront, Al Majaz 3",Al Fanar Restaurant & Café - الفنر
+181,,"['Lebanese', 'Healthy Food', 'Street Food']",University City,Manoushe Street
+182,,"['Arabian', 'Middle Eastern']",Al Majaz,Najmat Al Badyah
+183,,"['Fast Food', 'Burger']","Sharjah City Centre, Industrial Area 1-6",Jollibee
+184,,"['Desserts', 'Beverages']",Al Majaz,Karaz Al Sham
+185,,"['Indian', 'Biryani']",Al Mahatah,Madras Bucket Biryani (Al Jazeerah Al Jameela...
+186,,"['Hyderabadi', 'Biryani', 'Mughlai']",Abu Shagara,Al Joory
+187,,"['Arabian', 'Middle Eastern', 'Street Food', 'Chinese']",Al Mahatah,Alath Shawarma
+188,,"['Fast Food', 'Juices']",Al Khan,Shabab Al Khan Cafeteria
+189,,"['Italian', 'Pizza']","Matajer Al Juraina, University City",PizzaExpress
+190,,"['Pizza', 'Fast Food']",Al Majaz,New York Pizza
+191,,"['Biryani', 'Chinese', 'South Indian']",Abu Shagara,Chennai Bucket Biryani
+192,,"['Bakery', 'Arabian', 'Middle Eastern']",Al Majaz,Al Buhaira Pastry
+193,,"['Fast Food', 'Juices']",Al Taawun,Ice Cap Cafeteria
+194,,['Cafe'],The Flag Island,Jones The Grocer
+195,,"['Fast Food', 'Indian', 'Chinese', 'Beverages']",Al Majaz,Cafeteria Al Barari
+196,,"['Asian', 'Chinese', 'Thai']","Citymax Hotel Sharjah, Abu Shagara",Sizzling Wok - Citymax Hotel Sharjah
+197,,"['North Indian', 'South Indian', 'Pakistani', 'Chinese']",Muwailih Commercial,Panoor Restaurant
+198,,"['Grill', 'Arabian', 'Egyptian', 'Seafood']",Abu Shagara,Shatee Restaurant - مطعم الشاطئ
+199,,"['Kerala', 'Indian', 'Grill', 'Juices']",Al Nud,Al Maidan Restaurant
+200,,"['Pakistani', 'North Indian', 'Biryani', 'Chinese']",Industrial Area,Karachi Darbar - كراتشي دربار
+201,,['Egyptian'],Al Majaz,Al Amoor Express
+202,,"['Indian', 'Chinese']",Al Ghuwair,Kings Palace Restaurant
+203,,"['Asian', 'Filipino', 'Chinese', 'Japanese', 'Korean']",Al Nahda,Icook
+204,,"['Street Food', 'Fast Food']",Muwailih Commercial,Momos n Rolls
+205,,"['Burger', 'Fast Food']",Al Majaz,Loris Restaurant
+206,,"['Chinese', 'Indian', 'Arabian', 'Middle Eastern']",Al Majaz,China Hot
+207,,"['Indian', 'South Indian', 'North Indian', 'Chinese', 'Nepalese']",Al Majaz,Al Qamar Al Lamie Cafeteria
+208,,"['Mandi', 'Arabian', 'Middle Eastern', 'Yemeni']",Al Nahda,Al Bait Al Arabi Restaurant
+209,,"['Pizza', 'Italian', 'Pasta']",Bu Tina,Broccoli Pizza & Pasta
+210,,"['Mandi', 'Arabian', 'Middle Eastern', 'Yemeni']",Al Nud,New Al Mukala Mandi & Madhbi Restaurant
+211,,"['South Indian', 'North Indian', 'Chinese']",Al Ghuwair,Aryaas Gourmet Veg
+212,,"['Fast Food', 'Chinese', 'Indian']",Al Nahda,Al Shahd Restaurant
+213,,"['Arabian', 'Middle Eastern', 'Grill', 'Kebab']",Al Taawun,Zahrat Al Dar
+214,,"['Ice Cream', 'Desserts', 'Beverages']","The Grand Avenue, Al Nasseriya",Alaska Ice Cream
+215,,"['Fast Food', 'Grill', 'Juices']",Abu Shagara,Chicken World
+216,,['South Indian'],Abu Shagara,Shams Al Azrah Cafeteria ( AVR Chettinad )
+217,,"['Fast Food', 'Burger', 'American']",Al Majaz,Burger King - برجر كنج
+218,,"['Fast Food', 'American']",Halwan Suburb,SFC Plus
+219,,"['North Indian', 'South Indian', 'Chinese', 'Street Food']",Al Shuwaihean,Grand Family
+220,,['Desserts'],Al Majaz,Krispy Kreme
+221,,"['Indian', 'North Indian']",Al Ghuwair,Portsaid Vegetarian Restaurant
+222,,['Indian'],Muwailih Commercial,Sasya Pure Veg
+223,,['Indian'],Industrial Area,Sujas Kitchen
+224,,"['Cafe', 'Italian', 'Burger', 'Desserts']",University City,First Avenue Cafe
+225,,['Indian'],Muwailih Commercial,Sasya Pure Veg
+226,,"['Cafe', 'Italian', 'Burger', 'Desserts']",University City,First Avenue Cafe
+227,,"['Mandi', 'Arabian', 'Middle Eastern', 'Yemeni']",Abu Shagara,Al Janadriah Restaurant
+228,,"['Indian', 'Fast Food']",Abu Shagara,Madinat Gujarat Cafeteria
+229,,"['Indian', 'Biryani']",Muwailih Commercial,Biryani's Baadshah
+230,,"['Lebanese', 'Arabian', 'Middle Eastern']",Halwan Suburb,Falafil Al Comodor
+231,,"['Afghan', 'Pakistani', 'Fast Food', 'Kebab']",Industrial Area,Al Fadhl Al Afghani Restaurant
+232,,"['Arabian', 'Middle Eastern']",Al Taawun,Al Khaleej Al Arabi Pastry
+233,,"['International', 'Indian', 'Chinese', 'Grill']",Abu Shagara,Food Bowl
+234,,"['Japanese', 'Asian']","Zero 6, University City",Wagamama
+235,,"['Arabian', 'Middle Eastern']","Al Qasba, Al Khan",Shababeek
+236,,['South Indian'],Abu Shagara,Mister Idli Restaurant
+237,,"['Indian', 'Chinese', 'Biryani']",Al Ghuwair,Yummy Indian Restaurant
+238,,"['Fast Food', 'Burger']",University City,Steak On Fries
+239,,"['Indian', 'North Indian', 'Mughlai', 'Biryani', 'Kebab']",Abu Shagara,India Bistro Express
+240,,"['Pakistani', 'Indian', 'Arabian', 'Mandi', 'Kebab']",Al Mahatah,Qasr Al Ibrahimi
+241,,"['American', 'Continental', 'Italian', 'Burger']",University City,Loranzo Cafe
+242,,['Bakery'],Abu Shagara,French Cakes
+243,,"['Indian', 'South Indian', 'North Indian']",Al Nahda,Udupi City Vegetarian Restaurant
+244,,"['Arabian', 'Middle Eastern']",Al Nahda,Al Amoor
+245,,"['Desserts', 'Pakistani']",Muwailih Commercial,Qasr Sialkot Cafeteria
+246,,"['Indian', 'Nepalese', 'Chinese', 'Fast Food']",Al Nahda,Momo Mantra
+247,,"['Fast Food', 'Desserts', 'Beverages']",Al Majaz,Highland Palace Restaurant
+248,,"['Arabian', 'Iranian', 'Indian', 'Kebab']","Crystal Plaza Hotel, Al Majaz",Danial Restaurant
+249,,"['Lebanese', 'Arabian', 'Middle Eastern', 'Street Food']",Al Nahda,Falafil Shawerma & More
+250,,"['Fast Food', 'Healthy Food', 'American', 'Salad']",Al Taawun,Subway
+251,,['Seafood'],Al Majaz,Fish Basket Restaurant
+252,,"['Arabian', 'Middle Eastern', 'Lebanese', 'Street Food']",Al Majaz,Koukh Filfilah
+253,,"['Fast Food', 'Burger']",University City,The Kitchen Corner
+254,,['Fast Food'],"Sharjah Co-Operative Society, University City",Calimero Cafeteria
+255,,"['Fast Food', 'Burger']",University City,The Kitchen Corner
+256,,['Fast Food'],"Sharjah Co-Operative Society, University City",Calimero Cafeteria
+257,,"['Chinese', 'North Indian', 'Indian']",Al Majaz,Asia Flavour Restaurant
+258,,"['Fast Food', 'Juices', 'Indian', 'Chinese']",Al Majaz,Sharjah Falcon Cafeteria
+259,,"['North Indian', 'South Indian', 'Chinese']",Muwailih Commercial,Qasr Al Hira Restaurant
+260,,"['North Indian', 'Chinese']",Al Manakh,Sharjah Palace Restaurant
+261,,['Cafe'],Souq Al Shanasiyah,Ratios Coffee
+262,,"['Indian', 'Fast Food', 'Continental', 'Beverages']",Al Nahda,Zaweyat Al Nahda
+263,,"['Indian', 'North Indian']",Muwailih Commercial,Al Wajbah Al Lazizah (Punjabi Chaska)
+264,,"['Fast Food', 'Beverages', 'Lebanese']",Al Soor,Falafil Mazra Cafeteria - فلافل المزرعة
+265,,"['Arabian', 'Fast Food', 'BBQ']",Halwan Suburb,Chicken King Restaurant
+266,,"['Indian', 'Grill', 'Pakistani', 'Fast Food', 'Beverages']",Al Nahda,Bait Al Rawi Restaurant
+267,,"['North Indian', 'Pakistani', 'Biryani', 'Street Food']","Safeer Mall, Al Nahda",Rice Factory
+268,,"['Fast Food', 'American', 'Burger']",Al Majaz,Texas Chicken
+269,,"['Fast Food', 'Grill', 'Biryani', 'Arabian']",Al Manakh,Hi Broast
+270,,"['Arabian', 'Middle Eastern', 'Biryani', 'Juices']",Al Mareija,Spot Grill Restaurant & Cafeteria
+271,,"['Arabian', 'Middle Eastern', 'Fast Food']",University City,Atyab Falafel
+272,,"['Arabian', 'Middle Eastern', 'Bakery']",Al Mahatah,Bait Al Fataier Al Shamih
+273,,['Fast Food'],"Mega Mall, Abu Shagara",Popeyes
+274,,['Indian'],Al Taawun,Rahul Pankaj Cafeteria
+275,,"['North Indian', 'South Indian', 'Street Food', 'Chinese', 'Pizza']",Al Mahatah,Mathura Restaurant ( Qasr Al Tawabel )
+276,,"['Arabian', 'Middle Eastern', 'Fast Food', 'Desserts']",Al Taawun,Feras Sweets - حلويات فراس
+277,,"['Fast Food', 'Beverages']",Al Nahda,WOW! Momo & Lassi
+278,,"['Juices', 'Desserts', 'Ice Cream']",Al Majaz,Papaya Juices
+279,,"['Fast Food', 'Seafood']",University City,Shrimp House
+280,,"['Italian', 'Sushi']",University City,Food Box
+281,,"['South Indian', 'Grill', 'Chinese', 'Fast Food', 'Beverages']",Al Nahda,Beanstalk
+282,,"['Street Food', 'Arabian', 'Middle Eastern']",Al Taawun,Falafil Al Rabiah Al Khadra Cafeteria
+283,,"['Italian', 'Pizza', 'Pasta']","Sahara Centre, Al Nahda",Vanellis
+284,,"['Ice Cream', 'Cafe']",University City,Cremolata
+285,,"['Indian', 'South Indian', 'North Indian', 'Chinese']",Al Ghuwair,Amrutha Restaurant
+286,,"['Indian', 'South Indian', 'North Indian']",Al Mareija,Uttam Restaurant
+287,,"['Chettinad', 'North Indian', 'South Indian']",Industrial Area,Wadi Al Madeena
+288,,"['Filipino', 'Burger', 'Fast Food']",Al Nabba,Chicago Fried Chicken
+289,,"['Desserts', 'Ice Cream', 'Beverages']",Al Khan,Asal Aswad
+290,,"['Pakistani', 'Indian', 'Afghan', 'Biryani']",Al Nud,Al Juma Restaurant
+291,,['Fast Food'],Al Mareija,Chicken Express Restaurant
+292,,"['Indian', 'Biryani']",Al Mareija,Mehfil Biryani
+293,,"['Arabian', 'Middle Eastern']",Al Majaz,Al Bait Al Baghdadi - البيت البغدادي
+294,,"['Italian', 'Seafood', 'Indian']","Centro Sharjah, Sharjah Airport International Free Zone",C.Taste - Centro Sharjah
+295,,"['Indian', 'Fast Food']",Abu Shagara,Madinat Gujarat Cafeteria
+296,,"['Sushi', 'Japanese', 'Seafood']","Sahara Centre, Al Nahda",Yoko Sushi
+297,,"['Beverages', 'Ice Cream', 'Desserts']","Sahara Centre, Al Nahda",Keventers
+298,,"['Indian', 'Chinese']",Abu Shagara,Sout Al Canary Restaurant
+299,,"['Indian', 'South Indian', 'Chinese']",Al Mahatah,Calicut Park Restaurant
+300,,"['South Indian', 'Chettinad']",Abu Shagara,Al Zafaran Al Ahmar Cafe (Curry Point)
+301,,"['South Indian', 'Chinese', 'North Indian']",Muwailih Commercial,Tamil Nadu Restaurant
+302,,"['International', 'American', 'Burger', 'Street Food', 'Fast Food']",Sharqan,Lammah
+303,,"['Arabian', 'Middle Eastern', 'Lebanese', 'Fast Food']","Al Qasba, Al Khan",Beit Setti - بيت ستي
+304,,"['Biryani', 'Indian', 'South Indian']",Abu Shagara,Royal Bucket Biryani
+305,,['Chinese'],Muwailih Commercial,Chopstiicks
+306,,"['Turkish', 'Arabian', 'Middle Eastern']",Al Mirgab,Al Shawerma Al Turkia
+307,,"['Arabian', 'Middle Eastern']",Al Taawun,Dar Ward Restaurant - دار ورد
+308,,"['Indian', 'North Indian', 'South Indian', 'Chinese']",Abu Shagara,Madras Light Vegetarian Restaurant
+309,,"['Italian', 'Pizza']","Mega Mall, Abu Shagara",Pizzaro
+310,,"['Indian', 'North Indian', 'South Indian', 'Chinese']",Industrial Area,Meera Restaurant
+311,,"['Chinese', 'Nepalese', 'Indian', 'Fast Food']",Al Nahda,Taste of Nepal (Al Maida Al Thahabiah)
+312,,"['Beverages', 'Desserts']",Al Ghuwair,Lassi Shop
+313,,"['Arabian', 'Middle Eastern']",Al Majaz,Zarzoor Kabab Al Iraqi Cafeteria
+314,,"['Desserts', 'Bakery']",Al Majaz,Roche
+315,,"['North Indian', 'Fast Food', 'South Indian', 'Chinese']",Al Nud,Apni Rasoi (Burj Al Falak)
+316,,"['Indian', 'South Indian']",Abu Shagara,Silver Fork
+317,,"['Indian', 'Biryani']","Al Qasba, Al Khan",Biryani Box
+318,,"['Lebanese', 'Arabian', 'Middle Eastern']","Al Majaz Waterfront, Al Majaz 3",Levantine - ليفانتين
+319,,"['International', 'Italian', 'Steak']",University City,Crave Fusion Cuisine
+320,,"['Desserts', 'Beverages']","Sahara Centre, Al Nahda",Pinkberry
+321,,['Beverages'],Al Nahda,House Of Lassi
+322,,['Fast Food'],"Sahara Centre, Al Nahda",Charleys Philly Steaks
+323,,"['Pakistani', 'Seafood']",Al Nabba,Samra Mama Machi
+324,,"['Asian', 'Fast Food']","Sahara Centre, Al Nahda",Max's All About Chicken
+325,,"['Bakery', 'Syrian']",Al Taawun,Sallora Sweets
+326,,"['Indian', 'South Indian']",Abu Shagara,Nujoom Chennai
+327,,['North Indian'],Muwailih Commercial,Anaaj Restaurant
+328,,"['French', 'Cafe']","Zero 6, University City",Angelina Paris
+329,,"['Biryani', 'Hyderabadi', 'Indian']",Al Ghuwair,Green Palace Restaurant
+330,,"['Pizza', 'Fast Food', 'Filipino']",Al Majaz,Pizza & Pizza Restaurant
+331,,"['Lebanese', 'Fast Food', 'Beverages']",Al Khan,Baba Ghanouj Restaurant
+332,,"['South Indian', 'Chinese', 'Indian']",Al Nahda,Hi-Way Fast Food
+333,,"['Juices', 'Tea']",Al Ghuwair,Jawdat Al Asaaer Cafeteria (Dessi Cuppa)
+334,,"['North Indian', 'South Indian', 'Kerala']",Muwailih Commercial,Family Palace Restaurant
+335,,"['Arabian', 'Middle Eastern']",Al Mirgab,Al Amour Restaurant - الامور
+336,,"['Mandi', 'Arabian', 'Middle Eastern', 'Yemeni']",Abu Shagara,Joraif For Mandi Restaurant
+337,,"['Kerala', 'South Indian']",Halwan Suburb,Kerala Thattukada
+338,,"['Desserts', 'Fast Food', 'Street Food', 'Beverages']",Al Ghuwair,Bombay Sweets & Bakery
+339,,"['Turkish', 'Arabian', 'Grill', 'Kebab']","Sahara Centre, Al Nahda",Tike
+340,,"['Beverages', 'Ice Cream', 'Desserts']","Sharjah City Centre, Industrial Area 1-6",Keventers
+341,,"['Street Food', 'Desserts']",Al Ghuwair,Vandna
+342,,['Fast Food'],"Sahara Centre, Al Nahda",New York Fries
+343,,"['Indian', 'Kerala', 'Fast Food', 'Juices']",Al Nud,Al Sulaimania
+344,,"['Pakistani', 'Indian', 'North Indian']",Al Nahda,Al Qantarah Restaurant
+345,,"['Pakistani', 'Indian', 'North Indian']",Al Nahda,Al Qantarah Restaurant
+346,,"['Fast Food', 'Beverages', 'Chinese']",Al Nahda,Layali Al Salihah Cafeteria
+347,,"['Asian', 'Chinese', 'Thai', 'Sushi', 'Japanese']",Abu Shagara,China Bistro - تشاينا بيسترو
+348,,"['Desserts', 'Bakery']",Al Majaz,Charlotte Sweets
+349,,"['Fast Food', 'Indian', 'Grill', 'Juices', 'Chinese']",Abu Shagara,Gulf Light Cafeteria
+350,,['Fast Food'],Al Mujarrah,New York Snacks
+351,,['Chinese'],"Sharjah City Centre, Industrial Area 1-6",Panda Chinese
+352,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Taawun,Zekrayat Al Sham Cafeteria ذكريات الشام
+353,,"['Beverages', 'Juices', 'Fast Food']",Al Mujarrah,Chettagong Fresh Cool
+354,,"['Arabian', 'Middle Eastern', 'Lebanese', 'Pizza']",Al Mahatah,Albal Man'oushe Pastry & Snacks
+355,,['Seafood'],Halwan Suburb,Octopus Restaurant
+356,,"['Burger', 'Fast Food', 'Pizza']",University City,Napoli Restaurant
+357,,"['Bakery', 'Lebanese', 'Desserts', 'Arabian']",Al Taawun,Baker's House
+358,,"['Asian', 'Thai', 'Chinese']",Al Majaz,Chinese Food House
+359,,"['Arabian', 'Middle Eastern']",University City,Al Mathaq Al Dimashqi
+360,,"['Indian', 'South Indian', 'Kerala', 'Chinese']",Industrial Area,Thrissur Sapphire
+361,,"['Arabian', 'Middle Eastern', 'Iranian']","Sahara Centre, Al Nahda",Hatam Iranian Restaurant
+362,,"['Arabian', 'Middle Eastern']",Al Majaz,Shawerma Mawal
+363,,"['Fast Food', 'Burger']","Zero 6, University City",Burger Boutique
+364,,['Fast Food'],Al Mahatah,Blue Star Cafeteria
+365,,"['Mandi', 'Arabian', 'Middle Eastern', 'Yemeni']",Al Majaz,Qasr Saba Mandi Restaurant
+366,,"['Cafe', 'Desserts', 'Beverages']",University City,Sweetopia Society Hub
+367,,"['Asian', 'Japanese']",University City,Rice
+368,,"['Indian', 'South Indian', 'Kerala']",Al Ghuwair,Three Stars Restaurant
+369,,"['Indian', 'South Indian', 'Chinese']",Abu Shagara,Green House Vegetarian Restaurant
+370,,"['Chinese', 'Thai', 'Asian']",Al Nud,Nom Nom Asia
+371,,"['Indian', 'Arabian', 'Chinese', 'Filipino', 'Fast Food', 'Beverages']",Abu Shagara,Al Taif Restaurant
+372,,"['Pakistani', 'Indian']",Muwailih Commercial,Delhi Karachi Restaurant
+373,,"['Bakery', 'Desserts', 'Arabian', 'Middle Eastern']",Al Majaz,Lareen Sweets
+374,,['Afghan'],Al Majaz,Al Kabab Al Afghani Al Raqi Restaurant
+375,,"['Fast Food', 'Iranian']","Ansar Mall, Al Nahda",Iranian Guy's Restaurant
+376,,['Cafe'],"Al Majaz Waterfront, Al Majaz 3",Caribou Coffee
+377,,"['Arabian', 'Middle Eastern', 'Bakery']",Al Majaz,Nabaa Al Sham Pastry
+378,,"['American', 'Burger']",University City,Volt
+379,,['Beverages'],University City,Mishmish & Toot Juices
+380,,"['Indian', 'South Indian', 'Kerala']",Muwailih Commercial,Malabar Thattukada
+381,,['Cafe'],"Sahara Centre, Al Nahda",Portofino Patisserie & Cafe
+382,,"['Kerala', 'South Indian', 'Seafood']",Abu Shagara,Yas Restaurant
+383,,['Fast Food'],University City,Chicken Man
+384,,"['Kerala', 'Fast Food', 'Beverages', 'Chinese']",Abu Shagara,Al Afrah Al Thahabya
+385,,"['Ice Cream', 'Desserts']",Abu Shagara,Baskin Robbins
+386,,"['Arabian', 'Middle Eastern']",Al Taawun,Dar Ward Restaurant - دار ورد
+387,,"['Italian', 'International']",Al Majaz,Italian Restaurant
+388,,"['Fast Food', 'Arabian', 'Middle Eastern']",University City,Van Sandwiches
+389,,"['Mandi', 'Yemeni']",Al Mahatah,Al Yemen Mandi Restaurant
+390,,"['Fast Food', 'Arabian', 'Middle Eastern']",University City,Van Sandwiches
+391,,"['Mandi', 'Yemeni']",Al Mahatah,Al Yemen Mandi Restaurant
+392,,"['Indian', 'Street Food']",Al Mujarrah,Methaq Alzafran Pastisserie
+393,,"['Kerala', 'South Indian', 'Chinese', 'North Indian']",Al Mareija,Simple Food Restaurant
+394,,"['Indian', 'Pakistani']",Al Majaz,Delhi Lahore Restaurant
+395,,['Pakistani'],Al Nahda,Pak Darbar Restaurant (Najmat Peshawar Restaurant)
+396,,"['South Indian', 'Kerala', 'Fast Food', 'North Indian', 'Chinese', 'Seafood', 'Biryani', 'Beverages']",Al Ghuwair,Taj Calicut
+397,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Majaz,Al Farooj
+398,,['Desserts'],University City,Mochi Japanese Ice Cream
+399,,"['Desserts', 'Arabian', 'Middle Eastern', 'Beverages']",Al Majaz,Al Halabya Sweets
+400,,"['Fast Food', 'Middle Eastern', 'Arabian']",Halwan Suburb,Al Led & Ramallah Cafeteria
+401,,['Fast Food'],Al Taawun,Rukin Al Mishwar Restaurant
+402,,"['Pakistani', 'Indian', 'North Indian', 'Mughlai', 'Biryani']",Al Nahda,Qasr Al Punjab
+403,,"['Kerala', 'South Indian']",Muwailih Commercial,Gafoorka's Thattukada Restaurant (Al Bab Al Azraq...
+404,,"['Fast Food', 'Burger', 'Desserts', 'Beverages']","Owais Building, Al Mujarrah",Al Toot Al Aswaad
+405,,"['Arabian', 'Middle Eastern', 'Fast Food']","Sharjah City Centre, Industrial Area 1-6",Food Point Restaurant
+406,,"['Desserts', 'Arabian', 'Middle Eastern']",Al Majaz,Al Samadi Sweets
+407,,"['Fast Food', 'Burger']",University City,Traffic Burger
+408,,"['Indian', 'South Indian', 'Kerala']",Al Nabba,Al Banadir
+409,,"['Seafood', 'Singaporean', 'Chinese']",University City,Graffiti Burger
+410,,"['Kerala', 'North Indian', 'Chinese']",Al Taawun,Thalassery Restaurant
+411,,"['Arabian', 'Middle Eastern']",Abu Shagara,Farouj Al Sham
+412,,['Street Food'],Al Nahda,Al Saqr Cafeteria
+413,,"['Arabian', 'Middle Eastern', 'Lebanese']","Sahara Centre, Al Nahda",Laffah Restaurant
+414,,"['Healthy Food', 'Fast Food']",University City,Wasfaty
+415,,"['Biryani', 'Pakistani']",Al Riqqa Suburb,Al Hanouf Public Kitchen
+416,,"['Juices', 'Desserts']",University City,Just Fresh Juice
+417,,['American'],"Zawaya Walk, Mughaidir Suburb",Wingstop  - وينج ستوب
+418,,"['Arabian', 'Middle Eastern']",Al Mujarrah,Omar Al Khayam
+419,,['Fast Food'],University City,Al Sarab Cafeteria
+420,,"['Desserts', 'Beverages']",Wasit Suburb,Belgium Waffles
+421,,"['Bakery', 'Chinese', 'Continental', 'Indian']",Al Ghuwair,Caesars Confectionery
+422,,"['Indian', 'Hyderabadi', 'Pakistani']",Al Majaz,Segma Restaurant
+423,,"['Chinese', 'Nepalese', 'Fast Food']",Al Nahda,Momo World
+424,,['Cafe'],"Sahara Centre, Al Nahda",Icons Coffee Couture
+425,,"['Indian', 'North Indian', 'South Indian']","Sharjah City Centre, Industrial Area 1-6",Bombay Chowpatty
+426,,"['Pakistani', 'Indian', 'North Indian']",Industrial Area,Pak Ghazi
+427,,"['Lebanese', 'Arabian', 'Middle Eastern', 'Street Food']",Al Nahda,Ya Laziz
+428,,['Juices'],Al Khan,Al Narang Juices - النارنج
+429,,"['Fast Food', 'Juices']",Maysaloon,Al Zahra Cafeteria
+430,,"['Arabian', 'Middle Eastern', 'Grill']",University City,Nthree
+431,,['Fast Food'],Muwailih Commercial,Chutney Rolls Cafeteria
+432,,"['South Indian', 'Kerala', 'Fast Food']",Al Nahda,The Tiffin Box
+433,,"['Emirati', 'Arabian', 'Middle Eastern']","Sheraton Sharjah Beach Resort & Spa, Al Rifah",Arjwan
+434,,"['Indian', 'Fast Food']",Al Mahatah,Mazeej Al Punjab Cafeteria
+435,,['International'],University City,Wrapped
+436,,"['Pakistani', 'Street Food']",Al Mujarrah,Pakistan Sweets
+437,,"['American', 'Arabian', 'Fast Food', 'Beverages']",Al Nabba,Chick Shack (Rukn Shawarma)
+438,,['Healthy Food'],Al Majaz,BLOOM Vegan Kitchen
+439,,"['Indian', 'Fast Food']",Al Ghuwair,Gangotri Cafeteria
+440,,['Fast Food'],Al Majaz,DineFast Restaurant
+441,,"['Indian', 'North Indian', 'Chinese']",Al Nahda,J5 Restaurant
+442,,"['Cafe', 'Coffee']",Al Majaz,Starbucks
+443,,['Cafe'],"Al Qasba, Al Khan",Gerard- جيرارد
+444,,"['Arabian', 'Middle Eastern']",Al Majaz,Bukhari Al Khaleej - بخاري الخليج
+445,,"['Indian', 'Chinese', 'Beverages']",Al Nahda,Althaam Almumayaz Cafeteria
+446,,"['Pakistani', 'Grill']",Muwailih Commercial,Dairah Restaurant
+447,,"['Lebanese', 'Italian']",Khor Fakkan,Rebou Lebanon
+448,,"['Indian', 'Chinese', 'Fast Food', 'Juices']",Abu Shagara,Sagar Cafeteria
+449,,"['Indian', 'North Indian', 'Pakistani']",Abu Shagara,Madina Islamabad Restaurant
+450,,"['Indian', 'Chinese', 'Fast Food', 'Juices']",Abu Shagara,Sagar Cafeteria
+451,,"['Indian', 'North Indian', 'Pakistani']",Abu Shagara,Madina Islamabad Restaurant
+452,,['Iranian'],Al Majaz,Al Harir
+453,,['Afghan'],Al Nabba,Afghan Darbar Restaurant
+454,,['Pakistani'],Al Mujarrah,Al Nawab Restaurant
+455,,"['American', 'European']",Golf and Shooting Club,Twisted Olive Bistro
+456,,['Filipino'],Al Nahda,Pinoy Chef
+457,,['Fast Food'],Al Mareija,Sasu Cafeteria
+458,,"['Cafe', 'Coffee']",University City,Hoof
+459,,"['North Indian', 'Chinese', 'Kebab', 'Biryani', 'Beverages']",Al Riqqa Suburb,Blue Heron Restaurant
+460,,"['Lebanese', 'Chinese', 'Indian', 'Fast Food']",Industrial Area,Eat & Drink Restaurant
+461,,['Desserts'],University City,Papa Kanafa
+462,,"['Fast Food', 'Burger']",University City,Just Burger
+463,,"['Indian', 'North Indian']",Muwailih Commercial,Al Kerat Restaurant - مطعم القيراط
+464,,"['Pizza', 'Italian']","Al Qasba, Al Khan",Mangiare
+465,,['Fast Food'],Wasit Suburb,Huff & Puff
+466,,"['Arabian', 'Middle Eastern', 'Lebanese', 'Street Food']",University City,BAK BAK Chicken
+467,,"['Pakistani', 'Indian', 'North Indian', 'Biryani']",Al Shuwaihean,Ghazi
+468,,"['Lebanese', 'Chinese', 'North Indian', 'Continental', 'Beverages']","Golden Tulip Hotel, Al Majaz",Tulip Restaurant - Golden Tulip
+469,,['Fast Food'],Al Nud,Nice Burger Cafeteria
+470,,"['Indian', 'Kerala', 'Chinese', 'Biryani']",Al Nahda,Cook Book Restaurant
+471,,['Cafe'],"Sahara Centre, Al Nahda",Caffè Nero
+472,,"['Indian', 'South Indian']",Muwailih Commercial,Rukn Al Raha Restaurant
+473,,"['Desserts', 'Bakery']",University City,Mini Delights
+474,,"['Fast Food', 'South Indian', 'Chinese']",Muwailih Commercial,Sun Birds Cafeteria
+475,,"['Indian', 'Chinese', 'Biryani', 'Seafood', 'Beverages']",Al Majaz,Shawatee Al Jazeera Restaurant
+476,,"['Fast Food', 'Pizza']","Sahara Centre, Al Nahda",Shakey's Pizza Parlor - شاكيز بيتزا...
+477,,"['Grill', 'Juices']",Industrial Area,The Grill Street
+478,,"['Indian', 'South Indian']",Al Nud,Sahad Al Rabiee
+479,,"['Healthy Food', 'Salad']",University City,The Good Bowl
+480,,"['Arabian', 'Middle Eastern', 'Bakery']",University City,Gulf Pastry
+481,,"['Indian', 'Chinese', 'Filipino', 'Grill', 'Arabian', 'Juices']",Al Majaz,Rukn Al Mabrook Restaurant
+482,,"['Biryani', 'Hyderabadi', 'Indian', 'Chinese']",Muwailih Commercial,Bahar Hyderabad
+483,,"['Street Food', 'Indian']",Bu Tina,Burj Al Mas Cafeteria
+484,,"['Middle Eastern', 'Arabian']",Al Majaz,Al Kabab Al Iraqi
+485,,"['Kerala', 'South Indian', 'Indian', 'Juices']",Al Nahda,The Pickles Restaurant
+486,,"['Arabian', 'Middle Eastern']",University City,Al Hattab Restaurant
+487,,"['Bakery', 'Desserts', 'Beverages']",Muwailih Commercial,Honey Special Cake
+488,,['Cafe'],University City,Gnad Cafe
+489,,['Desserts'],Wasit Suburb,Freez
+490,,"['Mandi', 'Arabian', 'Middle Eastern', 'Yemeni']",University City,Zam Zam Mandi
+491,,"['Indian', 'North Indian', 'South Indian']",Industrial Area,India Star
+492,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Nud,Al Sirath Restaurant & Grill
+493,,"['European', 'Kebab']",Wasit Suburb,Ćevapi Bosnian Restaurant
+494,,"['Pakistani', 'Indian', 'Hyderabadi']",Muwailih Commercial,Food Address Cafeteria
+495,,['Chinese'],Al Nud,Chinese Star Restaurant
+496,,"['Mandi', 'Middle Eastern', 'Yemeni']",Muwailih Commercial,Al Jalsah For Mandi
+497,,"['Arabian', 'Middle Eastern', 'Desserts']",Al Majaz,Nabeel Nefisah Sweets
+498,,"['Middle Eastern', 'Arabian']",Sharqan,Bilad Al Rafidain
+499,,"['Indian', 'Chinese']",Al Nahda,Anwar Al Safa Restaurant
+500,,"['Chinese', 'Hot Pot']",Al Majaz,Happy Grassland Shining  Restaurant
+501,,"['Seafood', 'Grill']","Al Majaz Waterfront, Al Majaz 3",Spice Grill Seafood Restaurant
+502,,"['North Indian', 'Street Food']",Al Shuwaihean,Lalit Restaurant
+503,,"['Grill', 'Biryani']",Al Nahda,Famous Biryani and Tandoor
+504,,['Bakery'],Muwailih Commercial,Bakelab
+505,,"['Desserts', 'Bakery']",Al Mujarrah,Shakh Al Konafa
+506,,"['Indian', 'North Indian', 'Street Food']",Al Nahda,Madinat Gokul Cafeteria
+507,,"['Desserts', 'Bakery']",Al Nahda,Ammas Pastries
+508,,"['Arabian', 'Lebanese', 'Middle Eastern']",Al Majaz,Tawook Lord
+509,,"['Middle Eastern', 'Arabian', 'Fast Food']",Al Majaz,Pak Arab Chicken Tikka
+510,,"['Fast Food', 'Arabian', 'Middle Eastern']",University City,Saj & Latheeth
+511,,"['Nepalese', 'Indian']",Industrial Area,Qasar Al Yarmook (Catmandu Momo House)
+512,,"['Egyptian', 'Grill']",University City,Arabesk
+513,,['Fast Food'],Al Taawun,T4U - Tareeq Salalah Fast Food
+514,,"['Lebanese', 'Arabian', 'Middle Eastern']",Al Mahatah,Falafil Al Shahroor
+515,,"['Asian', 'Continental', 'Arabian', 'Cafe']","Citymax Hotel Sharjah, Abu Shagara",City Cafe - Citymax Hotel Sharjah
+516,,"['South Indian', 'Kerala']","Safari Mall, Muwailih Commercial",Pathaayam
+517,,"['Desserts', 'Beverages']",University City,Crepe N Crave
+518,,"['Indian', 'North Indian', 'South Indian']",Al Shuwaihean,Al Sadiq Restaurant
+519,,"['Afghan', 'Grill', 'Biryani']",Industrial Area,Rice And Grill
+520,,"['Cafe', 'Arabian', 'Emirati', 'Middle Eastern']",Souq Al Shanasiyah,Arabian Tea House
+521,,"['Indian', 'Fast Food']",Abu Shagara,Alam Al Shay
+522,,"['Bakery', 'Desserts']",Industrial Area,Cake Hut
+523,,"['Lebanese', 'Arabian', 'Grill', 'Fast Food']",Al Manakh,Al Farouj Al Lathith
+524,,"['Arabian', 'Middle Eastern']",Al Jubail,Al Maskoof Al Iraqi Restaurant - مطعم...
+525,,"['Fast Food', 'Burger']",University City,CHKN
+526,,"['Fast Food', 'Indian', 'Arabian', 'Middle Eastern']",Al Ghuwair,Afrah Al Madina
+527,,"['Sri Lankan', 'Chinese']",Al Nahda,Chef Lanka
+528,,"['Sri Lankan', 'Fast Food']",Al Nahda,Miamix Restaurant( Malik Ak Bahr )
+529,,"['Indian', 'South Indian', 'Chinese']",Muwailih Commercial,Qasar Calicut Restaurant
+530,,"['Arabian', 'Middle Eastern']",Al Majaz,Dunia Al Rafidain - دنيا الرافدين
+531,,"['Lebanese', 'Kebab']",Al Mareija,The Kebab Shop
+532,,"['Filipino', 'Seafood']",Al Majaz,Menaa Marseille
+533,,['Seafood'],University City,Al Qersh Seafood Restaurant
+534,,"['Indian', 'North Indian', 'South Indian', 'Chinese']",Al Nud,Al Salwan Restaurant
+535,,['Fast Food'],Al Majaz,Shams Al Mustaqbal Restaurant
+536,,['Fast Food'],Al Nud,Bayt  Al Hara Cafeteria
+537,,"['Fast Food', 'Burger', 'Pizza']","Grand Mall, Al Manakh",ChicKing
+538,,['Afghan'],Al Jubail,Al Kabab Al Afghani Al Jadeed
+539,,['Cafe'],University City,Zawaya Cafe
+540,,['Cafe'],University City,Zawaya Cafe
+541,,"['Pakistani', 'Indian', 'Mughlai', 'Grill']",Al Nud,Try Luck Restaurant
+542,,"['Arabian', 'Middle Eastern', 'Fast Food', 'Juices']",Muwailih Commercial,Madinat Al Aroos
+543,,['Fast Food'],Al Ghuwair,Al Bathriq Cafeteria
+544,,['Chinese'],"Mega Mall, Abu Shagara",Hong Kong Chinese Restaurant
+545,,['Pakistani'],Al Nahda,Najmat Pakistan Restaurant
+546,,['Healthy Food'],Halwan Suburb,Healthy Choice
+547,,['Mediterranean'],"Four Points by Sheraton, Al Nud",Yasmina - Four Points by Sheraton
+548,,"['Fast Food', 'Grill', 'Indian', 'Juices']",University City,Golden Tasty Restaurant
+549,,"['Arabian', 'Middle Eastern']",Al Majaz,Dar Al Eatemad
+550,,"['Fast Food', 'Indian', 'Chinese', 'Juices']",Al Nahda,Qasr Al Nahda
+551,,"['Desserts', 'Beverages', 'Cafe']",University City,Yummy in My Tummy
+552,,['Desserts'],"Sahara Centre, Al Nahda",Brown Brick Cafe
+553,,"['Desserts', 'Bakery']",University City,Monkey Cookies
+554,,"['Arabian', 'Middle Eastern', 'Lebanese']",Al Majaz,Falafil Khalifa Cafeteria
+555,,"['Bakery', 'Lebanese']",Industrial Area,Al Reef Lebanese Bakery
+556,,"['Arabian', 'Middle Eastern', 'Street Food', 'Desserts']",Al Khan,Mahrosah Cafeteria And Sweets - كافتيريا و...
+557,,['Pakistani'],Industrial Area,Mashawi Al Shaheen Kabab Cafeteria
+558,,"['Arabian', 'Middle Eastern']",University City,Donya Al Sham
+559,,"['Fast Food', 'Lebanese', 'Arabian', 'Middle Eastern']",Al Taawun,Al Ijaza Cafeteria - الاجازة كافتريا
+560,,"['Chinese', 'Indian']",Al Nahda,Bombay Wok & Food
+561,,"['Arabian', 'Middle Eastern']",Al Majaz,Al Yemen Al Fakhir Mandi Restaurant
+562,,"['Arabian', 'Middle Eastern']",Al Nabba,Dar Al Seroor Restaurant
+563,,"['North Indian', 'Indian']",University City,Indian Oven Restaurant
+564,,"['Arabian', 'Middle Eastern', 'Lebanese']",University City,Fern El Balad
+565,,"['Desserts', 'Beverages']","Al Qasba, Al Khan",Tasty Ooo's
+566,,"['Indian', 'Chinese']","Four Points by Sheraton, Al Nud",Cheeky Chan - Four Points by Sheraton
+567,,"['Indian', 'Kerala', 'South Indian']",Muwailih Commercial,Malabar Dine
+568,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Majaz,Broasted Chicken House & Restaurant
+569,,"['Indian', 'North Indian', 'Fast Food']",Industrial Area,Chicken Street
+570,,"['Indian', 'Kerala', 'South Indian']",Muwailih Commercial,Malabar Dine
+571,,"['Indian', 'North Indian', 'Fast Food']",Industrial Area,Chicken Street
+572,,"['Fast Food', 'Indian', 'Grill', 'Juices']",Abu Shagara,House Of Grill
+573,,"['Italian', 'Steak']","Sheraton Sharjah Beach Resort & Spa, Al Rifah",Gusti
+574,,"['Desserts', 'Beverages', 'Ice Cream']",Al Majaz,Al Liwan
+575,,['Fast Food'],Al Nahda,Arabian Fried Chicken (AFC)
+576,,"['Italian', 'Desserts', 'Salad']","Zero 6, University City",Sapori
+577,,"['Turkish', 'Arabian', 'Middle Eastern']",Al Taawun,Al Ikhlas Meat Shop
+578,,['Fast Food'],Al Jubail,Al Beraimi Cafeteria
+579,,"['Desserts', 'Bakery']",Halwan Suburb,Chocolala
+580,,"['Indian', 'Afghan', 'Pakistani', 'Biryani', 'Desserts']",Al Ghuwair,Muhammad Faisal Restaurant & Sweets
+581,,"['Fast Food', 'Burger']",Wasit Suburb,Mumtaz Chicken (MFC)
+582,,"['Arabian', 'Mandi', 'Middle Eastern']",University City,Al Bait Al Najdi - بيت النجدي
+583,,"['Cafe', 'Coffee']",University City,Drowsy Specialty Coffee
+584,,"['Mandi', 'Yemeni']",Halwan Suburb,Al Mukkala Al Awal Mandi Restaurant
+585,,"['Arabian', 'Mandi', 'Middle Eastern']",University City,Al Bait Al Najdi - بيت النجدي
+586,,"['Cafe', 'Coffee']",University City,Drowsy Specialty Coffee
+587,,"['Mandi', 'Yemeni']",Halwan Suburb,Al Mukkala Al Awal Mandi Restaurant
+588,,['Fast Food'],"Sharjah City Centre, Industrial Area 1-6",VOX Cinemas
+589,,"['Arabian', 'Fast Food']",Al Qulayaa,Shay Al Faham Cafeteria
+590,,"['Arabian', 'Middle Eastern']",Al Majaz,Atyab Saj
+591,,['Fast Food'],"Sharjah City Centre, Industrial Area 1-6",Wheel35 Pasta & Pizza
+592,,"['Fast Food', 'Grill', 'Chinese', 'Indian']",Al Nahda,Al Anab Cafeteria
+593,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Taawun,Tanor Zaman Pastry
+594,,"['Mediterranean', 'Italian']","Sheraton Sharjah Beach Resort & Spa, Al Rifah",Al Qubtan
+595,,"['Indian', 'South Indian', 'North Indian', 'Chinese']",Al Nahda,Taste & Care Restaurant
+596,,"['Iranian', 'Kebab']",Maysaloon,Special Kabab
+597,,"['Indian', 'North Indian', 'Hyderabadi', 'Chinese']",Al Nabba,Zehour Al Nabaa Restaurant
+598,,"['Fast Food', 'Beverages']",University City,New Emirates Home
+599,,"['Cafe', 'Arabian', 'Middle Eastern']",University City,Beyalah Cafe
+600,,"['Indian', 'Nepalese', 'Chinese']",Muwailih Commercial,Noor Al Madeena
+601,,['Cafe'],"Al Majaz Waterfront, Al Majaz 3",illy Caffè
+602,,['Seafood'],"Al Qasba, Al Khan",Fish Corner
+603,,['Desserts'],Al Majaz,Shahd Al Malekah Sweets
+604,,"['Indian', 'North Indian', 'South Indian', 'Chinese']",Al Taawun,Dawar Al Tawoon
+605,,"['Arabian', 'Middle Eastern']",Al Mareija,Diplomat Restaurant
+606,,['Filipino'],Al Nahda,Max's Restaurant
+607,,"['Arabian', 'Middle Eastern', 'Grill']",Al Taawun,Al Nakha Al Dimashqya Restaurant
+608,,"['Indian', 'South Indian']",Al Ghuwair,Hamed Helw Restaurant (Geetar's)
+609,,"['Mandi', 'Arabian', 'Middle Eastern', 'Yemeni']",Halwan Suburb,Hadhramout Public Restaurant
+610,,['Italian'],University City,Al Salsa Al Italia
+611,,"['Pakistani', 'Fast Food', 'Desserts']",Al Ghuwair,Nirala Sweets
+612,,['Fast Food'],"Sharjah City Centre, Industrial Area 1-6",VOX Cinemas
+613,,['Afghan'],Al Nasseriya,Al Kabab Al Laziz Al Afghani
+614,,"['Arabian', 'Middle Eastern', 'Lebanese', 'Burger', 'Street Food']","Matajer Al Juraina, University City",Malak Al Tawouk - ملك الطاووق
+615,,"['Indian', 'South Indian', 'North Indian']",Al Nud,Top Form Restaurant
+616,,"['Fast Food', 'Indian', 'Chinese']",Al Nud,Sabeel Al Mashreq Restaurant
+617,,"['Fast Food', 'Beverages']",Al Nahda,Hilal Al Nahda Cafeteria
+618,,"['Indian', 'Street Food', 'Fast Food', 'Juices']",Abu Shagara,Bait Al Yasmeen Restaurant
+619,,"['South Indian', 'Kerala', 'North Indian', 'Chinese', 'Beverages']",Maysaloon,Dar Al Rayan Restaurant
+620,,"['Arabian', 'Middle Eastern']",Al Taawun,Foul W Hummus
+621,,"['Arabian', 'Middle Eastern', 'Chinese', 'Indian']",Khor Fakkan,Al Mabrook
+622,,"['Arabian', 'Middle Eastern']",Abu Shagara,Khairat Al Sham Pastry
+623,,"['Egyptian', 'Seafood']",Al Nud,Al Hara Al Masriah Restaurant - مطعم...
+624,,['Fast Food'],Al Majaz,Wings Factory
+625,,"['Fast Food', 'Indian', 'Juices']",Al Taawun,Abraj Zam Zam
+626,,"['Indian', 'Fast Food']",Al Mareija,Sumaya Restaurant
+627,,['Syrian'],"The Grand Avenue, Al Nasseriya",Hay Al Qosur
+628,,"['Seafood', 'Japanese']","Coral Beach Resort, Al Rifah",Casa' Samak - Coral Beach Resort
+629,,"['Fast Food', 'Burger']",Muwailih Commercial,Chelsea Burger
+630,,['Fast Food'],Al Majaz,Wings Factory
+631,,"['Fast Food', 'Burger']",Muwailih Commercial,Chelsea Burger
+632,,"['Indian', 'South Indian', 'Kerala', 'Chinese', 'Biryani']",University City,Asian Bowl Restaurant  (Najmat Al Reef )
+633,,"['Arabian', 'Middle Eastern']",Al Qulayaa,Al Matbakh Al Kuwaiti Restaurant - المطبخ...
+634,,"['Indian', 'Desserts']",Halwan Suburb,Sri Krishna Sweets
+635,,"['Indian', 'Kerala']",Al Ghuwair,Al Reesha Cafeteria (Travancore Flavors)
+636,,['Seafood'],"Sheraton Sharjah Beach Resort & Spa, Al Rifah",Marasea
+637,,"['Pizza', 'Fast Food']",Halwan Suburb,Pizza Pan
+638,,"['Fast Food', 'Beverages']",Al Majaz,My Tea
+639,,"['Fast Food', 'Burger', 'Juices']",Industrial Area,Hot Cup Cafeteria
+640,,"['Greek', 'Salad', 'Healthy Food', 'Grill']",Al Nud,El Greco
+641,,"['Thai', 'Seafood']",University City,Junior Seafood
+642,,['Bakery'],Wasit Suburb,Bake Al Arab
+643,,"['Fast Food', 'Juices']",Al Majaz,New Marina Restaurant
+644,,['Bakery'],Al Majaz,Shamseen Bakeries - مخابز الشمسين
+645,,"['Cafe', 'Fast Food', 'Desserts']","Owais Building, Al Mujarrah",Mom's Cafe
+646,,"['Arabian', 'Middle Eastern', 'Grill']",Industrial Area,Bait Al Mahashi
+647,,"['South Indian', 'Chinese', 'Fast Food', 'North Indian', 'Beverages', 'Desserts']",Al Nahda,All Tasty Restaurant
+648,,"['Indian', 'North Indian', 'South Indian']",Muwailih Commercial,Chennai Restaurant
+649,,"['Bakery', 'Arabian', 'Middle Eastern']",Al Majaz,Al Ameer Lebanese Bakeries
+650,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Wadi Al Arayesh
+651,,"['Arabian', 'Middle Eastern', 'Street Food', 'Lebanese']",Al Mirgab,Falafel Frayha - فلافل فريحة
+652,,"['Biryani', 'Burger', 'Fast Food', 'Indian']",Al Nahda,Lulu Hypermarket
+653,,['Pakistani'],Abu Shagara,Lahori Flavor Restaurant
+654,,['Pakistani'],Industrial Area,Jumaira Public Kitchen
+655,,"['Bakery', 'Lebanese']",Industrial Area,Al Reef Lebanese Bakery
+656,,"['Middle Eastern', 'Arabian']",Al Majaz,Seroop
+657,,"['Fast Food', 'Filipino']",Al Majaz,Al Dejaj Al Shahi
+658,,"['Cafe', 'Brazilian', 'Healthy Food', 'Salad']",University City,The Acai Spot
+659,,"['Bakery', 'Desserts']",Al Manakh,Al Reem Bakery
+660,,"['Indian', 'Chinese', 'Fast Food', 'Beverages']",Industrial Area,Take Home (Al Hassa Al Saken)
+661,,"['Indian', 'Fast Food']",Al Mareija,Cafeteria Al Khezana
+662,,"['Arabian', 'Middle Eastern', 'Afghan']",Abu Shagara,Al Marasim Al Afghani Restaurant
+663,,['Desserts'],Wasit Suburb,Bait Al Halweyat
+664,,"['South Indian', 'Chinese', 'Fast Food']",Al Taawun,Ajwaa Al Khaleej
+665,,"['Bakery', 'Desserts']",Al Nud,Daily Breads Bakery
+666,,"['Fast Food', 'Beverages']",Al Nasseriya,Al Manhal Al Thahabi
+667,,"['Indian', 'Biryani']",Abu Shagara,Bhai Kadai Biryani - بهاي كاداي برياني
+668,,"['Seafood', 'Filipino', 'International']",Al Majaz,Nile Golden Fish
+669,,"['Fast Food', 'Kerala', 'Chinese', 'Juices']",Al Nahda,Dar Al Nahda
+670,,"['Fast Food', 'Juices']",Al Majaz,Chai Man
+671,,"['Middle Eastern', 'Arabian', 'Fast Food']",Al Mirgab,Foul wa Falafel
+672,,"['Healthy Food', 'International']",University City,Low Calories
+673,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Majaz,Al Bait Al Dimashqi
+674,,"['Indian', 'Chinese']",Al Nahda,Fajr Al Nahda
+675,,['Pakistani'],Al Jubail,Fawaz
+676,,['Fast Food'],Al Majaz,Al Barari Cafeteria
+677,,"['Grill', 'Indian', 'Fast Food', 'Biryani']",Muwailih Commercial,Chicago Restaurant
+678,,"['Indian', 'Pakistani']",Al Nud,Al Zanjabeel
+679,,"['American', 'Fast Food']","Sharjah National Park, University City",Roads
+680,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Shuwaihean,Madinat Zayed Restaurant
+681,,"['Pakistani', 'Fast Food']",Al Majaz,Fathera Al Dajaj Cafeteria
+682,,"['Bubble Tea', 'Beverages']",Abu Shagara,Ochado
+683,,"['Cafe', 'Desserts']","Zero 6, University City",Godiva
+684,,"['Indian', 'Pakistani', 'Biryani', 'Chinese', 'Grill']",Al Nabba,Al Ustath Restarant
+685,,"['Indian', 'Kerala', 'Chinese']",Al Nahda,Calicut Kitchen
+686,,"['Indian', 'South Indian', 'North Indian', 'Street Food']",Abu Shagara,Jay Somnath Cafeteria
+687,,"['Arabian', 'Middle Eastern']",Al Nud,Al Manhal Al Fidhi Restaurant
+688,,"['Pakistani', 'North Indian']",Al Mujarrah,Al Jabal Al Aali Pakistani Foods
+689,,['Pakistani'],Al Ghuwair,Punjab Restaurant
+690,,"['South Indian', 'Chinese', 'Fast Food']",Abu Shagara,Shambath Darbar Restaurant
+691,,"['Thai', 'Seafood']",University City,Junior Seafood
+692,,['Fast Food'],Al Nabba,Awafi Cafeteria
+693,,['Kebab'],Muwailih Commercial,Kabab Muwaileh Cafeteria
+694,,"['Indian', 'South Indian', 'Kerala']",Al Nud,Awraq Al Farawlah
+695,,"['Filipino', 'Chinese']",Halwan Suburb,Canton Chinese Restaurant
+696,,"['Arabian', 'Middle Eastern', 'Mandi']",Al Nasseriya,Sahil Al Makala
+697,,"['Arabian', 'Middle Eastern']",Al Majaz,Al Mahashi
+698,,"['Indian', 'South Indian', 'Kerala', 'Chinese', 'Biryani']",University City,Asian Bowl Restaurant  (Najmat Al Reef )
+699,,"['Indian', 'Chinese']",Abu Shagara,Arminia
+700,,"['Indian', 'Street Food', 'Juices']",Abu Shagara,Najmat Al Falah
+701,,"['Street Food', 'Indian', 'Juices']",Muwailih Commercial,Spring Waves Cafe
+702,,"['Middle Eastern', 'Arabian']",Bu Tina,Grand Restaurant
+703,,['Lebanese'],Al Majaz,Al Sayad Restaurant
+704,,"['Fast Food', 'Burger', 'Biryani', 'Juices']",Al Majaz,Al Baharat Al Tazejeh
+705,,"['Fast Food', 'Juices']",Al Nahda,Al Mamourah Cafeteria
+706,,"['Cafe', 'Healthy Food']",University City,Acai Hub Super Food Cafe
+707,,"['Indian', 'Fast Food', 'Juices']",Al Majaz,Al Lulu Al Abyad
+708,,"['Indian', 'Chinese']",Al Nahda,Al Manarah Cafeteria
+709,,"['Fast Food', 'Juices', 'Indian', 'South Indian', 'Grill']",Al Majaz,Royal Taste Restaurant
+710,,"['Pakistani', 'Arabian', 'Middle Eastern']",Al Majaz,Al Nakhalah Al Arabia
+711,,['Cafe'],University City,Alwan Cafe
+712,,"['Indian', 'Kerala', 'Fast Food', 'Juices']",Abu Shagara,Tasty Restaurant
+713,,"['Arabian', 'Middle Eastern', 'Italian', 'American']",Al Majaz,Al Furn Al Shami Restaurant
+714,,"['Pakistani', 'Indian', 'Bangladeshi']",Muwailih Commercial,Bab Al Madina
+715,,"['Fast Food', 'Beverages']",University City,Tea Time
+716,,"['Arabian', 'Middle Eastern']",University City,Koukh Al Shay
+717,,"['Kerala', 'South Indian']",Industrial Area,Thalessery Restaurant
+718,,"['North Indian', 'Chinese', 'Fast Food', 'Beverages']",Al Ghuwair,Dhaniya Cafeteria
+719,,"['Fast Food', 'Juices']",Al Nahda,Al Ras Cafeteria
+720,,['Cafe'],University City,Soft. Serve. Society
+721,,['Chinese'],"Oasis Mall, Halwan Suburb",Hong Kong
+722,,"['Pakistani', 'Indian', 'Biryani', 'North Indian']",Abu Shagara,Ghulam Mustafa Restaurant - غلام مصطفى
+723,,['Fast Food'],Muwailih Commercial,Hormoz Cafeteria
+724,,"['Indian', 'North Indian', 'Chinese']",Al Nahda,Bab Al Nahdah
+725,,['Indian'],Al Ghuwair,City Darbar Restaurant
+726,,"['Mediterranean', 'Grill', 'Seafood']","Occidental Sharjah Grand, Al Khan",La Bamba - Occidental Sharjah Grand
+727,,['Pakistani'],Al Taawun,Al Fakhar Restaurant
+728,,"['Indian', 'Chinese']",Abu Shagara,Food Palace
+729,,"['Sushi', 'Salad']",University City,Deli Sushi
+730,,"['Indian', 'Chinese']",Al Nahda,Burj Yas Restaurant
+731,,"['South Indian', 'Chettinad', 'Chinese', 'Beverages']",Abu Shagara,Habat Al Aruz Restaurant (Arusuvai)
+732,,['South Indian'],Abu Shagara,Bait Al Asal Restaurant (Habeeba Tamil)
+733,,"['Indian', 'South Indian']",Al Ghuwair,Sayona Restaurant
+734,,['Seafood'],Al Majaz,Al Sayad Al Bahree
+735,,"['Lebanese', 'Street Food']",Industrial Area,Kris Kros Lebanon
+736,,['Emirati'],University City,Ryoog Yadoo
+737,,['Desserts'],"Zero 6, University City",Yogurtland
+738,,"['Arabian', 'Middle Eastern']",Abu Shagara,Qasr Al Mansef Restaurant
+739,,"['Indian', 'North Indian', 'South Indian', 'Hyderabadi']",University City,Qabala Restaurant
+740,,['Cafe'],University City,Melt -The Affogato Cafe
+741,,"['Indian', 'Pakistani', 'Bangladeshi', 'Chinese']",Al Nahda,Dar Al Bahar
+742,,"['Fast Food', 'Indian', 'Grill', 'Chinese']",Abu Shagara,Mashaweer Cafeteria
+743,,"['Cafe', 'Desserts']","Sahara Centre, Al Nahda",Rimini Cafe Gelateria
+744,,['Lebanese'],Industrial Area,Leila
+745,,"['Arabian', 'Middle Eastern']",Al Majaz,Mahashi Al Majaz
+746,,"['Fast Food', 'Arabian', 'Middle Eastern']",Bu Tina,Al Tarbosh Al Shami Cafeteria
+747,,"['Kerala', 'Grill', 'Fast Food', 'Juices']",Al Nahda,Hoot Al Nahda Cafeteria
+748,,['Cafe'],"Mega Mall, Abu Shagara",Gloria Jean's Coffee
+749,,"['Indian', 'South Indian', 'Chinese']",Al Majaz,Freej Al Majaz Restaurant
+750,,['South Indian'],Al Manakh,Leena Deena Restaurant
+751,,"['Fast Food', 'Beverages']",Abu Shagara,Osool Cafeteria
+752,,"['Fast Food', 'Chinese', 'South Indian']",Al Nahda,Tareeq Al Zafaran
+753,,"['Indian', 'Fast Food']",Abu Shagara,Big Bite
+754,,['Fast Food'],Industrial Area,Sun Birds Cafeteria
+755,,['Fast Food'],Al Nahda,Tab Cafe - Tareeq Al Barsha
+756,,"['Fast Food', 'Beverages']",Al Nahda,Al Jazar Cafeteria
+757,,"['Fast Food', 'Beverages']",Abu Shagara,Abu Shagara Cafeteria
+758,,['Fast Food'],University City,Khabeer Al Shay Cafeteria
+759,,"['Fast Food', 'Juices']",Al Taawun,Hamasat Cafeteria
+760,,"['Arabian', 'Middle Eastern', 'Bakery']",Al Manakh,Al Sindbad Bakery
+761,,"['Fast Food', 'Juices']",Abu Shagara,Al Haibah Cafeteria
+762,,"['Indian', 'Chinese', 'Grill', 'BBQ']",Muwailih Commercial,Shater
+763,,"['Mandi', 'Yemeni']",University City,Dar Al Mandi Restaurant
+764,,"['Indian', 'North Indian', 'South Indian', 'Chinese']",Saif Zone,The Indian Corner
+765,,['Fast Food'],Muwailih Commercial,Hadiqat Al Shay Cafeteria
+766,,"['Pakistani', 'Grill']","Safeer Mall, Al Nahda",Dum Pukht
+767,,"['Arabian', 'Middle Eastern', 'Fast Food', 'Grill', 'Beverages']",Industrial Area,Al Orchid Restaurant
+768,,"['Indian', 'Fast Food', 'Biryani', 'Lebanese', 'Beverages']",Abu Shagara,Cafeteria Ahlan Wasahlan
+769,,"['Turkish', 'Grill']",Al Taawun,Al Kabab Al Turky
+770,,"['Arabian', 'Middle Eastern', 'Fast Food']","Sahara Centre, Al Nahda",Al Farooj Al Shami Restaurant
+771,,"['Arabian', 'Middle Eastern']",Al Taawun,Al Musbah Al Thahbi
+772,,"['Desserts', 'Cafe']","Zero 6, University City",Dip n Dip
+773,,['Indian'],Muwailih Commercial,Al Iftar Restaurant
+774,,"['North Indian', 'South Indian', 'Chinese', 'Biryani', 'Fast Food', 'Beverages']",Muwailih Commercial,Food Park Restaurant
+775,,"['Fast Food', 'Burger']",University City,Truck Burger
+776,,"['Fast Food', 'Beverages']",Al Nahda,Saqr Al Nahda Cafeteria
+777,,"['Fast Food', 'Juices']",Al Mahatah,Hatan Cafeteria
+778,,"['Arabian', 'Middle Eastern', 'Iranian']",Industrial Area,Lian Restaurant
+779,,"['Pakistani', 'Biryani']",Industrial Area,Pak Sarhad Restaurant
+780,,"['Arabian', 'Middle Eastern']",Al Majaz,Hummus Hummus
+781,,"['Indian', 'Fast Food']",Al Nud,Al Zahra Al Malakia Cafeteria
+782,,"['North Indian', 'South Indian', 'Chinese', 'Kerala']",Al Majaz,Al Areeq Restaurant
+783,,['Fast Food'],Saif Zone,Rawdath Al Sham Cafeteria - كافتيريا...
+784,,['Fast Food'],Al Mahatah,Taj Al Rolla Cafeteria
+785,,"['Indian', 'Fast Food']",Al Manakh,Al Shahabi Cafeteria
+786,,['Pakistani'],Al Ghuwair,Jabal Pakistan Restaurant
+787,,['International'],"Oceanic Khorfakkan Resort & Spa, Khor Fakkan",Al Murjan - Oceanic Khorfakkan Resort & Spa
+788,,"['Indian', 'South Indian', 'Kerala', 'Juices']",Al Majaz,Al Mustaqbal
+789,,"['African', 'Biryani']",Industrial Area,Afghan Kabul Restaurant
+790,,"['Arabian', 'Middle Eastern']",Al Manakh,Amoon Restaurant
+791,,"['Fast Food', 'Juices']",Al Nahda,Al Zafran Al Asfar
+792,,['Seafood'],"Al Majaz Waterfront, Al Majaz 3",Fish Gourmet Restaurant
+793,,"['Arabian', 'Middle Eastern']",Al Majaz,Al Gahwa Al Shabiyyah
+794,,"['Fast Food', 'Indian']",University City,Rukn Al Jurainah Cafe (Ithatha's Tea Club)
+795,,"['Pakistani', 'Indian', 'Mughlai', 'Grill']",Muwailih Commercial,Taj Al Khair
+796,,"['French', 'American', 'Continental']","Sharjah Ladies Club, Al Qulayaa",Lafeef Restaurant - Sharjah Ladies Club
+797,,"['North Indian', 'South Indian']",Al Mujarrah,Noor Nahar Delhi
+798,,"['South Indian', 'Kerala']",Bu Tina,Kanthari Restaurant (Al Withaq)
+799,,"['Egyptian', 'Arabian', 'Middle Eastern']",Al Majaz,Teamah Cafeteria
+800,,['Fast Food'],Muwailih Commercial,Al Dallah Al Fadhia
+801,,"['Bakery', 'Lebanese', 'Desserts', 'French']",Al Qulayaa,Mille Feuille Patisserie
+802,,['Fast Food'],Al Mahatah,Al Ruwais Cafeteria
+803,,"['Pizza', 'Fast Food']",University City,Circle & Slices
+804,,"['Arabian', 'Middle Eastern']",University City,Rustom Restaurant
+805,,['Burger'],Wasit Suburb,Cheesy
+806,,"['Kerala', 'Fast Food', 'South Indian']",Muwailih Commercial,Paal Chai
+807,,['Cafe'],Khor Fakkan,Bavaria Cafe
+808,,"['Fast Food', 'Juices']",Al Majaz,Al Sabar Cafeteria
+809,,"['Indian', 'South Indian', 'Chinese']",Al Shuwaihean,Welcome Place Restaurant
+810,,"['Fast Food', 'Beverages']",Al Majaz,Emirates Burger
+811,,"['Indian', 'Chinese', 'Fast Food', 'Beverages']",Al Nahda,Al Muharak
+812,,"['Arabian', 'Middle Eastern', 'Grill']",Al Majaz,Rokn Al Itemad
+813,,"['Arabian', 'Middle Eastern', 'Street Food']",University City,Alpasha Gourmet
+814,,"['Fast Food', 'Juices']",Al Majaz,Malik Al Karak Cafeteria
+815,,['Fast Food'],Wasit Suburb,Al Raad Cafeteria
+816,,"['Indian', 'North Indian']",Al Nud,Al Ruman Cafeteria
+817,,"['Cafe', 'Juices', 'Desserts']",Al Nahda,Mango & Avocado
+818,,"['Pakistani', 'Indian', 'North Indian']",Al Mareija,Zam Zam Restaurant
+819,,['Cafe'],Industrial Area,Workspace Cafe
+820,,"['Indian', 'South Indian', 'Kerala']",Bu Tina,Malabar Fast Food (Jebel Al Rams)
+821,,"['Indian', 'South Indian']",Muwailih Commercial,Al Baldh Cafeteria
+822,,"['Fast Food', 'Juices']",Sharqan,Luluat Maharath Al Bahar Cafeteria
+823,,"['Cafe', 'Desserts']","Sharjah Ladies Club, Al Qulayaa",Collage Cafe - Sharjah Ladies Club
+824,,"['Mandi', 'Yemeni']",Al Mahatah,The Red Sea (Al Bahr Al Ahmar Restaurant)
+825,,['Bakery'],Muwailih Commercial,Papa Bake
+826,,"['Fast Food', 'Juices']",Muwailih Commercial,Tea Park Zone
+827,,"['Indian', 'South Indian', 'North Indian']",Abu Shagara,Wadi Al Beeh Restaurant
+828,,['Fast Food'],Halwan Suburb,Jenan Cafeteria
+829,,"['Fast Food', 'Middle Eastern']",Al Mareija,Shams Al Nahar
+830,,"['Healthy Food', 'International']",University City,Be Healthy
+831,,['Pakistani'],Al Taawun,Fasl Al Rabiee
+832,,['Japanese'],Khor Fakkan,Sushi Box
+833,,"['Arabian', 'Middle Eastern', 'Seafood', 'Grill']",University City,Tabaq Al Hejazi Al Raqi
+834,,"['Fast Food', 'Juices']",Al Nahda,Full Wa Yasmeen Cafeteria
+835,,"['Indian', 'Chinese', 'Grill', 'Fast Food']",Al Qulayaa,Hot Burger Restaurant Branch 11
+836,,"['Fast Food', 'Beverages']",Industrial Area,Al Ghazal
+837,,['Pakistani'],Industrial Area,Fakhr Sialkot Restaurant
+838,,"['Arabian', 'Middle Eastern']",Saif Zone,Khalid Huriya Al Shabi - خالد حرية...
+839,,['Fast Food'],Al Nahda,Tareeq Al Nahda Cafeteria
+840,,"['Indian', 'Pakistani']",Al Nud,Taj Al Qasimiah Restaurant
+841,,['Fast Food'],Halwan Suburb,Al Talaqy Cafeteria
+842,,"['Arabian', 'Middle Eastern', 'Street Food']",University City,Qaser Alfalafil Cafeteria
+843,,"['Pakistani', 'Biryani']",Abu Shagara,Khairat Al Madinah Restaurant
+844,,"['Cafe', 'Arabian', 'Middle Eastern', 'Fast Food']","Marbella Resort, Al Majaz 1",Cafe Undici
+845,,['Seafood'],Al Majaz,Al Sheraa Fisheries Center  - مركز الشراع...
+846,,['Pakistani'],Al Khan,Najmat Al Khan Restaurant
+847,,['Indian'],Industrial Area,Hari Om Restaurant
+848,,"['Beverages', 'Ice Cream', 'Desserts', 'Fast Food']",Abu Shagara,Golden Fresh Tea Cafeteria
+849,,['Fast Food'],Al Majaz,Al Falaj Cafeteria
+850,,['Cafe'],"Sharjah City Centre, Industrial Area 1-6",MC Cafe
+851,,"['Fast Food', 'Beverages']",Maysaloon,Zahrat Maysaloon
+852,,['Mandi'],Al Khan,Reef Al Yemen Mandi
+853,,['Juices'],"Sharjah City Centre, Industrial Area 1-6",Wowbel
+854,,['Seafood'],"Sahara Centre, Al Nahda",Dampa Feast
+855,,"['Fast Food', 'Middle Eastern']",Al Khan,Address
+856,,"['Fast Food', 'Filipino']",Muwailih Commercial,Express Fried Chicken
+857,,['Fast Food'],Halwan Suburb,Bab Al Khair Cafeteria
+858,,['Pakistani'],Industrial Area,Sindh Palace Restaurant
+859,,"['Indian', 'Street Food', 'Desserts']",Muwailih Commercial,Al Rafeeq Restaurant
+860,,['Kerala'],Al Nabba,Taj Al Zaman Cafeteria
+861,,['Chinese'],"Safari Mall, Muwailih Commercial",China Town
+862,,"['Italian', 'Asian']",Saif Zone,Food Garden
+863,,"['Desserts', 'Beverages']",Al Majaz,Malek Al Chocola
+864,,"['Sri Lankan', 'South Indian']",Al Ghuwair,Al Khalaf Restaurant
+865,,['Japanese'],"Sahara Centre, Al Nahda",Fujiyama
+866,,"['Indian', 'Fast Food']",Al Mareija,New Cinema Cafeteria
+867,,"['Arabian', 'Middle Eastern']",Maysaloon,Mkhbazh Al Yemen Restaurant
+868,,"['Middle Eastern', 'Arabian']",University City,Bait Al Shawayah
+869,,"['Fast Food', 'Juices']",Al Mareija,Wardat Al Andalus Cafeteria
+870,,"['Indian', 'Chinese', 'Sri Lankan']",Al Nud,Highway Park
+871,,"['American', 'Fast Food', 'Burger']","Zawaya Walk, Mughaidir Suburb",CaliBurger
+872,,"['Pakistani', 'Indian']",Muwailih Commercial,Noor Al Mashriq Restaurant
+873,,"['Seafood', 'Fast Food']",Al Majaz,Bur Said
+874,,"['Indian', 'North Indian', 'South Indian', 'Arabian', 'Middle Eastern', 'Chinese']",Al Majaz,Al Majlis Restaurant
+875,,"['Iranian', 'Arabian', 'Middle Eastern']",University City,Daraltikka
+876,,['Italian'],"Coral Beach Resort, Al Rifah",Al Dente -  Coral Beach Resort
+877,,"['Indian', 'North Indian', 'Pakistani']",Al Nahda,Tareeq Al Wadi Restaurant (Karachi Kanteen)
+878,,"['Fast Food', 'South Indian', 'North Indian', 'Chinese', 'Biryani', 'Lebanese', 'Beverages']",Maysaloon,Nad Wasit Al Sareea Restaurant & Cafeteria
+879,,"['Indian', 'Middle Eastern']",Abu Shagara,Sree Bhavan
+880,,"['Syrian', 'Lebanese', 'Grill', 'Middle Eastern']",Industrial Area,Busaleh Restaurant
+881,,['Syrian'],"Al Majaz Waterfront, Al Majaz 3",Qasar Halab Restaurant
+882,,"['Indian', 'Chinese', 'Fast Food']",Muwailih Commercial,Al Ghasaq Restaurant
+883,,"['Arabian', 'Middle Eastern']",Al Majaz,Al Ameed Cafeteria
+884,,['Fast Food'],Saif Zone,Al Jah
+885,,"['Arabian', 'Middle Eastern']",Al Majaz,Al Ameed Cafeteria
+886,,"['Indian', 'Chinese', 'Fast Food']",Muwailih Commercial,Al Ghasaq Restaurant
+887,,['Syrian'],"Al Majaz Waterfront, Al Majaz 3",Qasar Halab Restaurant
+888,,"['Cafe', 'Desserts']",University City,Donuts Time
+889,,['Fast Food'],Saif Zone,Al Jah
+890,,"['Cafe', 'Coffee']","Sharjah International Airport, Saif Zone",Costa Coffee
+891,,['Fast Food'],University City,Frankfurt Sandwich
+892,,"['Indian', 'Mughlai']",Halwan Suburb,Bab Al Rayan
+893,,['Cafe'],University City,Pulse Speciality Cafe
+894,,"['Fast Food', 'Chinese']",Industrial Area,Al Manbar
+895,,"['Fast Food', 'Grill', 'Juices']",Al Nud,Rukn Al Qasimia
+896,,['South Indian'],Abu Shagara,Chennai Cookbook
+897,,"['Fast Food', 'Juices']",Al Khan,Al Mutnawi Cafeteria
+898,,"['Nepalese', 'Indian', 'Chinese']",Abu Shagara,Shams Al Arab
+899,,"['North Indian', 'South Indian', 'Biryani']",Abu Shagara,Biryani Bhavan
+900,,"['International', 'American', 'Middle Eastern', 'Steak']","Occidental Sharjah Grand, Al Khan",Al Meena - Occidental Sharjah Grand
+901,,['Cafe'],Sharqan,Fairmont Cafe
+902,,"['Fast Food', 'Juices']",Al Mujarrah,Sea Shell Light Cafeteria
+903,,['Fast Food'],Al Nahda,Al Dejaj Al Shahi Fast Food
+904,,"['Indian', 'Biryani']",University City,Art Of Spices
+905,,['Indian'],Muwailih Commercial,Royal Spice
+906,,"['Fast Food', 'Burger', 'Beverages']","The Grand Avenue, Al Nasseriya",Let's Zinger
+907,,"['Pakistani', 'Indian']",Al Majaz,Bab Al Hadiqa
+908,,"['Cafe', 'Desserts']",University City,Local Cookies
+909,,"['Indian', 'North Indian']",Halwan Suburb,Al Hudaibiah
+910,,"['Cafe', 'Middle Eastern', 'Arabian']","Sheraton Sharjah Beach Resort & Spa, Al Rifah",Al Mahatta Lounge
+911,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Soor,Rukn Al Zaafran Cafeteria
+912,,"['Indian', 'South Indian', 'North Indian']",Al Majaz,Al Ertiqa Restaurant
+913,,"['Indian', 'South Indian']",Al Nasseriya,Al Abar
+914,,['Fast Food'],Wasit Suburb,Al Kawakeb
+915,,['Fast Food'],Al Taawun,Texas Burger
+916,,"['Fast Food', 'Juices']",University City,Aseer & Shawarma Cafeteria
+917,,['Cafe'],University City,Brooks Cafe
+918,,['Fast Food'],Wasit Suburb,Nad Wasit Cafeteria
+919,,"['North Indian', 'South Indian', 'Biryani']",Abu Shagara,Biryani Bhavan
+920,,['Fast Food'],Al Majaz,Al Shahiq Cafeteria
+921,,"['Healthy Food', 'Beverages', 'Juices']","Sahara Centre, Al Nahda",Fruit Punch
+922,,['Pakistani'],Halwan Suburb,Pak Darbar (Majlis Pakistan)
+923,,"['Fast Food', 'Beverages']",Bu Tina,Al Azeemah
+924,,"['Lebanese', 'Arabian', 'Middle Eastern', 'Grill']",Al Taawun,BBQ House
+925,,"['Fast Food', 'Beverages']",Abu Shagara,Niajra Cafeteria
+926,,"['Afghan', 'Fast Food', 'Beverages']",Industrial Area,Mazare Shareef
+927,,"['Indian', 'South Indian']",Al Majaz,Al Wesoul Cafeteria
+928,,['Egyptian'],Al Taawun,Asl Al Koshary
+929,,"['Indian', 'South Indian']",Al Majaz,Al Wesoul Cafeteria
+930,,"['Fast Food', 'Beverages']","The Grand Avenue, Al Nasseriya",Shay Al Sham Cafeteria
+931,,['Egyptian'],Al Taawun,Asl Al Koshary
+932,,"['Indian', 'Chinese']",Al Nahda,Arous Al Wadi
+933,,['Fast Food'],Wasit Suburb,Baked Potato
+934,,"['Arabian', 'Pakistani']",Al Rifah,Marco Polo - Verona Resort
+935,,"['Arabian', 'Middle Eastern']",Al Mirgab,Falafel Al Talaah
+936,,"['Fast Food', 'Middle Eastern', 'Arabian']",Al Majaz,Abu Al-Joud Cafeteria
+937,,['Pakistani'],Muwailih Commercial,Pakistan City Restaurant
+938,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Nasseriya,Red Motor Shawarma
+939,,['Fast Food'],Al Ghuwair,Nobel Cafeteria
+940,,"['Grill', 'Fast Food', 'Lebanese', 'Middle Eastern']",Al Majaz,Al Abdallah Chicken
+941,,['Arabian'],"Novotel Sharjah Expo Centre Hotel, Al Taawun",Tahi - Novotel Sharjah Expo Centre Hotel
+942,,"['Indian', 'Cafe', 'Tea']","Aljada by ARADA, University City",Project Chaiwala
+943,,['Cafe'],University City,Mizan Cafe
+944,,"['Desserts', 'Ice Cream', 'Beverages']",Wasit Suburb,Forty Fruity
+945,,"['Indian', 'South Indian', 'Bengali']",Al Nahda,Noor Al Nabaah Restaurant
+946,,"['Continental', 'Arabian']",Al Nud,Al Maha Restaurant
+947,,['Indian'],Abu Shagara,Luluat Al Madina Cafeteria
+948,,['Pakistani'],Al Manakh,Al Naseeb
+949,,"['Indian', 'South Indian', 'North Indian', 'Pakistani']",Al Nud,Al Meraya Restaurant
+950,,['Fast Food'],Wasit Suburb,Graffiti Burger
+951,,['Fast Food'],Al Nahda,Zahrat Al Zaytoon Cafeteria
+952,,['Fast Food'],Al Nud,Al Sorour Bakeries
+953,,['Pakistani'],Abu Shagara,Bab Abu Shagarah Restaurant
+954,,['Pakistani'],Al Khan,Al Madina Al Taibah
+955,,"['Desserts', 'Iranian']",Al Jubail,Afrina Iranian Sweets
+956,,['Fast Food'],Sharqan,Shai Farijna Cafeteria
+957,,"['Pakistani', 'Indian', 'Fast Food']",Industrial Area,Food Master Restaurant
+958,,['Fast Food'],Industrial Area,Al Balqan Cafeteria
+959,,"['Pakistani', 'Indian', 'Fast Food']",Industrial Area,Food Master Restaurant
+960,,"['Fast Food', 'Beverages']",Al Riqqa Suburb,Maharat Al Emarat Cafeteria
+961,,"['Arabian', 'Middle Eastern', 'Grill']",Abu Shagara,Semsem & Zaatar
+962,,"['Japanese', 'Sushi']",Industrial Area,Kuizinn
+963,,"['Arabian', 'Middle Eastern', 'Mandi']",Al Ghuwair,Qadeem Aldar Mandi Restaurant
+964,,"['Fast Food', 'Beverages']",Maleha & Around,Al Tabiah Cafeteria
+965,,"['Arabian', 'Middle Eastern', 'Mandi']",Al Nud,Sawahil Adan Mandi
+966,,['Sri Lankan'],Al Nud,Lakdev Sri Lankan Restaurant
+967,,"['South Indian', 'Fast Food', 'Grill', 'Juices']",Al Shuwaihean,Al Murooj Cafeteria
+968,,['Pakistani'],Al Mujarrah,Al Aroz Al Bukhari
+969,,['Healthy Food'],University City,Love Diet Food
+970,,"['Bakery', 'Arabian', 'Middle Eastern']",Al Mujarrah,Al Naseeb Al Jayed Sweets
+971,,"['Fast Food', 'Juices']",University City,Sayed Al Shay
+972,,"['Arabian', 'Middle Eastern']",Al Majaz,Al Sajaya
+973,,['Fast Food'],Wasit Suburb,Al Faal Cafeteria
+974,,"['Desserts', 'Bakery']","Sharjah City Centre, Industrial Area 1-6",Gelato Divino
+975,,"['Pakistani', 'Arabian', 'Middle Eastern']",Halwan Suburb,Muhammad Ghous Restaurant
+976,,"['Fast Food', 'Kerala', 'Chinese']",Al Ghuwair,Al Ramz Al Thahabi Cafeteria
+977,,"['Desserts', 'Beverages']",Al Majaz,Scoopy Juices
+978,,"['Cafe', 'Coffee']",Al Majaz,Olabi Coffee
+979,,"['Bakery', 'Desserts']",University City,Memz Bites
+980,,"['Indian', 'Pakistani']",Maysaloon,Sheaab Al Madina
+981,,"['Arabian', 'Middle Eastern']",Abu Shagara,Malak Al Falafil Cafeteria
+982,,"['Bakery', 'Fast Food', 'Desserts']",Industrial Area,Dibba Modern Bakery
+983,,"['Arabian', 'Middle Eastern', 'Fast Food']",Halwan Suburb,Emirates Public Kitchen
+984,,['Yemeni'],University City,Hadramout Public Restaurant
+985,,['Afghan'],Al Nabba,Al Mathaq Al Afghani
+986,,['Pakistani'],Abu Shagara,Jebal Pakistan Restaurant
+987,,"['Cafe', 'Beverages']",University City,Cofina Cafe
+988,,"['Emirati', 'Arabian', 'Middle Eastern']",University City,Mhala Al Dar
+989,,"['Indian', 'South Indian']",Al Nud,Zabeel Restaurant
+990,,"['Arabian', 'Middle Eastern', 'Fast Food', 'Street Food']",Al Majaz,Raseef 7
+991,,['Fast Food'],Muwailih Commercial,Layali Al Mansourah Cafeteria
+992,,"['BBQ', 'Iranian', 'Beverages']",Industrial Area,Barbeque Kabab
+993,,"['Mexican', 'Fast Food']",University City,Taco District
+994,,"['Seafood', 'Arabian', 'Middle Eastern']",University City,Fish Basket
+995,,"['Arabian', 'Middle Eastern']",University City,Qumasha
+996,,['Fast Food'],University City,Dukkan Batata
+997,,['Cafe'],Maleha & Around,Racks Board Game Cafe
+998,,"['Indian', 'South Indian']",Muwailih Commercial,Curry Pot (Al Najm Al Lamie)
+999,,['Arabian'],The Chedi Al Bait,The Arabic Restaurant - The Chedi Al Bait Sharjah
+1000,,"['American', 'Burger', 'Fast Food']",University City,iBurger International
+1001,,"['Pakistani', 'Indian']",Al Ghuwair,Al Hur Restaurant
+1002,,"['Arabian', 'Middle Eastern', 'Fast Food', 'Grill']","Zawaya Walk, Mughaidir Suburb",Mashakeek
+1003,,"['Mandi', 'Arabian', 'Middle Eastern']",Khor Fakkan,Bab Al Yaman Mandi Restaurant
+1004,,"['Indian', 'Chinese', 'Grill', 'Juices']",Abu Shagara,Wahat Al Shareq
+1005,,"['Mandi', 'Arabian', 'Middle Eastern']",Khor Fakkan,Bab Al Yaman Mandi Restaurant
+1006,,"['Fast Food', 'North Indian', 'Tea']",Al Nahda,Huston Cafeteria
+1007,,['Fast Food'],Al Nud,Lulu Al Jazeera
+1008,,"['Fast Food', 'Juices']",Al Nud,Al Jeyad Cafeteria
+1009,,"['Fast Food', 'Beverages']",University City,Tea Point
+1010,,['Fast Food'],Industrial Area,Emirates Flower Cafeteria
+1011,,['Cafe'],University City,Not A Space
+1012,,['Egyptian'],Al Manakh,Al Hoot
+1013,,['Filipino'],Abu Shagara,Filipino Grill Restaurant
+1014,,"['Beverages', 'Bubble Tea']","Sahara Centre, Al Nahda",Bubee Drinks Cafe
+1015,,"['Arabian', 'Middle Eastern']",University City,Mathaq Al Hijaz
+1016,,['Fast Food'],University City,Victoria Cafe
+1017,,"['Arabian', 'Middle Eastern']",Al Mujarrah,Al Shabab & Al Kabab
+1018,,"['Ice Cream', 'Desserts']","Zero 6, University City",Wonderbee
+1019,,"['Fast Food', 'Grill', 'Desserts']",Al Majaz,Rice & Chicken
+1020,,['Cafe'],Al Majaz,Noor Cafe
+1021,,['Fast Food'],Wasit Suburb,Sports Cafeteria
+1022,,"['Biryani', 'Indian', 'Juices']","Sharjah International Airport, Saif Zone",Mumbai Spices
+1023,,"['Arabian', 'Middle Eastern', 'Italian']",Khor Fakkan,Marbella
+1024,,['Burger'],University City,Burger & Fries
+1025,,['Fast Food'],Al Shuwaihean,Al Awama Cafeteria
+1026,,"['Beverages', 'Bubble Tea']","Sahara Centre, Al Nahda",Bubee Drinks Cafe
+1027,,"['Pakistani', 'Grill', 'Biryani']",Industrial Area,Shams Pakistan Restaurant
+1028,,['Fast Food'],Industrial Area,Bombay Gate
+1029,,"['Bakery', 'Cafe']",University City,iBakery
+1030,,['Fast Food'],Muwailih Commercial,Qasr Al Noor
+1031,,"['Arabian', 'Middle Eastern']",Industrial Area,Alkout Kuwaiti Food Restaurant
+1032,,"['Desserts', 'Arabian', 'Middle Eastern']",Al Majaz,Arafat Sweets
+1033,,['Fast Food'],Al Ghuwair,Burj Al Rahmanya Cafeteria
+1034,,['Fast Food'],Al Ghuwair,Burj Al Rahmanya Cafeteria
+1035,,['Cafe'],Khor Fakkan,Kakaw Café
+1036,,"['Fast Food', 'Juices']",Industrial Area,Al Muhtaram Cafeteria
+1037,,"['Arabian', 'Middle Eastern']",Al Majaz,Dhiya Al Sham
+1038,,['South Indian'],Industrial Area,Delicious Dish Restaurant
+1039,,['Bakery'],Muwailih Commercial,Al Bostan Al Ahmar Bakery
+1040,,"['Cafe', 'Desserts']",Al Taawun,Qahwat Al Khaleej Cafe
+1041,,"['Indian', 'Juices', 'Fast Food']",Muwailih Commercial,Mahe Junction (Abreez Cafeteria)
+1042,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Aish W Melh
+1043,,"['Arabian', 'Middle Eastern']",Bu Tina,Al Safeer
+1044,,['Indian'],Abu Shagara,Shams Al Falah Restaurant
+1045,,"['Cafe', 'Coffee']",University City,Slash Coffee
+1046,,"['Indian', 'South Indian']",Khor Fakkan,New Calicut
+1047,,['Seafood'],Al Nud,Samak & Shabk Fishes Grilling
+1048,,['International'],The Chedi Al Bait,The Restaurant - The Chedi Al Bait Sharjah
+1049,,"['Indian', 'Arabian', 'Middle Eastern', 'Fast Food']",Muwailih Commercial,Noor Al Amal
+1050,,['International'],The Chedi Al Bait,The Restaurant - The Chedi Al Bait Sharjah
+1051,,['Fast Food'],Al Qadisia,Sharjah Light Cafeteria
+1052,,['South Indian'],Industrial Area,Delicious Dish Restaurant
+1053,,"['South Indian', 'Kerala']",Al Mahatah,Burj Al Qasimiah Cafeteria
+1054,,"['Filipino', 'Fast Food', 'Indian', 'South Indian']",Al Majaz,Rukin Al Badyah
+1055,,['Seafood'],Al Nud,Samak & Shabk Fishes Grilling
+1056,,['Fast Food'],Khor Fakkan,Al Zahoor
+1057,,"['Fast Food', 'Beverages']",Al Qulayaa,Khafaief Cafeteria
+1058,,"['Arabian', 'Middle Eastern']",University City,Igrab
+1059,,['Fast Food'],Wasit Suburb,Al Shawarma Al Arabia Cafeteria
+1060,,"['Fast Food', 'Beverages', 'Juices']",Abu Shagara,Al Shewaa Cafeteria
+1061,,"['Cafe', 'Desserts']",University City,Loku Bites
+1062,,"['Seafood', 'Indian', 'Arabian', 'Middle Eastern']","Lou' Lou'a Beach Resort, Al Khan",Al Khaimah - Lou' Lou'a Beach Resort
+1063,,"['Pakistani', 'Biryani']",Mughaidir Suburb,Pearl Popular Kitchen (Al Lulu Al Jadeed Al Shabi...
+1064,,"['Indian', 'Chinese']",Al Majaz,Kasr Khebar
+1065,,['Cafe'],University City,Qsa Cafe
+1066,,"['Indian', 'South Indian', 'North Indian', 'Chinese']",Al Majaz,Al Maharah
+1067,,['Indian'],Abu Shagara,Faaz Al Majaz Restaurant & Cafeteria
+1068,,"['Fast Food', 'Burger']",University City,Over!
+1069,,['Desserts'],Al Shuwaihean,Fakhri Sweets
+1070,,['Fast Food'],Al Mujarrah,Seashell Jabal Al Rahma Cafeteria
+1071,,"['Indian', 'North Indian', 'South Indian']",Al Nabba,West Star Restaurant
+1072,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Freej Al Khoor
+1073,,"['Burger', 'Fast Food']",University City,Hipsterz Urban Kitchen
+1074,,"['Arabian', 'Middle Eastern']",Saif Zone,Al Dawri Cafeteria
+1075,,['Fast Food'],Al Majaz,Bait Al Zaytoon
+1076,,['Indian'],Al Manakh,Dibba Bakes
+1077,,"['Indian', 'North Indian', 'Chinese']",Al Majaz,Cola Restaurant
+1078,,"['Arabian', 'Middle Eastern', 'Street Food']",Maysaloon,Ala Al Saj Cafeteria
+1079,,"['Fast Food', 'Beverages', 'Coffee', 'Tea']",Wasit Suburb,Al Thameed Cafeteria
+1080,,"['Arabian', 'Middle Eastern', 'Salad', 'Healthy Food']",University City,Hummus Brothers
+1081,,['Healthy Food'],University City,Healthy Box
+1082,,"['Pakistani', 'Biryani']",Maysaloon,Razy Restaurant
+1083,,"['Fast Food', 'Beverages']",Al Khan,Al Shay Al Hiloo Cafeteria
+1084,,"['Indian', 'South Indian']",Al Nahda,Al Waseelah Restaurant
+1085,,"['Chinese', 'Continental']",Halwan Suburb,Chinese House Restaurant
+1086,,['Cafe'],Khor Fakkan,Hiroshima Restaurant
+1087,,"['Arabian', 'Middle Eastern']",Al Qulayaa,Nahar Riviera Restaurant
+1088,,"['Fast Food', 'Indian', 'Beverages']",Al Qulayaa,Fatera Al Qalaya Cafeteria
+1089,,"['European', 'Arabian', 'Middle Eastern']","Coral Beach Resort, Al Rifah",Côté Jardin - Coral Beach Resort
+1090,,"['Indian', 'North Indian', 'South Indian']",Al Taawun,Adhwa Al Mamzar Cafeteria
+1091,,"['South Indian', 'Indian', 'Nepalese']",Al Majaz,Al Akl Al Mumtaz Restaurant
+1092,,['Cafe'],Khor Fakkan,Lauren Cafe
+1093,,"['Fast Food', 'Seafood']","Zawaya Walk, Mughaidir Suburb",Red Shrimp
+1094,,['Beverages'],Al Mujarrah,Mathaq Alzafaran Juice
+1095,,['Pakistani'],Muwailih Commercial,Jabal Al Raha
+1096,,"['Fast Food', 'Indian']",Al Soor,Citroen Cafeteria
+1097,,"['Kerala', 'South Indian']",Halwan Suburb,Al Thaman Cafeteria
+1098,,"['Arabian', 'Middle Eastern', 'Mandi']",Halwan Suburb,Shawatee Al Mukalla
+1099,,['Healthy Food'],Khor Fakkan,Sports Meal Restaurant
+1100,,"['Hyderabadi', 'Biryani']",Al Qulayaa,Qasir Al Qulaiah Restaurant
+1101,,['Fast Food'],Al Nud,Al Ajwaa Cafeteria
+1102,,"['Fast Food', 'North Indian', 'South Indian', 'Chinese']",Muwailih Commercial,Balad Al Khayrat Restaurant
+1103,,"['Indian', 'Fast Food', 'Juices']",Al Soor,Taste & More Restaurant
+1104,,['Hyderabadi'],Khor Fakkan,Rawnaq Al Madinah Restaurant
+1105,,"['Bakery', 'Desserts', 'Fast Food']",Al Qulayaa,Modern Bakery
+1106,,"['Indian', 'Fast Food', 'Beverages']",Al Majaz,Saqar Al Majaz Cafeteria
+1107,,['Beverages'],"Sharjah National Park, University City",Boba Tea
+1108,,"['Indian', 'South Indian', 'North Indian']",Al Ghuwair,Thanjavur Cafeteria
+1109,,"['Indian', 'South Indian']",Al Majaz,Bismi
+1110,,"['Fast Food', 'Pizza']",Maleha & Around,Lamensa Pizza & Pasta
+1111,,"['Indian', 'South Indian']",Al Mahatah,Al Amjad Cafeteria
+1112,,"['Indian', 'Fast Food']",Al Majaz,Tareeq Al Buhairah
+1113,,"['Fast Food', 'Coffee', 'Tea']",Industrial Area,Shaay Al Nana
+1114,,['Fast Food'],Muwailih Commercial,Al Areen Cafeteria
+1115,,"['Fast Food', 'Beverages', 'Chinese']",Al Riqqa Suburb,Al Malaieb Cafeteria
+1116,,"['Arabian', 'Middle Eastern', 'Biryani']",Al Majaz,Zahra Al Yasmeen Al Shami Cafeteria
+1117,,"['Arabian', 'Middle Eastern', 'Street Food']",Al Khan,Al Furat Bakery
+1118,,"['Fast Food', 'Chinese', 'Pakistani', 'Beverages']",Bu Tina,Noor Khybar Restaurant
+1119,,"['Arabian', 'Middle Eastern', 'Italian']","Copthorne Hotel, Al Majaz 3",The Lagoon
+1120,,"['Arabian', 'Chinese', 'Kebab', 'Seafood']",Al Qulayaa,Al Kabab Al Mumayaz Restaurant
+1121,,"['Healthy Food', 'Salad', 'Lebanese']",University City,Bok Bok Grilled Chicken - بوك بوك جريلد...
+1122,,['Cafe'],University City,Think Box Cafe
+1123,,"['Indian', 'South Indian', 'Kerala']",Al Majaz,Al Lameaa Restaurant
+1124,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Majaz,Ahal Al Sham
+1125,,"['South Indian', 'Indian']",Al Ghuwair,Baith Al Rafeeq
+1126,,['Fast Food'],Wasit Suburb,Al Fanoos Restaurant
+1127,,"['Street Food', 'Arabian', 'Middle Eastern']",Al Majaz,Shams Al Sham Cafeteria
+1128,,['Pakistani'],Halwan Suburb,Lahore Kabab Al Tazej Cafeteria
+1129,,"['Indian', 'South Indian']",Al Nahda,Al Nahda Restaurant
+1130,,['Fast Food'],Al Riqqa Suburb,Al Kashkha Cafeteria
+1131,,"['Indian', 'South Indian']",Al Ghuwair,Al Zain Cafeteria
+1132,,"['Arabian', 'Middle Eastern', 'Grill']",Industrial Area,Golden Fingers Restaurant
+1133,,['American'],Al Majaz,Oscars Restaurant
+1134,,['Burger'],Maleha & Around,‫Reset Burger
+1135,,['Cafe'],"Al Shaab Village, Al Riqqa Suburb",Kurtos Kalacs
+1136,,['Fast Food'],Al Manakh,Hadiqat Al Bustan Cafeteria
+1137,,['Indian'],Industrial Area,Kashmir Restaurant
+1138,,"['Arabian', 'Middle Eastern', 'Italian']",Abu Shagara,Tazaj & Latheeth Cafeteria
+1139,,"['Healthy Food', 'Beverages']",Sharqan,Farghly Fruits Natural Juices
+1140,,"['Arabian', 'Middle Eastern']",Al Nud,Saaj w Shawerma Cafeteria
+1141,,['Fast Food'],Al Nud,Silver Star Cafeteria
+1142,,['Fast Food'],Al Nabba,Maharath Al Bahar Al Abyadh Cafeteria
+1143,,['Iranian'],Al Manakh,Najm Al Kabab Al Khas Al Irani Restaurant
+1144,,"['South Indian', 'North Indian']",Al Ghuwair,Thalessery Restaurant
+1145,,['Fast Food'],Khor Fakkan,Pizza Domani
+1146,,['Fast Food'],Wasit Suburb,Fords Cafeteria
+1147,,['Cafe'],"Saif Zone Mall, Saif Zone",Bluebell Restaurant & Cafe
+1148,,"['Arabian', 'Middle Eastern']",University City,Mashawi Al Jundi
+1149,,"['Indian', 'Pakistani']",Industrial Area,Dubai Restaurant
+1150,,['Indian'],Al Nabba,Safa Al Shams Restaurant
+1151,,"['Arabian', 'Middle Eastern']",Halwan Suburb,Qaser Al Khaleej Restaurant
+1152,,"['Juices', 'Beverages']","Al Qasba, Al Khan",Fruit Gang
+1153,,['Afghan'],Industrial Area,Afghan Al Raqi Restaurant
+1154,,"['Bakery', 'Desserts']",Al Majaz,Al Rabat Sweets & Bakery
+1155,,"['Fast Food', 'Indian', 'South Indian', 'Chinese', 'Beverages', 'Biryani']",Muwailih Commercial,Indian Spicy Foods
+1156,,"['Indian', 'Arabian', 'Chinese']",Al Ghuwair,Al Majlis Restaurant
+1157,,"['Middle Eastern', 'Arabian']",Industrial Area,Kabab Mahaleey Restaurant
+1158,,"['Bakery', 'Desserts']",Al Khan,Qaser Al Hamra Bakery & Sweets
+1159,,['Chinese'],"Sharjah International Airport, Saif Zone",Chinese House Restaurant
+1160,,"['Fast Food', 'Bubble Tea', 'Beverages']","Sahara Centre, Al Nahda",Wheel Cheese 88
+1161,,"['Indian', 'North Indian']",Al Majaz,Al Himmah Cafeteria
+1162,,"['Indian', 'South Indian']",Industrial Area,Cochin Restaurant
+1163,,"['Lebanese', 'Arabian', 'Middle Eastern', 'Street Food']","The Grand Avenue, Al Nasseriya",Falafil Deeratna Cafeteria
+1164,,['Cafe'],University City,11:11 Speciality Coffee
+1165,,"['Fast Food', 'Indian', 'Biryani', 'Beverages']",Abu Shagara,Rukn Al Hayat Cafeteria
+1166,,"['Arabian', 'Middle Eastern']",Al Majaz,Buzah Qalat Trablus Ice Cream
+1167,,['Desserts'],Al Shuwaihean,Banoful Sweets & Bakery
+1168,,['Desserts'],Al Shuwaihean,Banoful Sweets & Bakery
+1169,,"['Cafe', 'Beverages']",University City,Shaghf Cafe
+1170,,['Cafe'],University City,Dose
+1171,,"['Burger', 'Fast Food']",University City,99 Grill
+1172,,"['Fast Food', 'Arabian', 'Middle Eastern']",Muwailih Commercial,Al Bait Al Saudi Restaurant
+1173,,"['Cafe', 'Coffee']","Zawaya Walk, Mughaidir Suburb",Dark Door Speciality Coffee
+1174,,['Fast Food'],Muwailih Commercial,Colon Cafeteria
+1175,,"['North Indian', 'South Indian']",Industrial Area,Eastern India Restaurant
+1176,,"['South Indian', 'North Indian', 'Fast Food', 'Grill', 'Chinese']",Al Nahda,Dream Tea Cafeteria
+1177,,['Fast Food'],Mughaidir Suburb,Jabal Al Noor
+1178,,"['Indian', 'South Indian', 'Juices']",Al Taawun,Jabal Al Shams Cafeteria
+1179,,"['Asian', 'Arabian', 'Middle Eastern', 'Bakery']",Al Taawun,Nasem Marakesh Bakery
+1180,,"['Pakistani', 'Indian', 'Mandi']",Industrial Area,Qasr Al Taj
+1181,,"['Fast Food', 'Arabian', 'Middle Eastern']",Muwailih Commercial,Al Madhboot Cafeteria
+1182,,"['Indian', 'South Indian', 'Chinese', 'North Indian', 'Mughlai', 'Beverages']",Halwan Suburb,Pamella Restaurant
+1183,,"['Mandi', 'Yemeni']",Khor Fakkan,Shabab Al Khor
+1184,,['South Indian'],Abu Shagara,Al Baraka Restaurant
+1185,,"['Fast Food', 'Indian', 'Chinese']",Muwailih Commercial,Al Majaz Restaurant
+1186,,['Cafe'],University City,Flux
+1187,,"['Bakery', 'Arabian', 'Middle Eastern', 'Fast Food']","The Grand Avenue, Al Nasseriya",Miramiah Restaurant
+1188,,['Fast Food'],Al Qulayaa,Rona Restaurant
+1189,,['Cafe'],University City,Anya Cafe
+1190,,"['Indian', 'South Indian', 'Fast Food']",Al Mujarrah,Al Sarhan Cafeteria
+1191,,['Indian'],Industrial Area,New Ideal Restaurant
+1192,,"['Indian', 'Hyderabadi']",Khor Fakkan,Al Raha
+1193,,"['Fast Food', 'Indian', 'North Indian', 'Beverages']",Muwailih Commercial,Al Ababeel Restaurant and Cafeteria
+1194,,"['Arabian', 'Middle Eastern']",Al Majaz,Karam Al Diyafah Restaurant
+1195,,['Fast Food'],Khor Fakkan,Chicken House
+1196,,['Cafe'],"Centro Sharjah, Sharjah Airport International Free Zone",C.Deli - Centro Sharjah
+1197,,"['Indian', 'North Indian', 'South Indian']",Al Majaz,Al Mango Cafeteria
+1198,,"['Indian', 'North Indian', 'South Indian']",Al Majaz,Al Mango Cafeteria
+1199,,['Fast Food'],Khor Fakkan,Chicken House
+1200,,['Fast Food'],Al Majaz,Al Mualim Cafeteria
+1201,,['Cafe'],Maleha & Around,Mleiha Cafe
+1202,,"['Fast Food', 'Beverages']","Aljada by ARADA, University City",Chick'nCone
+1203,,"['Indian', 'Pakistani', 'Street Food']",Al Majaz,Fajr Al Sabah
+1204,,"['Iranian', 'Grill']",University City,Kabab Al Khaleej
+1205,,"['Indian', 'Chinese']",Industrial Area,Al Kanary Restaurant
+1206,,"['Cafe', 'Fast Food']","Coral Beach Resort, Al Rifah",Waves - Coral Beach Resort
+1207,,['Fast Food'],Al Mareija,Nile Cafeteria
+1208,,['Filipino'],Al Majaz,Al Dejaj Al Shahi Fast Food
+1209,,['Biryani'],Abu Shagara,Al Tabaq Al Raeesi (Biryani Centre)
+1210,,"['Indian', 'Street Food']",Bu Tina,Al Shaay Al Amiri
+1211,,['Indian'],Al Nabba,Luluat Al Saif Restaurant
+1212,,"['Fast Food', 'South Indian', 'Beverages']",Al Mareija,Sasu Cafe
+1213,,"['Cafe', 'Desserts']","Sheraton Sharjah Beach Resort & Spa, Al Rifah",Link@Sheraton Cafe
+1214,,"['Fast Food', 'Indian', 'Juices']",Industrial Area,Al Anjaz Cafeteria
+1215,,['International'],University City,65 Degree Bowls
+1216,,['Indian'],University City,Kumar Station
+1217,,"['Indian', 'Pakistani']",Al Nabba,Madina Shalimar Restaurant
+1218,,"['Indian', 'Fast Food', 'Grill', 'Chinese', 'Juices']",Al Nabba,Mint Leafs Restaurant
+1219,,"['Indian', 'South Indian', 'Kerala', 'Chinese']",Halwan Suburb,New Leewa
+1220,,"['Seafood', 'Biryani']",Al Majaz,Tarh Al Bahr
+1221,,"['Indian', 'Street Food']",Al Mahatah,Dar Al Rajwah Restaurant
+1222,,['Cafe'],"Matajer Al Juraina, University City",95°
+1223,,['Cafe'],"Zawaya Walk, Mughaidir Suburb",Mathaqat Tea Room & Pastries
+1224,,"['Fast Food', 'Beverages']",Al Majaz,Bombay Club
+1225,,"['Desserts', 'Arabian', 'Middle Eastern']",University City,Kunafat Doma
+1226,,"['Pakistani', 'Indian']",Industrial Area,Al Fareed Restaurant
+1227,,['Syrian'],Al Khan,Ahal Hartna
+1228,,['Syrian'],Al Khan,Ahal Hartna
+1229,,['Italian'],University City,Coppasta
+1230,,"['Fast Food', 'Beverages']","Aljada by ARADA, University City",Chick'nCone
+1231,,['Filipino'],Abu Shagara,Pinoy Lomi House
+1232,,"['Indian', 'Juices']",Al Majaz,Al Mathaq Al Turki
+1233,,"['Kebab', 'Juices', 'Fast Food']",Maleha & Around,Najmat Al Faal
+1234,,"['American', 'Fast Food', 'Burger']",University City,Trace
+1235,,"['Fast Food', 'Juices']",Wasit Suburb,Al Sadaf Al Azraq Cafeteria
+1236,,"['Steak', 'Burger', 'Grill', 'American']","City Centre Al Zahia, University City",71 Steak & Grill
+1237,,"['Middle Eastern', 'Arabian']",Mughaidir Suburb,Al Khafaef Al Thahabia Cafeteria
+1238,,"['Pakistani', 'Indian']",Industrial Area,Sarhad Restaurant
+1239,,"['Indian', 'South Indian']",Al Nud,Al Hamra Cafeteria
+1240,,"['Arabian', 'Middle Eastern', 'Fast Food']","Ansar Mall, Al Nahda",Ansar Taste
+1241,,"['Arabian', 'Middle Eastern']",Al Majaz,Qalaat Al Sham
+1242,,['Fast Food'],Halwan Suburb,Najmat Wasit
+1243,,['Desserts'],Al Khan,Sugargram
+1244,,"['Arabian', 'Middle Eastern', 'Fast Food']","Ansar Mall, Al Nahda",Ansar Taste
+1245,,"['Indian', 'South Indian']",Al Nud,Al Hamra Cafeteria
+1246,,['Fast Food'],Halwan Suburb,Najmat Wasit
+1247,,"['Arabian', 'Middle Eastern']",Al Majaz,Qalaat Al Sham
+1248,,"['International', 'Italian']","Golden Sands Hotel, Al Nahda",Buonissimo Restaurant & Cafe
+1249,,"['Fast Food', 'Arabian', 'Middle Eastern']",Industrial Area,Afrah Al Sham Cafeteria
+1250,,"['Indian', 'Chinese', 'Beverages']",Al Nahda,Al Pateel Restaurant
+1251,,['Pakistani'],Al Manakh,Al Barsha
+1252,,['Pakistani'],University City,Kabab Al Rihan
+1253,,['Fast Food'],Al Majaz,Al Sabah Al Basim Cafeteria
+1254,,['Pakistani'],Al Manakh,Jabal Khaiber Restaurant
+1255,,['Fast Food'],Khor Fakkan,Al Dhabab
+1256,,['Indian'],Al Ghuwair,Panama Restaurant
+1257,,['Bakery'],Saif Zone,Lucake
+1258,,"['Indian', 'Chinese', 'Beverages']",Al Nahda,Al Pateel Restaurant
+1259,,"['Healthy Food', 'Beverages']",Sharqan,Farghly Fruits Natural Juices
+1260,,"['Biryani', 'South Indian']",Muwailih Commercial,Iruttu Kadai Bucket Biryani
+1261,,"['Fast Food', 'Coffee', 'Tea']",Al Rifah,Shatee Al Heera Cafeteria
+1262,,"['Indian', 'North Indian', 'South Indian']",Muwailih Commercial,Rukn Al Madeenah Restaurant
+1263,,"['Fast Food', 'Desserts', 'Beverages']",Industrial Area,Al Shay Al Asli Cafeteria
+1264,,"['Fast Food', 'Juices']",University City,Shay Al Layah
+1265,,['Cafe'],University City,Il Caffe Di Roma
+1266,,"['Arabian', 'Middle Eastern']",Industrial Area,Al Yahar
+1267,,['Afghan'],Industrial Area,Madinat Al Rahmah
+1268,,"['Fast Food', 'Pizza']",Al Majaz,Yawmyat Cafeteria
+1269,,"['Arabian', 'Middle Eastern', 'Healthy Food']",Al Majaz,Wrapped
+1270,,['Desserts'],Al Khan,Sugargram
+1271,,['Kerala'],Al Ghuwair,Sada Al Sawat Cafeteria
+1272,,['Indian'],Bu Tina,Rona Restaurant
+1273,,['Fast Food'],Al Nud,Alth Falafel Cafeteria
+1274,,"['Arabian', 'Middle Eastern']",Al Majaz,Istiraha Al Sham
+1275,,['Cafe'],Khor Fakkan,Marcilia Cafe
+1276,,"['Fast Food', 'Indian', 'South Indian']",Al Soor,Qasr Malabar
+1277,,['Fast Food'],Halwan Suburb,Zahrat Al Sawan Cafeteria
+1278,,['Fast Food'],Al Ghuwair,Nuran Cafeteria
+1279,,['South Indian'],Muwailih Commercial,Wadi Muwailih Restaurant & Cafeteria
+1280,,"['Arabian', 'Middle Eastern']",Halwan Suburb,Wahat Al Karam Restaurant
+1281,,['Cafe'],Saif Zone,Provalo Cafe
+1282,,"['American', 'Burger', 'Seafood', 'Steak', 'Salad']","City Centre Al Zahia, University City",Tony Roma's
+1283,,['Cafe'],University City,Fandom Cafe
+1284,,"['Indian', 'Fast Food', 'Juices']",Abu Shagara,Arafat Restaurant
+1285,,"['Indian', 'South Indian']",Wasit Suburb,Al Alam Restaurant
+1286,,['Fast Food'],Khor Fakkan,Bait Al Majbus
+1287,,['Pakistani'],Muwailih Commercial,Ahla Kabab Cafeteria
+1288,,['Fast Food'],Khor Fakkan,Bait Al Majbus
+1289,,['Indian'],Saif Zone,Indian House
+1290,,['Pakistani'],Muwailih Commercial,Ahla Kabab Cafeteria
+1291,,"['Arabian', 'Middle Eastern']",Al Mahatah,Al Mudheef Al Jadeed Cafeteria
+1292,,"['Beverages', 'Desserts']",Muwailih Commercial,Tareeq Al Jabal Cafe ( Cool Lassi )
+1293,,"['Cafe', 'Coffee']",University City,Stage
+1294,,"['Bakery', 'Lebanese']",Al Majaz,Bait Al Karam Pastry
+1295,,"['Indian', 'Pakistani', 'Fast Food', 'Juices']",Abu Shagara,Abeer Restaurant
+1296,,['African'],Al Manakh,Abayomi Cafe & Restaurant
+1297,,['Fast Food'],Al Mahatah,Akadh Cafeteria
+1298,,"['Indian', 'North Indian', 'South Indian']",Abu Shagara,Rukn Al Bahar Cafeteria
+1299,,"['Pakistani', 'Indian']",Industrial Area,Athaa Al Madina Restaurant
+1300,,"['Indian', 'South Indian']",Abu Shagara,Al Kaf
+1301,,"['Indian', 'Pakistani']",Al Ghuwair,Noor Al Helal Restaurant
+1302,,"['Bakery', 'Desserts']",Al Mirgab,Oasis Bakery
+1303,,['Fast Food'],Muwailih Commercial,Aswar Al Madina Cafeteria
+1304,,['Fast Food'],Muwailih Commercial,Al Fursah Cafeteria
+1305,,['Fast Food'],Al Majaz,Red Cup Cafeteria
+1306,,['Pakistani'],Al Nabba,Bait Al Nabbah
+1307,,"['Biryani', 'Pakistani']",Al Sabkha,Al Jamahir Public Kitchen Restaurant
+1308,,['Seafood'],Industrial Area,Fish Market Restaurant
+1309,,"['Bakery', 'Arabian', 'Middle Eastern']",Al Khan,Al Kofyah Automatic Bakery
+1310,,"['International', 'Fast Food']",Al Mareija,Al Wajbah Al Sahiah Cafeteria
+1311,,"['Indian', 'Fast Food', 'Juices']",Industrial Area,Sina Al Madina Restaurant
+1312,,"['Fast Food', 'Arabian', 'Middle Eastern']",Al Nud,Addis Ababa Restaurant
+1313,,['Juices'],University City,Juice Bar
+1314,,['Indian'],Al Majaz,Salim Al Amiri Restaurant
+1315,,"['Asian', 'Arabian', 'Continental']",Al Nud,Al Diwan Restaurant - Nova Park Hotel
+1316,,"['Pakistani', 'Asian']",Industrial Area,Al Falak Restaurant
+1317,,['Lebanese'],Al Majaz,Al Wissam Restaurant
+1318,,"['Fast Food', 'Indian', 'Grill', 'Juices', 'Beverages']",Industrial Area,Al Sahi Cafeteria
+1319,,"['Arabian', 'Middle Eastern', 'Healthy Food', 'Salad', 'Lebanese']","City Centre Al Zahia, University City",Zaatar w Zeit
+1320,,['Indian'],Al Majaz,Salim Al Amiri Restaurant
+1321,,"['Pakistani', 'Indian']",Industrial Area,Manarat Al Sharjah Restaurant
+1322,,"['Arabian', 'Middle Eastern', 'Desserts']",Halwan Suburb,Papa Kanafa
+1323,,"['Nepalese', 'Indian', 'Biryani', 'Chinese']",Industrial Area,Qemat Al Jabal Restaurant
+1324,,['Cafe'],University City,Bam! Cafe
+1325,,"['Indian', 'South Indian']",Muwailih Commercial,Galaxy City Restaurant
+1326,,"['Fast Food', 'Juices']",Muwailih Commercial,Bait Al Shai Al Ahmar
+1327,,"['Cafe', 'Desserts']",University City,Attibassi Cafe 1918
+1328,,"['Fast Food', 'Juices']",Wasit Suburb,Al Haram Cafeteria
+1329,,"['Fast Food', 'Indian', 'Juices']",Abu Shagara,Best Tea Cafeteria
+1330,,"['Pakistani', 'Indian']",Muwailih Commercial,Al Jazeera Restaurant
+1331,,['Fast Food'],Wasit Suburb,Zahrat Al Sawsan Cafeteria
+1332,,['Cafe'],University City,The Tea Room
+1333,,"['Arabian', 'Middle Eastern', 'Healthy Food', 'Salad', 'Lebanese']","City Centre Al Zahia, University City",Zaatar w Zeit
+1334,,"['Fast Food', 'Juices']",University City,Rajab Cafeteria
+1335,,"['Arabian', 'Middle Eastern']",Al Nasseriya,Natali Cafeteria
+1336,,"['Arabian', 'Middle Eastern', 'Grill', 'Salad', 'Beverages']",Al Taawun,Qasr Al Sultan Restaurant
+1337,,['Pakistani'],Industrial Area,Al Sadaf Al Thahabi Restaurant
+1338,,['Fast Food'],Muwailih Commercial,Aroos Al Saeeda Restaurant & Cafeteria
+1339,,['Cafe'],University City,Dollar Cafe
+1340,,"['North Indian', 'South Indian']",Muwailih Commercial,Alath Qahwa
+1341,,"['Indian', 'Fast Food', 'Juices', 'Lebanese', 'Chinese', 'North Indian', 'Desserts']",Al Majaz,Shams Al Madinah Restaurant
+1342,,"['Fast Food', 'Chinese', 'Indian']",Industrial Area,Adwaa Al Madinah Restaurant
+1343,,"['South Indian', 'North Indian']",Industrial Area,Al Yasmeen Restaurant
+1344,,"['Chinese', 'Fast Food', 'Pizza', 'Biryani', 'Juices']",Al Nahda,Chai Bhai(Dar Al Warqa Cafe)
+1345,,['Cafe'],"Coral Beach Resort, Al Rifah",Rumours Café - Coral Beach Resort
+1346,,"['Indian', 'Pakistani']",Industrial Area,Al Safa Restaurant
+1347,,"['Fast Food', 'Juices']",University City,Shabab Al Khan Cafeteria
+1348,,"['Kerala', 'South Indian']",Industrial Area,Oasis Restaurant
+1349,,['Indian'],Abu Shagara,Maisoon Cafeteria
+1350,,"['Fast Food', 'Indian', 'Grill']",Industrial Area,Madinat Al Majaz Restaurant
+1351,,['Desserts'],"Aljada by ARADA, University City",Doukies
+1352,,['Cafe'],Al Majaz,PappaRoti
+1353,,"['Arabian', 'Middle Eastern']",Al Majaz,Rukn Al Asalah Restaurant
+1354,,['Pakistani'],Saif Zone,Eat & More
+1355,,['Cafe'],University City,Nota Specialty Coffee
+1356,,"['Indian', 'South Indian']",Al Ghuwair,White Way Restaurant
+1357,,['Cafe'],"Oceanic Khorfakkan Resort & Spa, Khor Fakkan",Cafe Oceanic - Oceanic Khorfakkan Resort & Spa
+1358,,['Healthy Food'],Muwailih Commercial,iHealthy
+1359,,"['Indian', 'South Indian']",Muwailih Commercial,Musk Al Madeena Cafeteria
+1360,,['Fast Food'],Al Majaz,Dar Al Majaz
+1361,,"['Arabian', 'Middle Eastern']",University City,Kabab  Zafaran Restaurant
+1362,,"['Fast Food', 'Indian', 'South Indian', 'Juices']",Al Majaz,Zahrat Al Jazeerah Cafeteria
+1363,,['Desserts'],"Aljada by ARADA, University City",Doukies
+1364,,"['Fast Food', 'Juices']",Muwailih Commercial,Shai Al Deyar
+1365,,['Indian'],Khor Fakkan,Al Salam
+1366,,"['Indian', 'Chinese']",Khor Fakkan,Bahar Al Khoor
+1367,,"['Beverages', 'Juices']",Muwailih Commercial,Lassi Palace (Aseer Ananas Juicer)
+1368,,"['Arabian', 'Middle Eastern', 'Street Food']",Al Nud,Kheibza W Manqosha
+1369,,"['Indian', 'North Indian', 'South Indian']",Industrial Area,Al Arbeaa
+1370,,"['Cafe', 'Beverages']",The Chedi Al Bait,The Cafe - The Chedi Al Bait Sharjah
+1371,,['Pakistani'],Industrial Area,Al Mathaq Al Aseel
+1372,,['Fast Food'],Khor Fakkan,Qaser Alfalafil Cafeteria
+1373,,['Fast Food'],Al Khan,Afrah Kerala Cafeteria
+1374,,['Indian'],Al Majaz,Tadmur Cafeteria
+1375,,"['Indian', 'Hyderabadi']",Al Manakh,Zaytoon & Zafaran Restaurant
+1376,,['Indian'],Al Majaz,Tadmur Cafeteria
+1377,,['Beverages'],Al Manakh,Lassi Camp (Waqt Al Saadah Cafe)
+1378,,"['Fast Food', 'Coffee', 'Tea']",Sharqan,Rkin Al Diafah
+1379,,['Fast Food'],"Sharjah International Airport, Saif Zone",Fusion Bites
+1380,,"['Arabian', 'Middle Eastern', 'Indian', 'Fast Food']",Al Majaz,Red Chicken
+1381,,['Asian'],Saif Zone,Pan Asia Restaurant
+1382,,['Fast Food'],University City,Food World Cafeteria
+1383,,"['Middle Eastern', 'Arabian']",Khor Fakkan,Fatair Atayab
+1384,,"['Arabian', 'Middle Eastern', 'Grill']",University City,Otlob & Jarep
+1385,,"['Arabian', 'Middle Eastern']",Al Majaz,Bab Srejeh Restaurant & Grill
+1386,,"['Arabian', 'Middle Eastern']",Maleha & Around,Alwan Al Hayath Restaurant
+1387,,['Sri Lankan'],Al Nud,Lucky Star Restaurant
+1388,,"['Indian', 'South Indian', 'North Indian', 'Chinese']",Muwailih Commercial,Al Wadi
+1389,,['Fast Food'],Al Riqqa Suburb,Khibz W Kabab Bakery & Cafeteria
+1390,,"['Arabian', 'Middle Eastern', 'Mandi', 'Grill', 'Juices']",Al Majaz,Sharea Abu Rummanah Restaurant
+1391,,['Filipino'],Abu Shagara,Ayala City Grill
+1392,,['International'],Maleha & Around,The Rock Restaurant - Al Faya Retreat
+1393,,"['Indian', 'South Indian', 'Fast Food']",Abu Shagara,Jesir Al Madinah Cafeteria
+1394,,['North Indian'],"Safari Mall, Muwailih Commercial",Safari Bakery
+1395,,['Indian'],Industrial Area,Seven Emirates Restaurant
+1396,,['Seafood'],University City,C Food
+1397,,"['Grill', 'Seafood']",Al Nahda,Captains Pot Restaurant
+1398,,"['Indian', 'South Indian']",Al Mahatah,Al Mansourah Cafeteria
+1399,,['Fast Food'],"Aljada by ARADA, University City",Cracked
+1400,,"['Indian', 'South Indian']",Maysaloon,Al Saryah
+1401,,"['Fast Food', 'Juices']",Khor Fakkan,Ice Palace
+1402,,"['Fast Food', 'Juices']",Al Ghuwair,Mammu Tea
+1403,,"['Arabian', 'Middle Eastern']",University City,Shawarma Vibes
+1404,,['Indian'],Saif Zone,Express Catering (Chef & Spice)
+1405,,"['Indian', 'South Indian', 'North Indian']",Saif Zone,Grand Catering Restaurant
+1406,,['Pakistani'],Industrial Area,Dar Al Fajr Restaurant
+1407,,"['Arabian', 'Middle Eastern', 'Bakery']",Al Taawun,Nabaa Al Sham Pastry
+1408,,"['Indian', 'South Indian', 'Kerala']",Al Ghuwair,Zahrat Al Nejoum Cafeteria
+1409,,"['Fast Food', 'Beverages']",Abu Shagara,Al Shaai Al Mumayaz Cafeteria
+1410,,"['Indian', 'Juices']",Al Majaz,Shaban Cafeteria
+1411,,['Street Food'],Saif Zone,Talal Caffee
+1412,,"['Cafe', 'Healthy Food']",Maleha & Around,Healthy Farm Eatery
+1413,,['Pakistani'],Al Ghuwair,Al Radar Cafeteria
+1414,,"['Indian', 'Pakistani', 'Middle Eastern']",Industrial Area,Al Karaz Restaurant
+1415,,"['Arabian', 'Middle Eastern', 'Indian', 'Filipino', 'Chinese']",Al Mirgab,Golden Fork
+1416,,['Fast Food'],Al Nasseriya,Al Tazar Cafeteria
+1417,,"['Filipino', 'Desserts']",Al Nud,Manqusha Cafeteria
+1418,,['Pakistani'],Industrial Area,Taj Malabar
+1419,,"['Fast Food', 'Coffee', 'Tea']",University City,Dar Malik Al Karak
+1420,,"['Fast Food', 'Coffee', 'Tea']",University City,Dar Malik Al Karak
+1421,,"['Kerala', 'Juices']",Al Ghuwair,Ahmed Al Ansari Cafeteria (Ustad Hotel)
+1422,,"['Cafe', 'Bakery']",University City,Blossom Sweets & Cafe
+1423,,['African'],Al Nahda,African Kingdom Restaurant
+1424,,['Pakistani'],Al Manakh,Waqar Jarral
+1425,,"['Fast Food', 'American']",University City,Mac & Wings
+1426,,"['Mughlai', 'South Indian', 'Juices', 'Chinese', 'Seafood']",Industrial Area,Al Zouq Restaurant
+1427,,"['Fast Food', 'Beverages']",Industrial Area,Sharjah Club Cafeteria
+1428,,"['Indian', 'Fast Food']",Al Mareija,Al Shamaiem Restaurant
+1429,,"['Indian', 'South Indian', 'Kerala']",Muwailih Commercial,Shambath Darbar Restaurant
+1430,,"['Fast Food', 'Beverages']",Al Riqqa Suburb,Al Najma Al Baydha
+1431,,"['Indian', 'South Indian']",Al Ghuwair,Al Eid Restaurant
+1432,,"['Arabian', 'Middle Eastern', 'Desserts']",Al Majaz,Alaker Al Nabulsi Sweets
+1433,,"['Bakery', 'Fast Food', 'Pizza', 'Arabian']",Al Majaz,Jabal Al Rayan Snacks And Pastry
+1434,,['South Indian'],Bu Tina,Al Zulal Restaurant
+1435,,['Fast Food'],Al Ghuwair,Ahmed Sarhan Cafeteria
+1436,,['Afghan'],Industrial Area,Dar Al Afghani
+1437,,['Cafe'],"Sharjah Carlton Hotel, Al Khan",The Al Atlal Restaurant & Coffee Shop - Sharjah...
+1438,,"['South Indian', 'North Indian', 'Chinese', 'Seafood']",Industrial Area,Taam Al Nanaa Restaurant
+1439,,['Juices'],Wasit Suburb,Al Toot Al Berry
+1440,,"['Bakery', 'Fast Food', 'Pizza', 'Arabian']",Al Majaz,Jabal Al Rayan Snacks And Pastry
+1441,,['Fast Food'],Muwailih Commercial,Qemat Al Safa
+1442,,"['South Indian', 'Kerala']",Al Mahatah,Waqt Al Ishaa
+1443,,['Fast Food'],University City,Dallat Muwaileh Cafeteria
+1444,,"['American', 'Fast Food']",University City,Alathshi
+1445,,['Fast Food'],Al Ghuwair,Jesr Al Mahabah Cafe
+1446,,"['Indian', 'South Indian', 'Chinese']",Industrial Area,Tareeq Paris Restaurant
+1447,,"['Fast Food', 'Grill', 'Indian']","The Grand Avenue, Al Nasseriya",Sabah Al Sham
+1448,,['Bengali'],Al Shuwaihean,Jabal Tariq Restaurant
+1449,,"['Indian', 'Chinese', 'Fast Food', 'Beverages']",Al Nahda,Sour Mango Restaurant
+1450,,"['Burger', 'Fast Food', 'Beverages']",Sharqan,Davinchy
+1451,,['Fast Food'],Al Mareija,Al Areen
+1452,,['Kerala'],Abu Shagara,Ard Al Ward Restaurant
+1453,,['Fast Food'],Al Riqqa Suburb,Pak Arab Cafeteria
+1454,,['Fast Food'],Khor Fakkan,Chicken Palace
+1455,,['Pakistani'],Industrial Area,Najmat Muwaileh Restaurant
+1456,,"['Fast Food', 'Beverages']",Industrial Area,Bab Al Rehan Cafeteria
+1457,,"['Indian', 'South Indian']",Al Nabba,Al Amasi
+1458,,"['Indian', 'North Indian', 'Pakistani']",Industrial Area,Fakhar Al Punjab Restaurant
+1459,,"['Indian', 'South Indian']",Al Soor,Al Inma Cafeteria
+1460,,"['Pakistani', 'Indian']",Industrial Area,SALSA (Al Sanabil Al Sabie)
+1461,,"['Fast Food', 'American']",University City,Mac & Wings
+1462,,"['Arabian', 'Middle Eastern', 'Grill']",University City,Hawadeet Restaurant
+1463,,"['Fast Food', 'Arabian', 'Middle Eastern']",Industrial Area,Remal Al Sahra Restaurant
+1464,,['Cafe'],Khor Fakkan,Magic Cafe
+1465,,"['Pakistani', 'Indian']",Industrial Area,Jebal Mumbai Restaurant
+1466,,"['North Indian', 'South Indian', 'Chinese']",Muwailih Commercial,Anna Restaurant
+1467,,"['Cafe', 'Juices', 'Desserts']",Muwailih Commercial,Ice Island Cafe
+1468,,"['Indian', 'Fast Food']",Industrial Area,Ibn Al Jabal Cafeteria
+1469,,"['North Indian', 'South Indian', 'Chinese']",Muwailih Commercial,Al Shamah Cafeteria
+1470,,"['Indian', 'Arabian', 'Middle Eastern', 'Fast Food']",Saif Zone,KPS Tasty Food
+1471,,"['Fast Food', 'South Indian', 'Beverages']",Al Qulayaa,Shabab Al Jazeera
+1472,,"['Indian', 'South Indian', 'North Indian']",Abu Shagara,Al Kharan Cafeteria
+1473,,['Cafe'],Saif Zone,Green Coffee Shop
+1474,,"['Arabian', 'Middle Eastern']",Al Majaz,Bait Al Salhiya
+1475,,"['Arabian', 'Middle Eastern', 'Street Food']",University City,Salalah Mashakeek
+1476,,['Fast Food'],Al Mahatah,Al Kalimah Cafeteria
+1477,,['Fast Food'],Industrial Area,Abdul Rahman Ahmed Restaurant
+1478,,['Cafe'],"Crystal Plaza Hotel, Al Majaz",New York Coffee
+1479,,"['Ice Cream', 'Desserts']","Sharjah International Airport, Saif Zone",London Dairy
+1480,,"['Indian', 'Pakistani', 'Bangladeshi']",Abu Shagara,Majlis Al Madinah Restaurant
+1481,,['North Indian'],Industrial Area,Al Afif Restaurant - Veggie World
+1482,,['Cafe'],University City,Room Speciality Cafe
+1483,,"['Indian', 'Biryani', 'South Indian']",Halwan Suburb,Secunderabad Cafeteria
+1484,,['Pakistani'],Industrial Area,Al Lamaan Cafeteria
+1485,,"['Arabian', 'Middle Eastern']",Wasit Suburb,Mahashi Ala Kaifak
+1486,,['Middle Eastern'],Industrial Area,Bab Khaibar Restaurant
+1487,,"['Arabian', 'Middle Eastern']","Zawaya Walk, Mughaidir Suburb",Cards Restaurant
+1488,,"['Indian', 'Juices']",Al Mareija,Al Abrah Cafeteria
+1489,,['Fast Food'],"Aljada by ARADA, University City",Meet
+1490,,['Pakistani'],Muwailih Commercial,Al Nahar Al Safi Restaurant
+1491,,"['Indian', 'South Indian']",Muwailih Commercial,Noor Al Ardh Cafeteria
+1492,,"['Arabian', 'Middle Eastern', 'Street Food']",University City,Shawarmer
+1493,,['Indian'],Saif Zone,Al Bader Star Restaurant
+1494,,"['Arabian', 'Middle Eastern']",Halwan Suburb,Fatta Kawareh
+1495,,['Fast Food'],Al Riqqa Suburb,Tanatif
+1496,,"['Indian', 'South Indian']",Khor Fakkan,Taj
+1497,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Majaz,Lathith & Sehhi Cafeteria
+1498,,['Indian'],Industrial Area,New Ajmeer Restaurant
+1499,,"['Indian', 'South Indian']",Khor Fakkan,Green Belt
+1500,,"['Beverages', 'Desserts']",University City,Lassi Galaxy
+1501,,['Fast Food'],Khor Fakkan,Al Fouj
+1502,,"['Indian', 'Chinese', 'Arabian', 'Middle Eastern']",Muwailih Commercial,Anwar Al Deera Restaurant
+1503,,"['Indian', 'Fast Food', 'Juices', 'Grill']",Industrial Area,Imperial Restaurant
+1504,,"['Fast Food', 'Indian', 'South Indian']",Halwan Suburb,Al Taka Cafeteria
+1505,,"['Bakery', 'Cafe']",Maleha & Around,Coffies
+1506,,['Burger'],Al Majaz,Shack Burger
+1507,,['Cafe'],"Zawaya Walk, Mughaidir Suburb",Nostalgia
+1508,,['Arabian'],"Novotel Sharjah Expo Centre Hotel, Al Taawun",Orient Restaurant - Novotel Sharjah Expo Centre Hotel
+1509,,"['Italian', 'Arabian', 'European']","72 Hotel, Al Majaz 1",Equation All Day Dining - Hotel 72 by HUES
+1510,,['Fast Food'],Saif Zone,Faal Al Khair
+1511,,"['Korean', 'Filipino', 'Chinese']",Al Nud,Oriental Flavor
+1512,,"['Bakery', 'Desserts']",University City,Cake Al Taybeen
+1513,,"['Indian', 'Arabian']",Al Nud,Spark Restaurant
+1514,,['Fast Food'],Khor Fakkan,Raheeb
+1515,,['Fast Food'],Khor Fakkan,Venus
+1516,,['South Indian'],Al Ghuwair,Tareeq Al Madinah Cafeteria
+1517,,"['Indian', 'South Indian']",Abu Shagara,Safeenath Al Bahr Cafeteria
+1518,,['Beverages'],"Sahara Centre, Al Nahda",Happy Bubbles
+1519,,['Indian'],Al Nahda,Abu Mousa Cafeteria
+1520,,['Fast Food'],Muwailih Commercial,Amwaj Muwailih Cafeteria
+1521,,['Fast Food'],Abu Shagara,Nahr Al Madeenah Restaurant
+1522,,"['Pakistani', 'Mandi']",Industrial Area,Al Hanouf Public Kitchen
+1523,,['Fast Food'],Al Majaz,Bustan Al Majaz Cafeteria
+1524,,['International'],"Al Badayer Oasis, Maleha & Around",Al Madam Restaurant - Al Badayer Oasis
+1525,,['Indian'],Al Nahda,Kababs And More
+1526,,"['Kerala', 'Indian', 'Fast Food']",Abu Shagara,Yellow Banana Cafeteria
+1527,,"['Indian', 'North Indian', 'Pakistani', 'Chinese']",Al Nahda,Dar Al Shams Cafeteria
+1528,,"['Fast Food', 'Beverages']",Al Mahatah,Al Qasmia Cafeteria
+1529,,"['Seafood', 'Arabian', 'Middle Eastern']",Al Riqqa Suburb,Shahouf Al Fareej Kitchen
+1530,,['Fast Food'],Industrial Area,Al Rabiah Cafeteria
+1531,,"['Steak', 'Burger']","Aljada by ARADA, University City",Steakanji
+1532,,['Fast Food'],Abu Shagara,Nahr Al Madeenah Restaurant
+1533,,"['Pakistani', 'Afghan', 'Grill']",Industrial Area,Wadi Al Khaleej Restaurant
+1534,,"['Arabian', 'Middle Eastern', 'Seafood']",Abu Shagara,Samakmk Seafood Restaurant
+1535,,['Indian'],Industrial Area,Bilad Al Arab Restaurant
+1536,,"['Fast Food', 'Juices']",Al Jubail,Bait Al Shai Al Sailani
+1537,,"['Fast Food', 'Juices']",University City,Orange Cafeteria
+1538,,"['Indian', 'Fast Food']",Industrial Area,Lucky Restaurant
+1539,,['Fast Food'],Al Riqqa Suburb,Wahat Al Jazzat
+1540,,['Seafood'],Al Nud,Alam Al Behar Fish Cooking
+1541,,"['Mandi', 'Arabian', 'Middle Eastern']",Sharqan,Qasar Najd Mandi Restaurant
+1542,,"['Fast Food', 'Juices']",Industrial Area,Al Mubashir Cafe
+1543,,"['Indian', 'South Indian', 'Chinese', 'North Indian']",Bu Tina,Al Muwafajah Restaurant
+1544,,"['Indian', 'South Indian']",Al Nahda,Al Mawadah Cafeteria
+1545,,['Burger'],Al Shuwaihean,Al Wasl Cafeteria
+1546,,['Fast Food'],University City,Rukn Al Shawarma
+1547,,"['Cafe', 'Desserts']",University City,Gram Cafe
+1548,,"['Kerala', 'South Indian']",Muwailih Commercial,Thekkini
+1549,,['Beverages'],Al Khan,Asaeir Al Khan
+1550,,"['Fast Food', 'Juices']",University City,Rukn Muwalih Cafeteria
+1551,,"['Beverages', 'Fast Food']","Al Majaz Waterfront, Al Majaz 3",Fruit Gang
+1552,,"['Juices', 'Desserts']",Al Taawun,Abu Shaker Juices & Sweets
+1553,,"['Pakistani', 'Bangladeshi', 'Indian']",Al Majaz,Faan Al Dhiyafah Cafeteria
+1554,,['Cafe'],Industrial Area,Tulip Cafe
+1555,,"['Kerala', 'Indian', 'Fast Food']",Al Majaz,Shatee Al Madeena Restaurant
+1556,,['Fast Food'],Muwailih Commercial,Friends Cafeteria
+1557,,"['Indian', 'Fast Food', 'Juices']",Industrial Area,Al Nadif Cafeteria
+1558,,['Indian'],Industrial Area,Sydney Restaurant
+1559,,"['Fast Food', 'Indian']",Maysaloon,Palma Cafeteria
+1560,,['Cafe'],University City,Old Caf
+1561,,"['Fast Food', 'Desserts']",Saif Zone,WOFL
+1562,,['Fast Food'],Al Shuwaihean,Al Umna Cafeteria
+1563,,"['Indian', 'South Indian']",Al Nud,Cafeteria Al Dhawi
+1564,,"['Fast Food', 'Juices']",Industrial Area,Al Maha Cafeteria
+1565,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Al Fanar
+1566,,['Fast Food'],Wasit Suburb,Cafeteria Atayab Al Sham
+1567,,"['Indian', 'North Indian']",Industrial Area,Al Usrah Al Arabiah
+1568,,"['Beverages', 'Juices', 'Desserts']",University City,Juices Time
+1569,,['Cafe'],University City,Pine Corner Café
+1570,,['Fast Food'],Al Ghuwair,Al Thakrayat Cafeteria
+1571,,"['Kerala', 'Indian']","Grand Mall, Al Manakh",Spicy Village
+1572,,"['Arabian', 'Middle Eastern', 'Desserts', 'Juices']",Al Majaz,Dallah Al Magaz
+1573,,['Egyptian'],University City,Koshari Gourmet
+1574,,"['Fast Food', 'Beverages']",Al Qulayaa,Hummus Cafeteria
+1575,,"['Beverages', 'Juices', 'Ice Cream']",Al Shuwaihean,Mumbai Cool Lassi Shop
+1576,,['Fast Food'],Muwailih Commercial,Best Chicken Cafeteria
+1577,,"['Indian', 'South Indian', 'North Indian']",Al Majaz,Blue Dana Restaurant
+1578,,['Fast Food'],University City,Samoon Iraqi
+1579,,"['Thai', 'Juices']","Al Shaab Village, Al Riqqa Suburb",Thai Fruits
+1580,,"['Fast Food', 'Indian', 'South Indian']",Industrial Area,Al Shorafa Cafeteria
+1581,,['Fast Food'],"Zero 6, University City",Garrett Popcorn
+1582,,['Fast Food'],Al Majaz,Idris Cafeteria
+1583,,"['Arabian', 'Middle Eastern']",University City,Al Reyadi Diet Food
+1584,,['Sri Lankan'],Al Qulayaa,Lualua Al Nahar Restaurant
+1585,,['South Indian'],Muwailih Commercial,Dar Al Jawdah
+1586,,"['Afghan', 'Grill']",Industrial Area,Shay Al Bokhar Cafeteria
+1587,,['Pakistani'],Al Majaz,Hadiqat Al Safa Restaurant
+1588,,"['Fast Food', 'Beverages']",Industrial Area,Al Umsiah Restaurant
+1589,,"['Kerala', 'South Indian']",Al Shuwaihean,Al Ramziah Cafeteria
+1590,,"['Filipino', 'Thai', 'Fast Food']",Al Majaz,Taste Philippines Restaurant
+1591,,['Fast Food'],Al Manakh,Al Thameed Cafeteria
+1592,,['Fast Food'],Khor Fakkan,Green Valley
+1593,,"['Desserts', 'Arabian', 'Middle Eastern']",Al Majaz,Kiwan Sweets
+1594,,"['Indian', 'Chinese']",Khor Fakkan,Al Ikhtiyar Restaurant
+1595,,['Cafe'],"Novotel Sharjah Expo Centre Hotel, Al Taawun",Orient Cafe - Novotel Sharjah Expo Centre Hotel
+1596,,['Fast Food'],Al Mareija,Al Mubarakiah Cafeteria
+1597,,['Fast Food'],Al Mareija,Al Mubarakiah Cafeteria
+1598,,"['Indian', 'Fast Food']",Bu Tina,Anwar Al Sham Cafeteria
+1599,,['Cafe'],"72 Hotel, Al Majaz 1",Quadrant Coffee Shop - Hotel 72 by HUES
+1600,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Al Tabkh Al Irani
+1601,,"['Indian', 'Pakistani']",Al Mareija,Najmat Al Sama
+1602,,['Pakistani'],Industrial Area,Hadiqat Shalimar
+1603,,['Fast Food'],Maleha & Around,Ajwaa Al Madam Cafeteria
+1604,,['Pakistani'],Maleha & Around,Al Dheyouf Cafeteria
+1605,,['Pakistani'],Industrial Area,Bait Karachi Restaurant
+1606,,"['Pakistani', 'Biryani']",Muwailih Commercial,Biryani Kabab
+1607,,"['Indian', 'South Indian']",Al Mahatah,Al Noor Alhadi Cafeteria
+1608,,['Afghan'],Industrial Area,Madinat Al Barakah Restaurant
+1609,,"['Pakistani', 'Indian']",Industrial Area,Al Khatir Restaurant
+1610,,['Pakistani'],Industrial Area,Jsir Lahore
+1611,,['Fast Food'],Muwailih Commercial,Al Shibl Cafeteria
+1612,,"['Indian', 'South Indian']",Industrial Area,Al Iskemo Restaurant
+1613,,"['Fast Food', 'Burger']",Sharqan,Jabal Al Arab
+1614,,['Fast Food'],Al Riqqa Suburb,Jabal Al Tubah Cafeteria
+1615,,['Indian'],Al Nabba,Al Nawadir Cafeteria
+1616,,['Indian'],Industrial Area,Al Muhjah
+1617,,"['Arabian', 'Middle Eastern']",Al Nabba,Al Nargis Cafeteria
+1618,,['Desserts'],Khor Fakkan,Kingberry
+1619,,"['Indian', 'Fast Food']",Industrial Area,Jonaki
+1620,,['Pakistani'],Industrial Area,Burj Khaibar Restaurant
+1621,,"['South Indian', 'Kerala']",Muwailih Commercial,Jabal Muwaileh Restaurant
+1622,,['Fast Food'],Khor Fakkan,Laban Barid Cafeteria
+1623,,['South Indian'],Industrial Area,Al Taqaddam Restaurant
+1624,,"['South Indian', 'North Indian']",Al Nabba,Zahra Al Rahmanya Cafeteria - كافتريا...
+1625,,"['Arabian', 'Middle Eastern', 'Grill']",Al Majaz,Tabkhat Darna Restaurant
+1626,,"['Kerala', 'Indian', 'Fast Food']",University City,Fakhar Al Dar Cafeteria
+1627,,"['Fast Food', 'South Indian', 'Chinese']",University City,Tea Arts Cafeteria
+1628,,"['Arabian', 'Middle Eastern', 'Grill']",Al Majaz,Tabkhat Darna Restaurant
+1629,,"['Pakistani', 'Indian', 'Fast Food']",Al Nahda,Rukn Al Sadara Restaurant
+1630,,"['Street Food', 'Juices']",Muwailih Commercial,Dar Al Shay & Haleeb
+1631,,"['Desserts', 'Arabian', 'Middle Eastern']",Al Taawun,Ayam Amman
+1632,,['Fast Food'],Abu Shagara,Bait Al Farhah Cafeteria
+1633,,['Fast Food'],Halwan Suburb,Al Jalla Cafeteria
+1634,,['Pakistani'],Industrial Area,Burj Al Madina Restaurant
+1635,,['Indian'],Saif Zone,Taj Al Madina
+1636,,"['Ice Cream', 'Desserts']","Expo Centre Sharjah, Al Taawun",Häagen-Dazs
+1637,,"['Japanese', 'Sushi']","Sharjah National Park, University City",Omagi Sushi
+1638,,['Healthy Food'],"Aljada by ARADA, University City",Acai and Co - أكاى اند كو
+1639,,"['Fast Food', 'Juices']",Al Ghuwair,Qaiser Al Yash Cafeteria
+1640,,['Portuguese'],"Al Shaab Village, Al Riqqa Suburb",My Churro
+1641,,"['Arabian', 'Middle Eastern']",Maysaloon,Al Subat Restaurant
+1642,,['Pakistani'],Industrial Area,Danat Al Madinah Restaurant
+1643,,['Fast Food'],Al Qulayaa,Najmat Al Fisht Cafeteria
+1644,,"['Grill', 'Fast Food']",Al Majaz,Al Melh Al Bahri
+1645,,"['Pakistani', 'Indian']",Industrial Area,Bab Al Khan
+1646,,"['Fast Food', 'Juices']",Maleha & Around,Al Khatwa Cafeteria
+1647,,['Pakistani'],Al Mujarrah,Al Ajdad Restaurant
+1648,,['Seafood'],Al Nud,Shatee Al Bahr Fish Cooking
+1649,,"['Fast Food', 'Beverages']",University City,Al Manafith Cafeteria
+1650,,"['Grill', 'Indian', 'Seafood', 'Fast Food', 'Beverages']",Al Nahda,Grill Box
+1651,,"['Indian', 'South Indian']",Bu Tina,Madeenath Bukhara Restaurant
+1652,,['Fast Food'],Halwan Suburb,Burj Al Yarmook Cafeteria
+1653,,"['Egyptian', 'Arabian', 'Middle Eastern']",Al Khan,Layali Al Neel
+1654,,"['Indian', 'South Indian', 'Pakistani']",Industrial Area,Al Talaa Restaurant
+1655,,['Fast Food'],Al Mareija,Mohammed Al Ali
+1656,,['Pakistani'],Abu Shagara,Al Mikyal Al Thahbi Restaurant
+1657,,['Indian'],Al Mareija,Al Jaberi Cafeteria
+1658,,['South Indian'],Al Nahda,Ammachi Plavu
+1659,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Falafel Umdah
+1660,,"['Fast Food', 'Grill', 'Indian', 'Arabian', 'Juices']",Abu Shagara,Hot Pot Cafeteria
+1661,,"['Fast Food', 'Juices']","Sahara Centre, Al Nahda",Kids Corner (Rukn Al Atfal)
+1662,,['Asian'],Abu Shagara,Afamia Cafeteria
+1663,,['Pakistani'],Industrial Area,Jawan
+1664,,['South Indian'],Bu Tina,Indian Taste Cafeteria
+1665,,['South Indian'],Abu Shagara,Rutchi Restaurant
+1666,,"['Fast Food', 'Burger']","Sharjah National Park, University City",Crunchy Bite
+1667,,['Fast Food'],Al Majaz,Wadi Al Shay
+1668,,"['Indian', 'Pakistani']",Al Jubail,Ahmed Al Rais Cafeteria
+1669,,['Fast Food'],Al Qulayaa,Al Bait Al Reyfe Cafeteria
+1670,,"['Middle Eastern', 'Arabian']",Al Nahda,Zahrat Al Quds Restaurant
+1671,,['Cafe'],University City,My Specialty Coffee
+1672,,"['Middle Eastern', 'Indian', 'Fast Food']",Wasit Suburb,Green Corner Restaurant
+1673,,"['Arabian', 'Middle Eastern', 'Street Food', 'Beverages']",University City,Mallah Cafeteria
+1674,,"['Bakery', 'Cafe']",Industrial Area,Sugar Box
+1675,,"['Fast Food', 'Juices']",University City,Shai Al Tanour Cafeteria
+1676,,"['Fast Food', 'Juices']",Al Sabkha,Al Shatir
+1677,,['Fast Food'],Al Riqqa Suburb,Potato Corner
+1678,,"['Fast Food', 'Juices']",Halwan Suburb,Al Rayan Cafeteria
+1679,,['Fast Food'],Al Nabba,Rukin Al Finjan Cafeteria
+1680,,['Fast Food'],Al Majaz,Al Hadaf Al Thahabi Cafeteria
+1681,,"['Chinese', 'Beverages', 'Fast Food']",Al Ghuwair,Iqbal Cafeteria
+1682,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Mathaq Al Fakhar
+1683,,"['Arabian', 'Middle Eastern', 'Seafood']",Industrial Area,Asifah Restaurant
+1684,,['Pakistani'],Industrial Area,Al Mashawi Al Taibah Restaurant
+1685,,['Fast Food'],Al Mirgab,Bissan Cafeteria
+1686,,"['Cafe', 'Desserts']",University City,Konafa Coffee
+1687,,"['Fast Food', 'Beverages', 'Juices', 'Tea']",University City,Nakhat Al Shai Cafeteria
+1688,,['Fast Food'],University City,Wadi Jinan Cafeteria
+1689,,"['Indian', 'Chinese']",Al Mahatah,Naseem Alward
+1690,,"['Fast Food', 'Juices', 'Indian']",Al Soor,Al Mubaraz Cafeteria
+1691,,['Cafe'],"Pullman Sharjah, Al Taawun",The Junction- Pullman Sharjah
+1692,,"['South Indian', 'Beverages']",Muwailih Commercial,Al Wajabat Al Khafifah Cafeteria
+1693,,"['Desserts', 'Bakery']",Khor Fakkan,Mr.Cake
+1694,,['Mandi'],Abu Shagara,Am Naji Mandi Restaurant
+1695,,['Indian'],Industrial Area,Jasar Al Sajja Restaurant
+1696,,"['Arabian', 'Middle Eastern']",Al Mahatah,Al Batoul Cafeteria
+1697,,['Mexican'],University City,Hola! Empanada
+1698,,['Fast Food'],Industrial Area,Dar Al Ghowair Cafeteria
+1699,,['Pakistani'],Industrial Area,Pak Al Reyan Restaurant
+1700,,['Bangladeshi'],Al Taawun,Adhwa Al Nahda
+1701,,"['Arabian', 'Middle Eastern', 'Fast Food']","City Centre Al Zahia, University City",Meat Z Chicken
+1702,,"['Fast Food', 'Burger']",Al Mujarrah,Dar Al Zain Cafeteria
+1703,,['Fast Food'],Al Manakh,Rukin Al Kafayef Cafeteria
+1704,,"['Arabian', 'Grill', 'Lebanese', 'Middle Eastern']",Al Majaz,Ghaith Al Sham
+1705,,"['Fast Food', 'Arabian', 'Middle Eastern']",Bu Tina,Jamal Al Sham
+1706,,['Cafe'],University City,Baden Baden Cafe
+1707,,"['Desserts', 'Bakery']",Industrial Area,HappyBox.com
+1708,,"['Seafood', 'Arabian', 'Middle Eastern']",University City,Wadi Al Neel Al Shebi
+1709,,['Fast Food'],Al Mahatah,Al Mathaq Al Awal
+1710,,"['Kashmiri', 'Afghan', 'Pakistani']",Industrial Area,Shams Kashmir Restaurant
+1711,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Al Yawar
+1712,,['Indian'],Al Nasseriya,Spicy Corner Restaurant
+1713,,['Chinese'],Al Ghuwair,Al Shuwaiter Restaurant
+1714,,['Fast Food'],Industrial Area,Rukn Al Waqt
+1715,,"['Arabian', 'Middle Eastern', 'Fast Food']","City Centre Al Zahia, University City",Meat Z Chicken
+1716,,['Seafood'],Khor Fakkan,Al Aristocraty Sea Food Restaurant
+1717,,"['Kashmiri', 'Afghan', 'Pakistani']",Industrial Area,Shams Kashmir Restaurant
+1718,,['Street Food'],Muwailih Commercial,Desi Food Counter
+1719,,['Pakistani'],Industrial Area,Al Sana Restaurant
+1720,,['Fast Food'],Muwailih Commercial,Al Fejel Cafeteria
+1721,,"['Pakistani', 'Indian']",Industrial Area,Bahr Karachi Restaurant
+1722,,"['Fast Food', 'Indian', 'Juices']",Industrial Area,Sina Al Madina Restaurant
+1723,,['Fast Food'],Muwailih Commercial,Bab Al Safa Cafeteria
+1724,,"['Arabian', 'Middle Eastern', 'Grill', 'Fast Food']","Sharjah Co-Operative Society, University City",Al Bustan Al Malaky Mandi Restaurant & Kitchen
+1725,,"['Arabian', 'Middle Eastern']",Al Mareija,Lulual Sadaf Restaurant
+1726,,['Fast Food'],Al Riqqa Suburb,Al Shathir Cafeteria
+1727,,['Pakistani'],Industrial Area,Shams Muwailih
+1728,,"['Pakistani', 'Indian']",Industrial Area,Badr Al Madina Restaurant
+1729,,"['Healthy Food', 'International']",Al Majaz,The Vegan Table
+1730,,"['Middle Eastern', 'Arabian']",Khor Fakkan,Rukn Al Dhaif
+1731,,"['Arabian', 'Middle Eastern']",Muwailih Commercial,Al Ghuthiah Restaurant
+1732,,['Desserts'],Al Majaz,Lotsa! Lazy Cake
+1733,,"['Indian', 'North Indian', 'Desserts']",Al Shuwaihean,Al Rolla Sweets
+1734,,"['Fast Food', 'Juices', 'Tea']",Al Shuwaihean,Rukn Al Shawaiheen Cafeteria
+1735,,"['Indian', 'Arabian', 'Middle Eastern']","Sahara Beach Hotel & Spa, Al Khan",Al Dana Restaurant - Sahara Beach Resort & Spa
+1736,,['Indian'],Al Taawun,Al Najwa Cafeteria
+1737,,"['Indian', 'Chinese']",Industrial Area,Khan Al Kalily
+1738,,['Desserts'],Al Majaz,Lotsa! Lazy Cake
+1739,,"['Desserts', 'Ice Cream', 'Beverages']",University City,Mix Berry
+1740,,"['Pakistani', 'Indian']",Muwailih Commercial,Al Ameera Al Saeedah Restaurant
+1741,,"['Seafood', 'Grill']",Al Nabba,Al Manufiah Fish Cooking
+1742,,"['Indian', 'Arabian', 'Middle Eastern']","Sahara Beach Hotel & Spa, Al Khan",Al Dana Restaurant - Sahara Beach Resort & Spa
+1743,,"['Fast Food', 'Beverages']","Aljada by ARADA, University City",Hoop
+1744,,"['Healthy Food', 'Poké']","Aljada by ARADA, University City",Poke and Co.
+1745,,['Indian'],Muwailih Commercial,Khaiber Restaurant
+1746,,"['Fast Food', 'Juices']",Al Majaz,Dar Al Rahamaniyah
+1747,,"['Arabian', 'Middle Eastern']",Al Nabba,Al Imberatour Restaurant
+1748,,['Pakistani'],Al Mujarrah,Dar Al Nujoom
+1749,,"['Arabian', 'Middle Eastern']",Maysaloon,Bab Abu Shagarah
+1750,,"['Indian', 'Fast Food', 'Beverages']",Al Khan,Sabah Al Saadah Cafeteria
+1751,,"['Fast Food', 'Juices']",Muwailih Commercial,Noor Al Falak Cafeteria
+1752,,['Bakery'],Industrial Area,Al Sana Bakery
+1753,,['South Indian'],Al Nabba,Kunooz Al Sharq
+1754,,['Fast Food'],University City,VOX Cinemas
+1755,,['Cafe'],"Lou' Lou'a Beach Resort, Al Khan",Coffee Shop - Lou' Lou'a Beach Resort
+1756,,['Kerala'],Maleha & Around,Green Tea Restaurant
+1757,,['Fast Food'],Muwailih Commercial,Istirahat Al Rolla Cafeteria
+1758,,"['Fast Food', 'Indian', 'Arabian', 'Middle Eastern']",Industrial Area,Al Shams Al Jamilah Cafeteria
+1759,,"['Fast Food', 'Arabian', 'Middle Eastern']",Industrial Area,Bahar Al Khaleej Restaurant
+1760,,"['Indian', 'South Indian', 'North Indian', 'Pakistani']",Industrial Area,Accord Restaurant & Sweets
+1761,,['International'],University City,Healthy Grams
+1762,,"['Fast Food', 'Beverages']",Al Soor,Abu Al Abas Foul
+1763,,['Indian'],Al Shuwaihean,Al Hujun Restaurant
+1764,,"['Fast Food', 'Indian', 'Juices']",Muwailih Commercial,Asia Grill Cafeteria
+1765,,['Cafe'],"City Centre Al Zahia, University City",iCoffee
+1766,,['Burger'],Khor Fakkan,Corners Food Truck
+1767,,"['Fast Food', 'Indian', 'Juices']",Muwailih Commercial,Asia Grill Cafeteria
+1768,,['Indian'],Muwailih Commercial,Manarat Muwaileh Restaurant
+1769,,"['Indian', 'Fast Food', 'Beverages']",Industrial Area,Al Wakra Restaurant
+1770,,['Desserts'],Halwan Suburb,Milad Iranian Sweet
+1771,,['Fast Food'],Al Manakh,Al Qamar Cafeteria
+1772,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Al Tika Al Khas
+1773,,"['Arabian', 'Middle Eastern']",Maysaloon,Al Quteena Restaurant
+1774,,['South Indian'],Al Taawun,Sama Al Tawoon
+1775,,"['Fast Food', 'Beverages']",Al Nasseriya,Al Barzah Cafeteria
+1776,,"['Arabian', 'Middle Eastern']",University City,Khafeef Wa Saree
+1777,,"['Fast Food', 'Juices']",Industrial Area,Al Jerf Cafeteria
+1778,,"['South Indian', 'Indian']",Muwailih Commercial,Taj Al Noor
+1779,,"['Indian', 'South Indian']",Wasit Suburb,Al Janoob Cafeteria
+1780,,"['Arabian', 'Middle Eastern', 'Desserts']",Al Taawun,Carthage Sweet
+1781,,['Desserts'],Halwan Suburb,Milad Iranian Sweet
+1782,,"['Fast Food', 'Indian', 'Beverages']",Wasit Suburb,Shay Al Dana Cafeteria
+1783,,"['Arabian', 'Middle Eastern', 'Salad', 'Healthy Food']",Al Majaz,Hummus Brothers
+1784,,"['North Indian', 'Indian']","Lou' Lou'a Beach Resort, Al Khan",Al Waha - Lou' Lou'a Beach Resort
+1785,,"['Indian', 'Pakistani']",Industrial Area,Al Huda Restaurant
+1786,,['Fast Food'],Khor Fakkan,New Al Fouj
+1787,,['Cafe'],University City,Seven Speciality Coffee
+1788,,"['Indian', 'Pakistani']",Muwailih Commercial,Tareeq Al Farwaniah Cafeteria
+1789,,"['Fast Food', 'Indian']",Al Mareija,Limara Cafeteria
+1790,,['North Indian'],Industrial Area,Al Iftikhar Restaurant
+1791,,"['Indian', 'Fast Food']",Al Khan,Noor Al Masa Cafeteria
+1792,,"['Bakery', 'Fast Food']",Khor Fakkan,Al Wafa Automatic Bakery
+1793,,"['Indian', 'Middle Eastern']",Muwailih Commercial,Bab Al Barka Cafeteria
+1794,,['Fast Food'],Industrial Area,Al Zeyara Cafeteria
+1795,,['Fast Food'],Industrial Area,Murghim Cafeteria
+1796,,['Fast Food'],Muwailih Commercial,Zahrat Muwialeh Cafeteria
+1797,,"['Indian', 'Pakistani']",Maleha & Around,Kanz Al Sajaah
+1798,,"['Indian', 'South Indian', 'North Indian', 'Pakistani']",Industrial Area,Al Rahbah
+1799,,"['Burger', 'Mexican', 'Grill', 'Fast Food']",Halwan Suburb,Chicken Time
+1800,,"['Desserts', 'Beverages']",Khor Fakkan,Freej Halwan
+1801,,['Fast Food'],Khor Fakkan,Al Thannaf
+1802,,"['Desserts', 'Beverages']","Al Fardan Centre, Al Majaz",Saj Al Balad
+1803,,['Fast Food'],Al Mujarrah,Al Masa Al Hamraa Cafeteria
+1804,,['Pakistani'],Industrial Area,Norestan Restaurant
+1805,,"['Fast Food', 'Indian']",Bu Tina,Jsir Al Buteena Cafeteria
+1806,,['Indian'],Industrial Area,Ahl Al Khair Restaurant
+1807,,"['Fast Food', 'Chinese', 'Grill', 'Beverages']",Maleha & Around,Madinat Al Sajaa Cafeteria
+1808,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Hikaya Pastry
+1809,,"['Bakery', 'Lebanese']",Bu Tina,Al Ameer Bakery & Restaurant
+1810,,"['Arabian', 'Middle Eastern', 'Pizza']",University City,Pastry Palace
+1811,,['Fast Food'],Industrial Area,Souq Al Shay
+1812,,['International'],University City,Loaf & More
+1813,,['Middle Eastern'],Al Majaz,Dhaw Al Qamar Pastry
+1814,,"['Ice Cream', 'Desserts']","Aljada by ARADA, University City",Amorino
+1815,,"['Fast Food', 'Chinese', 'Indian', 'Juices']",Abu Shagara,Jesr Al Shahamah Cafeteria
+1816,,['Cafe'],Al Mujarrah,Museum of Islamic Civilisation Cafe
+1817,,"['Nepalese', 'Street Food']",Al Khan,Momo-Licious
+1818,,"['Arabian', 'Middle Eastern', 'Fast Food']",University City,Habat Falafel
+1819,,['Fast Food'],Halwan Suburb,Al Shay Al Raqi Cafeteria
+1820,,['Mandi'],Maleha & Around,Dar Al Seyouh
+1821,,['Indian'],Al Manakh,Garden View Cafeteria
+1822,,['Indian'],Al Manakh,Garden View Cafeteria
+1823,,['Pakistani'],Industrial Area,Al Irsal Restaurant
+1824,,"['Kerala', 'South Indian']",Industrial Area,Madinat Malabar Restaurant
+1825,,['Cafe'],Wasit Suburb,Khayal Cafe
+1826,,['Fast Food'],Muwailih Commercial,Kooh Almashawi Cafeteria
+1827,,['Pakistani'],Industrial Area,Burj Al Jawad Restaurant
+1828,,['Pizza'],Al Majaz,SoDo Sourdough Pizza
+1829,,"['Arabian', 'Middle Eastern', 'Fast Food']",Khor Fakkan,Falafel Al Nile Restaurant
+1830,,['Cafe'],University City,Afternoon
+1831,,"['Arabian', 'Middle Eastern']",Mughaidir Suburb,Al Luluat Al Shaba Popular Kitchen
+1832,,['Fast Food'],Industrial Area,Damazin Cafeteria
+1833,,"['Indian', 'South Indian']",Muwailih Commercial,Al Rawdha Al Khadhra
+1834,,"['Indian', 'South Indian']",Khor Fakkan,Al Jamal Restaurant
+1835,,['Fast Food'],"Aljada by ARADA, University City",Spicy Station
+1836,,"['Indian', 'Fast Food']",Al Mareija,Kota Cafeteria
+1837,,"['Indian', 'Fast Food']",Al Mareija,Kota Cafeteria
+1838,,"['Indian', 'South Indian']",Khor Fakkan,Al Jamal Restaurant
+1839,,['Indian'],Industrial Area,Al Sharah Restaurant
+1840,,"['North Indian', 'Pakistani']",Industrial Area,Manu Restaurant
+1841,,['International'],"Al Majaz Waterfront, Al Majaz 3",Auberge
+1842,,"['Indian', 'Pakistani', 'Chinese']",Industrial Area,Qasr Al Baik Restaurant & Cafeteria
+1843,,"['Arabian', 'Middle Eastern']",University City,Rukn Al Mahashi
+1844,,"['Cafe', 'Desserts', 'Portuguese']",University City,Churros Time
+1845,,['Pakistani'],Industrial Area,Sabir Sweets & Restaurant
+1846,,['Desserts'],University City,Kanafty Sweet
+1847,,['Seafood'],Al Mahatah,Al Mahalla Al Kubra Fish Cooking
+1848,,['Fast Food'],Al Khan,Honey Tea Cafeteria
+1849,,['Fast Food'],Muwailih Commercial,Al Shai Al Haqiqi Cafeteria
+1850,,['Kerala'],Muwailih Commercial,Zafran Al Asli Cafeteria
+1851,,"['Fast Food', 'Grill']",Al Mahatah,Umm Durman
+1852,,"['Arabian', 'Middle Eastern']",Industrial Area,Abr Al Nejoum Restaurant
+1853,,['Fast Food'],Muwailih Commercial,Al Shai Al Haqiqi Cafeteria
+1854,,['Pakistani'],Industrial Area,Al Najm Al Gutbi
+1855,,"['Arabian', 'Seafood']",Khor Fakkan,Al Zubarah Restaurant
+1856,,"['Indian', 'South Indian']",Bu Tina,Al Luluah Al Fadhiya
+1857,,['Cafe'],Maleha & Around,Saraya Cafe
+1858,,['Fast Food'],Industrial Area,Al Dhawabit
+1859,,['Pakistani'],Industrial Area,Al Firdous Restaurant
+1860,,['Pakistani'],Al Nahda,Zahrat Al Taif Cafeteria
+1861,,['Indian'],Muwailih Commercial,Al Filfil Al Har Cafeteria
+1862,,['Pakistani'],Industrial Area,Al Hoot Al Abyad Cafeteria
+1863,,['Kebab'],"Zawaya Walk, Mughaidir Suburb",Kabab Nashif Restaurant
+1864,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Olympic
+1865,,"['Cafe', 'Desserts', 'Portuguese']",University City,Churros Time
+1866,,"['Indian', 'South Indian', 'Kerala']",Industrial Area,Al Tabaq Al Hindi Restaurant
+1867,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Olympic
+1868,,"['Indian', 'South Indian', 'Kerala']",Industrial Area,Al Tabaq Al Hindi Restaurant
+1869,,"['Arabian', 'Middle Eastern']",University City,Ahil Al Shai
+1870,,"['Indian', 'Fast Food']",Industrial Area,Sahwat Al Khail
+1871,,['Pakistani'],Industrial Area,Madinat Al Aroma
+1872,,['Indian'],Industrial Area,Al Faras Al Abiath Cafeteria
+1873,,['Fast Food'],Al Nasseriya,Buhairat Aden Cafeteria
+1874,,['Cafe'],University City,Vanilla Cake Restaurant
+1875,,['Desserts'],"Al Qasba, Al Khan",Crep'e n Chu
+1876,,"['Egyptian', 'Arabian', 'Middle Eastern']",Bu Tina,Nada Al Ward
+1877,,"['Arabian', 'Middle Eastern']",Muwailih Commercial,Al Maan Wa Al Salwa
+1878,,"['Indian', 'North Indian', 'Pakistani']",Industrial Area,Al Sufra Al Hindia Restaurant
+1879,,"['Indian', 'South Indian']",Khor Fakkan,Al Khaleej
+1880,,"['Fast Food', 'Juices']",Al Shuwaihean,Marrakesh Cafeteria
+1881,,['Fast Food'],Al Nasseriya,Buhairat Aden Cafeteria
+1882,,['Fast Food'],Khor Fakkan,Golden Fish
+1883,,"['Biryani', 'BBQ', 'Juices', 'Fast Food']",Industrial Area,Sabaa Njoom
+1884,,"['Indian', 'South Indian']",Khor Fakkan,Al Falah
+1885,,"['Burger', 'Fast Food']","Al Shaab Village, Al Riqqa Suburb",District Fast Food
+1886,,['Mandi'],Wasit Suburb,Five Star Palace Restaurant
+1887,,['Burger'],Industrial Area,Al Thawaq Aljaid Restaurant
+1888,,"['North Indian', 'Street Food']",Al Ghuwair,Geetar Restaurant
+1889,,['Fast Food'],Khor Fakkan,Al Mudaifi
+1890,,['Pakistani'],Maleha & Around,Najmat Al Sajaah Restaurant
+1891,,"['Arabian', 'Middle Eastern']","Al Shaab Village, Al Riqqa Suburb",Fatayer & Kushari
+1892,,['North Indian'],Industrial Area,Al Jazeera Al Hamraa Restaurant
+1893,,['Fast Food'],"Souq Al Jubail, Al Jubail",Tabakh Al Jubail Restaurant
+1894,,['Pakistani'],Industrial Area,Al Laith Al Abyad
+1895,,['Lebanese'],Al Nabba,Al Saaj Al Shami
+1896,,"['Fast Food', 'Pizza']","Oceanic Khorfakkan Resort & Spa, Khor Fakkan",Amwaj Pool Bar - Oceanic Khorfakkan Resort & Spa
+1897,,['Pakistani'],Maleha & Around,Waseem Karim Restaurant
+1898,,['Fast Food'],Halwan Suburb,Bab Al Jazeera
+1899,,['Cafe'],University City,Smart Corner Café
+1900,,['Fast Food'],Abu Shagara,Qamar Al Maliha Cafeteria
+1901,,['Egyptian'],Al Qulayaa,Koshary & Mahashy Al Neel
+1902,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Majaz,Hannouf Restaurant
+1903,,"['North Indian', 'Chinese']",Industrial Area,Al Ikhtiyar Al Sary Restaurant
+1904,,['Fast Food'],Al Majaz,Atyab Luqmah
+1905,,['Desserts'],"Al Majaz Waterfront, Al Majaz 3",Kullaj Omar
+1906,,"['Arabian', 'Middle Eastern', 'Grill']",University City,Al Bastakiah Bakery & Kabab Al Khas
+1907,,"['Fast Food', 'Grill']",University City,Fresh Grill
+1908,,"['Italian', 'Fast Food']",University City,Tawa
+1909,,"['Fast Food', 'Burger']","Aljada by ARADA, University City",Krush Burger
+1910,,"['Indian', 'Arabian', 'Middle Eastern']",Industrial Area,Zakia Restaurant
+1911,,['Cafe'],"Aljada by ARADA, University City",Retro 7 Cafe
+1912,,['Fast Food'],"Aljada by ARADA, University City",Musl
+1913,,"['Fast Food', 'Beverages']",Al Taawun,Najmat Al Tareeq Al Awal
+1914,,['Fast Food'],Al Ghuwair,Liberty Cafeteria
+1915,,"['Desserts', 'Beverages']",Al Khan,Sweety Shawarma
+1916,,"['Street Food', 'Indian']",Abu Shagara,Chaat Bistro
+1917,,['Fast Food'],Sharqan,Shay Al Hirah Cafeteria
+1918,,['Kerala'],Industrial Area,Sanaa Al Madeena Cafeteria
+1919,,['International'],University City,Izumi Restaurant
+1920,,"['Arabian', 'Middle Eastern']",Muwailih Commercial,Hot Oven
+1921,,"['Arabian', 'Middle Eastern']",Bu Tina,Al Tahoonah Al Zarqa Cafeteria
+1922,,['Egyptian'],Al Soor,Layali Masriah Restaurant
+1923,,['Arabian'],Al Mahatah,Falafil Al Emad
+1924,,['Indian'],Al Khan,Al Ahlam Al Thahbiah Restaurant (Golden Dream...
+1925,,"['Cafe', 'Finger Food']","Four Points by Sheraton, Al Nud",Library Café
+1926,,"['Arabian', 'Middle Eastern', 'Grill']",Al Majaz,Manarat Al Majaz Cafeteria
+1927,,['Juices'],"Sharjah National Park, University City",Bora Bora Juice
+1928,,"['Burger', 'Fast Food']",Al Nabba,Najm Albahr
+1929,,['International'],Al Khan,Foodio - Time Express Hotel
+1930,,['Fast Food'],Industrial Area,Qemat Everest Cafeteria
+1931,,"['Fast Food', 'Juices']",Abu Shagara,Najamat  Al Jazeera Cafeteria
+1932,,['Cafe'],University City,OTO One Time Only
+1933,,"['Lebanese', 'Street Food']",University City,Shawarma Dose
+1934,,"['Arabian', 'Middle Eastern', 'Bakery', 'Desserts']",Al Taawun,Al Sultan International Confectionery & Chocolate
+1935,,"['Seafood', 'Asian', 'Sushi']","Sahara Centre, Al Nahda",Sea Fish Café
+1936,,"['Fast Food', 'Burger']","Al Shaab Village, Al Riqqa Suburb",Arabat Al Dajaj(The Truck)
+1937,,['Bakery'],University City,Al Safa Bakery
+1938,,"['Indian', 'Chinese', 'Mughlai']",Industrial Area,Cold River
+1939,,"['Fast Food', 'Beverages']",University City,Al Shamail Cafeteria
+1940,,"['Indian', 'South Indian']",Khor Fakkan,Al Seyah
+1941,,['Street Food'],Al Mahatah,Tareeq Al Qamar
+1942,,['Cafe'],University City,Beans Speciality Coffee
+1943,,"['Fast Food', 'Juices']",Muwailih Commercial,Tea Book Cafeteria
+1944,,"['Indian', 'North Indian']",Muwailih Commercial,Qasar Al Sharq Cafeteria
+1945,,"['South Indian', 'Chinese', 'Fast Food', 'Juices']",Industrial Area,Al Madina Express Food Cafeteria
+1946,,"['Beverages', 'Desserts']",Al Taawun,Karaz Al Sham Juice
+1947,,['International'],"Marbella Resort, Al Majaz 1",Cascade Pool Bar - Marbella Resort
+1948,,"['Fast Food', 'Juices']",Abu Shagara,Bait Al Yaqoot Cafeteria
+1949,,['Fast Food'],Al Nud,Al Shamsiah Cafeteria
+1950,,"['Sushi', 'Asian']","Aljada by ARADA, University City",Sushi Station
+1951,,['Fast Food'],Bu Tina,Al Samaa Cafeteria
+1952,,"['Fast Food', 'Juices']",Muwailih Commercial,Shams Al Bahar Cafeteria
+1953,,['Indian'],Maysaloon,Al Maqam Restaurant
+1954,,"['Arabian', 'Middle Eastern']",Industrial Area,Al Aqmar Restaurant
+1955,,"['Fast Food', 'Beverages']",Al Manakh,Al Ghada Fast Food
+1956,,['Desserts'],"City Centre Al Zahia, University City",Pop City
+1957,,"['Lebanese', 'Arabian', 'Middle Eastern']",Bu Tina,Manqushet Al Arz
+1958,,"['Fast Food', 'Beverages']",Al Manakh,Al Ghada Fast Food
+1959,,"['Lebanese', 'Arabian', 'Middle Eastern']",Bu Tina,Manqushet Al Arz
+1960,,['Beverages'],Al Khan,Eighty's Juice Hub
+1961,,['Fast Food'],Muwailih Commercial,Najmat Al Dar Cafeteria
+1962,,['Indian'],Muwailih Commercial,Sadaf Al Bahr Cafeteria
+1963,,"['Fast Food', 'Indian', 'Juices']",Industrial Area,Awraq Al Shay Al Thahabiah Cafeteria
+1964,,"['Indian', 'Chinese', 'Fast Food', 'Biryani']",Industrial Area,Al Tanzeel Restaurant
+1965,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Qulayaa,Nassem Al Sham
+1966,,['Cafe'],Khor Fakkan,Cupagahwa
+1967,,"['Indian', 'Fast Food', 'Juices']",Industrial Area,Bab Al Rahmaneya Cafeteria
+1968,,"['Arabian', 'Middle Eastern']",University City,Rukn Al Farooq Al Shami Restaurant
+1969,,['Indian'],Industrial Area,Manarat Al Madeenah Restaurant
+1970,,"['Fast Food', 'Juices']",Muwailih Commercial,Jasur Al Falah Cafeteria
+1971,,"['Fast Food', 'Juices']",Al Nabba,Sharee Al Refaa Cafeteria
+1972,,"['Arabian', 'Middle Eastern']",Industrial Area,Al Nahla Restaurant
+1973,,"['Indian', 'South Indian']",Industrial Area,Najmat Al Qaraien Restaurant
+1974,,['Seafood'],Al Qulayaa,Salat Al Sayad Seafoods
+1975,,"['Arabian', 'Middle Eastern']",Muwailih Commercial,Dar Al Marah
+1976,,"['Street Food', 'North Indian', 'Beverages']",Industrial Area,Yousif Abdullah Assad Ali Restaurant
+1977,,"['Fast Food', 'Juices']","Souq Al Jubail, Al Jubail",Noor Al Jubail Cafeteria
+1978,,['Fast Food'],Industrial Area,Chicken Crown Cafeteria
+1979,,['Indian'],Al Ghuwair,Rukn Al Tawabel Cafeteria
+1980,,['Indian'],"Al Shaab Village, Al Riqqa Suburb",Awaney
+1981,,"['Kerala', 'South Indian']",Industrial Area,Rangon
+1982,,['Fast Food'],Muwailih Commercial,Al Mlakh Al Kabera Cafeteria
+1983,,['Fast Food'],Sharqan,Al Shay Al Taibe Cafeteria
+1984,,"['Indian', 'South Indian']",Khor Fakkan,Al Shamikha
+1985,,"['Fast Food', 'Lebanese', 'Biryani', 'Beverages', 'South Indian']",Bu Tina,Bait Al Fanous
+1986,,"['Indian', 'Fast Food', 'Juices']",Maleha & Around,Al Bathaieh Restaurant
+1987,,"['Indian', 'Fast Food']",Al Nabba,Greens Cafeteria
+1988,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Nud,Zain Al Sham
+1989,,"['Indian', 'South Indian']",Industrial Area,Danya Restaurant
+1990,,['Indian'],Industrial Area,Hadiq Al Yasmeen
+1991,,['Fast Food'],Industrial Area,Nahla & Al Asal Cafeteria
+1992,,"['Arabian', 'Middle Eastern']",Al Shuwaihean,Al Wattan Cafeteria
+1993,,['Fast Food'],Al Riqqa Suburb,Village Tea
+1994,,"['Juices', 'Fast Food']",Al Riqqa Suburb,Nacher'z
+1995,,"['Indian', 'Kerala', 'Chinese']",Al Nabba,Al Ittihad Restaurant
+1996,,['Indian'],Al Manakh,Al Hoory Cafeteria
+1997,,['Fast Food'],Industrial Area,Nahla & Al Asal Cafeteria
+1998,,['Fast Food'],Al Riqqa Suburb,Village Tea
+1999,,"['Arabian', 'Middle Eastern']",Al Shuwaihean,Al Wattan Cafeteria
+2000,,['Fast Food'],University City,Hot Tea
+2001,,"['Juices', 'Fast Food']",Al Riqqa Suburb,Nacher'z
+2002,,"['Indian', 'Kerala', 'Chinese']",Al Nabba,Al Ittihad Restaurant
+2003,,['Fast Food'],"Al Shaab Village, Al Riqqa Suburb",The Truck
+2004,,"['Indian', 'Pakistani', 'Beverages']",Abu Shagara,Al Wajiha Cafeteria
+2005,,['Seafood'],University City,Al Sairm Sea Food
+2006,,['Fast Food'],Muwailih Commercial,Asier Al Ajayeb Cafeteria
+2007,,"['Fast Food', 'Indian']",Industrial Area,Makek Al Jawdah Cafeteria
+2008,,['Cafe'],University City,Nawaf Cafe
+2009,,"['Cafe', 'Burger', 'Desserts', 'Beverages']",Maleha & Around,Arooq Cafe
+2010,,['Cafe'],Industrial Area,Fikra Cafe
+2011,,"['South Indian', 'Indian']",Industrial Area,Al Bait Al Sagheer
+2012,,"['Indian', 'South Indian']",Halwan Suburb,Sharee Al Badia
+2013,,"['Indian', 'Biryani']",Industrial Area,Al Kahaf Restaurant
+2014,,"['Fast Food', 'Juices']","Souq Al Jubail, Al Jubail",Dibs Al Asal Cafeteria
+2015,,['International'],University City,Healthy And Diet
+2016,,"['Arabian', 'Middle Eastern']",Al Nabba,Al Ilteham Cafeteria
+2017,,"['Arabian', 'Middle Eastern', 'Fast Food']",Al Qulayaa,Nassem Al Sham
+2018,,['Fast Food'],Industrial Area,Zahrat Al Zaman
+2019,,['Cafe'],Industrial Area,Fikra Cafe
+2020,,['Fast Food'],Al Shuwaihean,Midan Al Rolla Cafeteria
+2021,,['Indian'],Industrial Area,Al Shuwaib Restaurant
+2022,,['Fast Food'],Al Shuwaihean,Tareeq Al Arouba Cafeteria
+2023,,"['Fast Food', 'Beverages']",Al Mareija,Sanaa Al Madeena Cafeteria
+2024,,"['Fast Food', 'Beverages']","Aljada by ARADA, University City",Mr.Brisket
+2025,,"['Indian', 'Biryani', 'Street Food']",Maleha & Around,Madinat Al Noor Cafeteria
+2026,,['Indian'],Khor Fakkan,Shatee Al Shabab
+2027,,"['Street Food', 'Arabian', 'Middle Eastern']",Al Riqqa Suburb,Falafil Al Astorah
+2028,,['Fast Food'],University City,Hot Tea
+2029,,"['South Indian', 'Indian']",Al Shuwaihean,Noor Al Zaman
+2030,,['Fast Food'],Industrial Area,Baydoon Cafeteria
+2031,,['Fast Food'],Khor Fakkan,Al Shabab
+2032,,"['Fast Food', 'Indian']",Al Nasseriya,Nabaa Al Ain
+2033,,['Fast Food'],Al Qulayaa,Shai Bel Fakhar Cafeteria
+2034,,['Fast Food'],Bu Tina,Sama Al Manama Cafeteria
+2035,,"['Indian', 'Fast Food']",Khor Fakkan,Seef Al Bahar
+2036,,"['Bakery', 'Pakistani']",Industrial Area,Mohd.Hanif Bakery
+2037,,['Pakistani'],Al Nahda,Al Khubor Restaurant
+2038,,['Fast Food'],Wasit Suburb,Shabab Al Hamriya Cafeteria
+2039,,['Indian'],Industrial Area,Al Nakha Restaurant
+2040,,['Cafe'],Khor Fakkan,Parma Cafe
+2041,,['African'],Al Taawun,Najimat Al Ibdaa Restaurant
+2042,,['Mediterranean'],Al Majaz,Seven Spisiz
+2043,,"['Fast Food', 'Juices']",Al Nud,Flafil Al Sham Cafeteria
+2044,,"['Fast Food', 'Beverages']",University City,Saalat Al Shay
+2045,,"['Indian', 'Seafood']",Al Nabba,City Fish Rest.
+2046,,['Fast Food'],Khor Fakkan,Potato Cafeteria
+2047,,['Bangladeshi'],Al Ghuwair,Barcode Restaurant
+2048,,"['Indian', 'Pakistani', 'Chinese', 'Fast Food']",Al Ghuwair,Pumpkin Restaurant
+2049,,['Fast Food'],Maleha & Around,Al Karim Cafeteria
+2050,,"['Arabian', 'Middle Eastern', 'Grill']",Al Majaz,Halab Al Shahba Restaurant
+2051,,"['Arabian', 'Middle Eastern']",Khor Fakkan,Ala Albal
+2052,,['Fast Food'],Al Shuwaihean,Al Bilsan Cafeteria
+2053,,"['South Indian', 'Chinese', 'Beverages']",Industrial Area,Red Falcon Cafeteria
+2054,,['Fast Food'],Al Riqqa Suburb,Burj Al Ramla Cafeteria
+2055,,"['Beverages', 'Desserts']",Al Majaz,Al Ruman Al Wardy Juicer
+2056,,['Fast Food'],Khor Fakkan,Al Qasr Al Shami Restaurant
+2057,,"['Fast Food', 'Grill', 'Chinese', 'Beverages']",Industrial Area,Tabaqat Cafeteria
+2058,,"['Fast Food', 'Grill']",Industrial Area,Alakel Al Sarea Restaurant
+2059,,['Fast Food'],Al Shuwaihean,Bawabat AlRolla Cafeteria
+2060,,"['Arabian', 'Middle Eastern', 'Tea']",Al Majaz,Al Breej
+2061,,['Iranian'],Al Majaz,Kabab Arbeel Al Iraqi
+2062,,"['Pakistani', 'Fast Food']",Industrial Area,Lyali Al Sharq Restaurant
+2063,,"['Cafe', 'Desserts']",Al Majaz,I Do
+2064,,['Fast Food'],Maleha & Around,Bab Al Farooj Cafeteria
+2065,,"['Arabian', 'Middle Eastern']",University City,Tahin & Ajin
+2066,,['Kashmiri'],University City,Al Shai Al Kashmiri Cafeteria
+2067,,"['Fast Food', 'Desserts', 'Juices']",University City,Juicy & Fresh Cafeteria
+2068,,"['Japanese', 'Sushi']",University City,Nagoya Restaurant & Cafe
+2069,,['Indian'],Al Ghuwair,Shay Al Jazat Cafeteria
+2070,,"['Kerala', 'South Indian', 'Beverages']",University City,Bawabt Muwailih
+2071,,['Fast Food'],University City,Bait Al Batata
+2072,,"['Arabian', 'Middle Eastern', 'Fast Food', 'Juices']",University City,Kookh Al Fataer
+2073,,['Fast Food'],University City,Bridle Burger
+2074,,"['Arabian', 'Middle Eastern']",Al Majaz,Al Tahouna Al Hadeetha
+2075,,['Indian'],Al Ghuwair,Pure Tea Cafeteria
+2076,,['Pakistani'],Maleha & Around,Stars Al Batayeh Restaurant
+2077,,['Fast Food'],University City,Bridle Burger
+2078,,"['Arabian', 'Middle Eastern']",Al Majaz,Al Tahouna Al Hadeetha
+2079,,['Pakistani'],Maleha & Around,Stars Al Batayeh Restaurant
+2080,,"['Arabian', 'Middle Eastern', 'Fast Food']","Sharjah National Park, University City",Al Areesh
+2081,,['Fast Food'],University City,Pizza Pizza
+2082,,"['Desserts', 'Cafe']","City Centre Al Zahia, University City",Cinnabon
+2083,,"['Indian', 'Fast Food', 'Juices']",Al Majaz,Hoor Al Ain
+2084,,"['Arabian', 'Middle Eastern', 'Grill']",Al Taawun,Aklat Jedodna Restaurant & Grill
+2085,,"['Fast Food', 'Juices']",University City,Zahrat Al Burtuqal Cafeteria
+2086,,"['Arabian', 'Middle Eastern', 'Fast Food']","Sharjah National Park, University City",Al Areesh
+2087,,"['Fast Food', 'Juices']",University City,Zahrat Al Burtuqal Cafeteria
+2088,,['Fast Food'],University City,Pizza Pizza
+2089,,"['Fast Food', 'American']","City Centre Al Zahia, University City",Smoke's Poutinerie
+2090,,['Beverages'],University City,Fruit Bowl
+2091,,"['International', 'Healthy Food', 'Juices']",Al Qulayaa,The Perfect Meal Cafeteria
+2092,,"['Italian', 'Pizza']","Zawaya Walk, Mughaidir Suburb",Red Tomato Pizza
+2093,,['Indian'],Abu Shagara,Zwaya Al Dar
+2094,,"['Desserts', 'Cafe']","City Centre Al Zahia, University City",Cinnabon
+2095,,"['Indian', 'Street Food', 'Desserts']",Abu Shagara,Prince Sweets Corner
+2096,,"['Juices', 'Beverages']","City Centre Al Zahia, University City",Jungle Juice
